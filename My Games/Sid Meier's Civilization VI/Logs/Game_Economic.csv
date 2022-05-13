@@ -1,0 +1,70 @@
+Turn, EventType, Resource, Amount, Player
+1, Initial Resources, LOC_RESOURCE_COCOA_NAME, 1, Unknown Civ
+1, Initial Resources, LOC_RESOURCE_COFFEE_NAME, 7, Unknown Civ
+1, Initial Resources, LOC_RESOURCE_COTTON_NAME, 1, Unknown Civ
+1, Initial Resources, LOC_RESOURCE_DIAMONDS_NAME, 4, Unknown Civ
+1, Initial Resources, LOC_RESOURCE_DYES_NAME, 4, Unknown Civ
+1, Initial Resources, LOC_RESOURCE_FURS_NAME, 4, Unknown Civ
+1, Initial Resources, LOC_RESOURCE_GYPSUM_NAME, 1, Unknown Civ
+1, Initial Resources, LOC_RESOURCE_INCENSE_NAME, 5, Unknown Civ
+1, Initial Resources, LOC_RESOURCE_JADE_NAME, 4, Unknown Civ
+1, Initial Resources, LOC_RESOURCE_MERCURY_NAME, 4, Unknown Civ
+1, Initial Resources, LOC_RESOURCE_PEARLS_NAME, 58, Unknown Civ
+1, Initial Resources, LOC_RESOURCE_SALT_NAME, 5, Unknown Civ
+1, Initial Resources, LOC_RESOURCE_SILK_NAME, 5, Unknown Civ
+1, Initial Resources, LOC_RESOURCE_SPICES_NAME, 7, Unknown Civ
+1, Initial Resources, LOC_RESOURCE_SUGAR_NAME, 4, Unknown Civ
+1, Initial Resources, LOC_RESOURCE_TRUFFLES_NAME, 7, Unknown Civ
+1, Initial Resources, LOC_RESOURCE_WINE_NAME, 5, Unknown Civ
+1, Initial Resources, LOC_RESOURCE_AMBER_NAME, 33, Unknown Civ
+1, Initial Resources, LOC_RESOURCE_OLIVES_NAME, 7, Unknown Civ
+1, Initial Resources, LOC_RESOURCE_HONEY_NAME, 4, Unknown Civ
+1, Initial Resources, LOC_RESOURCE_CITRUS_NAME, 2, Unknown Civ
+1, Initial Resources, LOC_RESOURCE_COCOA_NAME, 6, Unknown Civ
+1, Initial Resources, LOC_RESOURCE_COFFEE_NAME, 6, Unknown Civ
+1, Initial Resources, LOC_RESOURCE_COTTON_NAME, 4, Unknown Civ
+1, Initial Resources, LOC_RESOURCE_DIAMONDS_NAME, 6, Unknown Civ
+1, Initial Resources, LOC_RESOURCE_DYES_NAME, 4, Unknown Civ
+1, Initial Resources, LOC_RESOURCE_FURS_NAME, 2, Unknown Civ
+1, Initial Resources, LOC_RESOURCE_INCENSE_NAME, 2, Unknown Civ
+1, Initial Resources, LOC_RESOURCE_JADE_NAME, 4, Unknown Civ
+1, Initial Resources, LOC_RESOURCE_MARBLE_NAME, 2, Unknown Civ
+1, Initial Resources, LOC_RESOURCE_PEARLS_NAME, 58, Unknown Civ
+1, Initial Resources, LOC_RESOURCE_SALT_NAME, 8, Unknown Civ
+1, Initial Resources, LOC_RESOURCE_SILK_NAME, 8, Unknown Civ
+1, Initial Resources, LOC_RESOURCE_SILVER_NAME, 4, Unknown Civ
+1, Initial Resources, LOC_RESOURCE_SPICES_NAME, 4, Unknown Civ
+1, Initial Resources, LOC_RESOURCE_SUGAR_NAME, 8, Unknown Civ
+1, Initial Resources, LOC_RESOURCE_TOBACCO_NAME, 4, Unknown Civ
+1, Initial Resources, LOC_RESOURCE_WINE_NAME, 6, Unknown Civ
+1, Initial Resources, LOC_RESOURCE_AMBER_NAME, 4, Unknown Civ
+1, Initial Resources, LOC_RESOURCE_OLIVES_NAME, 8, Unknown Civ
+1, Initial Resources, LOC_RESOURCE_TURTLES_NAME, 71, Unknown Civ
+1, Initial Resources, LOC_RESOURCE_HONEY_NAME, 4, Unknown Civ
+1, Initial Resources, LOC_RESOURCE_CITRUS_NAME, 3, Unknown Civ
+1, Initial Resources, LOC_RESOURCE_COCOA_NAME, 5, Unknown Civ
+1, Initial Resources, LOC_RESOURCE_COFFEE_NAME, 5, Unknown Civ
+1, Initial Resources, LOC_RESOURCE_COTTON_NAME, 7, Unknown Civ
+1, Initial Resources, LOC_RESOURCE_DIAMONDS_NAME, 7, Unknown Civ
+1, Initial Resources, LOC_RESOURCE_DYES_NAME, 7, Unknown Civ
+1, Initial Resources, LOC_RESOURCE_GYPSUM_NAME, 2, Unknown Civ
+1, Initial Resources, LOC_RESOURCE_IVORY_NAME, 5, Unknown Civ
+1, Initial Resources, LOC_RESOURCE_JADE_NAME, 5, Unknown Civ
+1, Initial Resources, LOC_RESOURCE_MARBLE_NAME, 5, Unknown Civ
+1, Initial Resources, LOC_RESOURCE_MERCURY_NAME, 3, Unknown Civ
+1, Initial Resources, LOC_RESOURCE_PEARLS_NAME, 56, Unknown Civ
+1, Initial Resources, LOC_RESOURCE_SALT_NAME, 2, Unknown Civ
+1, Initial Resources, LOC_RESOURCE_SILK_NAME, 2, Unknown Civ
+1, Initial Resources, LOC_RESOURCE_SILVER_NAME, 5, Unknown Civ
+1, Initial Resources, LOC_RESOURCE_SPICES_NAME, 3, Unknown Civ
+1, Initial Resources, LOC_RESOURCE_SUGAR_NAME, 5, Unknown Civ
+1, Initial Resources, LOC_RESOURCE_TEA_NAME, 7, Unknown Civ
+1, Initial Resources, LOC_RESOURCE_TOBACCO_NAME, 2, Unknown Civ
+1, Initial Resources, LOC_RESOURCE_TRUFFLES_NAME, 3, Unknown Civ
+1, Initial Resources, LOC_RESOURCE_WHALES_NAME, 28, Unknown Civ
+1, Initial Resources, LOC_RESOURCE_OLIVES_NAME, 5, Unknown Civ
+64, Monopoly Gained, LOC_RESOURCE_MERCURY_NAME, 2, CIVILIZATION_AZTEC
+67, Monopoly Gained, LOC_RESOURCE_SUGAR_NAME, 3, CIVILIZATION_ROME
+67, Industry Established, LOC_RESOURCE_SUGAR_NAME, 2, CIVILIZATION_ROME
+97, Monopoly Lost, LOC_RESOURCE_SUGAR_NAME, 2, CIVILIZATION_ROME
+132, Industry Established, LOC_RESOURCE_OLIVES_NAME, 2, CIVILIZATION_PORTUGAL

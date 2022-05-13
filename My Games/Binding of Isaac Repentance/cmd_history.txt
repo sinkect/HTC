@@ -1,0 +1,71 @@
+debug 7
+g birth
+r birth
+r <3
+g <3
+g <4
+g magne
+g d6
+debug 8
+debug 7
+g k1
+g k42
+g k31
+debug 8
+debug 7
+g k1
+g kl
+g k31
+g euch
+g jump
+g k7
+g k36
+g k42
+g k31
+g k20
+g <3
+r <3
+g <3
+g black c
+debug 7
+g black c
+debug 8
+g d6
+debug 7
+g <3
+g 6
+g black c
+debug 7
+g black c
+g d6
+g k31
+g k42
+g god
+g sera
+g the min
+g perfec
+stage 9
+debug 8
+g perfe
+g <3
+g d6
+g guppy's ha
+g guppy's e
+g gupp
+g hive
+g bff
+g <3
+g black c
+g 6
+debug 7
+debug 70
+debug 7
+g black c
+g d
+g k51
+g black c
+debug 8
+debug 7
+g d6
+g c656
+g black c

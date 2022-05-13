@@ -1,0 +1,2103 @@
+DebugHotloadCache: GameDebug initialized!
+Test: Test.LUA loaded!
+JoiningRoom: OnFinishedGameplayContentConfigure() g_waitingForContentConfigure=true
+JoiningRoom: OnFinishedGameplayContentConfigure() g_waitingForContentConfigure=true
+Mods: Failed to create mods browser search context!
+JoiningRoom: OnFinishedGameplayContentConfigure() g_waitingForContentConfigure=true
+JoiningRoom: OnFinishedGameplayContentConfigure() g_waitingForContentConfigure=true
+AdvancedSetup: There are 6 participating players.
+AdvancedSetup: Building Game Setup
+AdvancedSetup: Player Count Changed
+AdvancedSetup: There are 6 participating players.
+AdvancedSetup: Player Count Changed
+AdvancedSetup: There are 6 participating players.
+JoiningRoom: OnFinishedGameplayContentConfigure() g_waitingForContentConfigure=true
+AdvancedSetup: Hiding Game Setup
+JoiningRoom: OnFinishedGameplayContentConfigure() g_waitingForContentConfigure=true
+JoiningRoom: OnFinishedGameplayContentConfigure() g_waitingForContentConfigure=true
+JoiningRoom: OnFinishedGameplayContentConfigure() g_waitingForContentConfigure=true
+AdvancedSetup: There are 6 participating players.
+AdvancedSetup: Building Game Setup
+AdvancedSetup: Player Count Changed
+AdvancedSetup: There are 6 participating players.
+AdvancedSetup: Player Count Changed
+AdvancedSetup: There are 6 participating players.
+JoiningRoom: OnFinishedGameplayContentConfigure() g_waitingForContentConfigure=true
+AdvancedSetup: Hiding Game Setup
+JoiningRoom: OnFinishedGameplayContentConfigure() g_waitingForContentConfigure=true
+JoiningRoom: OnFinishedGameplayContentConfigure() g_waitingForContentConfigure=true
+JoiningRoom: OnFinishedGameplayContentConfigure() g_waitingForContentConfigure=true
+JoiningRoom: OnFinishedGameplayContentConfigure() g_waitingForContentConfigure=true
+AdvancedSetup: There are 6 participating players.
+AdvancedSetup: Building Game Setup
+AdvancedSetup: Player Count Changed
+AdvancedSetup: There are 6 participating players.
+AdvancedSetup: Player Count Changed
+AdvancedSetup: There are 6 participating players.
+JoiningRoom: OnFinishedGameplayContentConfigure() g_waitingForContentConfigure=true
+JoiningRoom: OnFinishedGameplayContentConfigure() g_waitingForContentConfigure=true
+AdvancedSetup: Hiding Game Setup
+LoadScreen: true
+LoadScreen: false
+GenerateRandomMap: Map Seed = -893402180
+Map Script: Generating Continents Map
+Map Script: Generating Plot Types
+Map Script: Existing Ratio	31.685714285714
+Map Script: New Mountains 	30
+Map Script: Mountain Set	31
+Map Script: Generating Terrain Types
+Map Script: -
+Map Script: - Desert Percentage:	25
+Map Script: --- Latitude Readout ---
+Map Script: - All Grass End Latitude:	0.1
+Map Script: - Desert Start Latitude:	0.2
+Map Script: - Desert End Latitude:	0.5
+Map Script: - Tundra Start Latitude:	0.65
+Map Script: - Snow Start Latitude:	0.8
+Map Script: - - - - - - - - - - - - - -
+Map Script: Expanding coasts
+Map Script: After Adding Hills: 	498
+Map Script: Desired Volcanoes: 4.436
+Map Script: Continent Boundary Plots: 96
+Map Script: Boundary Plots Per Volcano: 32.461677186655
+Map Script: Volcano Placed at (x, y): 47, 19
+Map Script: Volcano Placed at (x, y): 51, 21
+Map Script: Volcano Placed at (x, y): 52, 17
+Map Script: Volcano Placed at (x, y): 55, 22
+Map Script: Volcano Placed at (x, y): 56, 16
+Map Script: Continent Edge Volcanoes Placed: 5
+Map Script: Total Volcanoes Placed: 5
+Map Script: Map Generation - Adding Rivers
+Map Script: Map Generation - Adding Lakes
+Map Script: 6 lakes added
+Map Script: Adding Features
+Map Script: Permanent Ice Tiles: 76.59
+Map Script: iPhaseIndex: 7, iIceTilesToAdd: 76.59, RandomEventEnum: 30
+Map Script: iPhaseIndex: 6, iIceTilesToAdd: 76.59, RandomEventEnum: 29
+Map Script: iPhaseIndex: 5, iIceTilesToAdd: 76.59, RandomEventEnum: 28
+Map Script: iPhaseIndex: 4, iIceTilesToAdd: 51.06, RandomEventEnum: 27
+Map Script: iPhaseIndex: 3, iIceTilesToAdd: 51.06, RandomEventEnum: 26
+Map Script: iPhaseIndex: 2, iIceTilesToAdd: 51.06, RandomEventEnum: 25
+Map Script: iPhaseIndex: 1, iIceTilesToAdd: 51.06, RandomEventEnum: 24
+Map Script: Number of Tiles: 	946
+Map Script: Number of Forests: 	164
+Map Script: Percent Forests: 	17.336152219873
+Map Script: Number of Jungles: 	145
+Map Script: Percent Jungles: 	15.327695560254
+Map Script: Percent of Junglable: 	40.055248618785
+Map Script: Number of Marshes: 	25
+Map Script: Adding cliffs
+Map Script: In NaturalWonderGenerator.Create()
+Map Script:     Placing 4 Natural Wonders
+Map Script: Feature Type: 6, Valid Hexes: 29
+Map Script: Feature Type: 7, Valid Hexes: 2
+Map Script: Feature Type: 8, Valid Hexes: 51
+Map Script: Feature Type: 9, Valid Hexes: 2
+Map Script: Feature Type: 10, Valid Hexes: 0
+Map Script: Feature Type: 11, Valid Hexes: 37
+Map Script: Feature Type: 12, Valid Hexes: 5
+Map Script: Feature Type: 13, Valid Hexes: 15
+Map Script: Feature Type: 14, Valid Hexes: 4
+Map Script: Feature Type: 15, Valid Hexes: 23
+Map Script: Feature Type: 16, Valid Hexes: 92
+Map Script: Feature Type: 17, Valid Hexes: 4
+Map Script: Feature Type: 18, Valid Hexes: 40
+Map Script: Feature Type: 19, Valid Hexes: 13
+Map Script: Feature Type: 20, Valid Hexes: 0
+Map Script: Feature Type: 21, Valid Hexes: 67
+Map Script: Feature Type: 22, Valid Hexes: 2
+Map Script: Feature Type: 23, Valid Hexes: 14
+Map Script: Feature Type: 24, Valid Hexes: 3
+Map Script: Feature Type: 25, Valid Hexes: 52
+Map Script: Feature Type: 26, Valid Hexes: 8
+Map Script: Feature Type: 27, Valid Hexes: 34
+Map Script: Feature Type: 28, Valid Hexes: 9
+Map Script: Feature Type: 29, Valid Hexes: 0
+Map Script: Feature Type: 36, Valid Hexes: 43
+Map Script: Feature Type: 37, Valid Hexes: 142
+Map Script: Feature Type: 38, Valid Hexes: 40
+Map Script: Feature Type: 39, Valid Hexes: 39
+Map Script: Feature Type: 40, Valid Hexes: 109
+Map Script: Feature Type: 41, Valid Hexes: 11
+Map Script: Feature Type: 42, Valid Hexes: 0
+Map Script: Feature Type: 43, Valid Hexes: 29
+Map Script: Feature Type: 44, Valid Hexes: 125
+Map Script: Feature Type: 45, Valid Hexes: 25
+Map Script: Num wonders with valid location: 30
+Map Script:  Selected Wonder = 26, Random Score = 	99
+Map Script:  Set Wonder with Feature ID of 38 at location (46, 13)
+Map Script:  Selected Wonder = 3, Random Score = 	87
+Map Script:  Set Wonder with Feature ID of 9 at location (8, 31)
+Map Script:  Selected Wonder = 8, Random Score = 	86
+Map Script:  Set Wonder with Feature ID of 14 at location (49, 37)
+Map Script:  Selected Wonder = 20, Random Score = 	83
+Map Script:  Set Wonder with Feature ID of 26 at location (64, 22)
+Map Script: Adding Features from Continents
+Map Script: Fissure Placed at (x, y): 59, 18
+Map Script: Fissure Placed at (x, y): 57, 19
+Map Script: Fissure Placed at (x, y): 58, 14
+Map Script: Fissure Placed at (x, y): 56, 17
+Map Script: Fissure Placed at (x, y): 52, 19
+Map Script: Number of Oasis: 	1
+Map Script: Number of Fissures: 	5
+Map Script: Map Generation - Marking Coastal Lowlands
+Map Script: 93 Coastal Lowland tiles added
+Map Script:   4510077014270f eligible coastal tiles
+Map Script: In ResourceGenerator.Create()
+Map Script:     Placing resources
+Map Script: Creating start plot database.
+Map Script: Major Start X: 	49	Major Start Y: 	20
+Map Script: Major Start X: 	68	Major Start Y: 	28
+Map Script: Major Start X: 	11	Major Start Y: 	38
+Map Script: Major Start X: 	26	Major Start Y: 	25
+Map Script: Major Start X: 	21	Major Start Y: 	10
+Map Script: Major Start X: 	53	Major Start Y: 	32
+Map Script: Minor Start X: 	10	Minor Start Y: 	25
+Map Script: Minor Start X: 	4	Minor Start Y: 	38
+Map Script: Minor Start X: 	26	Minor Start Y: 	18
+Map Script: Minor Start X: 	47	Minor Start Y: 	27
+Map Script: Minor Start X: 	63	Minor Start Y: 	17
+Map Script: Minor Start X: 	58	Minor Start Y: 	22
+Map Script: Minor Start X: 	47	Minor Start Y: 	8
+Map Script: Minor Start X: 	61	Minor Start Y: 	28
+Map Script: Minor Start X: 	55	Minor Start Y: 	15
+Map Script: -------------------------------
+Map Script: Map Generation - Adding Goodies
+Map Script: -------------------------------
+WorldCongress: Initializing World Congress Lua
+MapLabelManager: 판탈라사해 (5.0466261670298e+14, 1.4447275063312e-39)
+MapLabelManager: 판탈라사해 (3.4915419894579e+14, 9.9957281927371e-40)
+MapLabelManager: 판탈라사해 (4.3478859907072e+14, 1.2447075648319e-39)
+MapLabelManager: 판탈라사해 (5.7945363369165e+14, 1.6588220896061e-39)
+MapLabelManager: 판탈라사해 (2.4579488822067e+14, 7.0369985891924e-40)
+MapLabelManager: 남극해 (5.4999455367168e+14, 1.57449475062e-39)
+MapLabelManager: 남극해 (7.4030384991437e+14, 2.1192663442078e-39)
+MapLabelManager: 남극해 (6.5061144389222e+14, 1.8625162356788e-39)
+MapSearchPanel: Created SearchContext 'MapSearch_Primary'
+MapSearchPanel: Created SearchContext 'MapSearch_Suggestions'
+ReportsList: Loading ReportsListLoader.lua from ReportsList Loader 1.1
+ReportsList: OK loaded ReportsListLoader.lua from ReportsList Loader
+GovernmentScreen: FinalFreak16: Loading Mod - AlternatePolicyScreen <EXPANSION2> - With Better Report Screen Enhancements
+GreatPeoplePopup: Loading GreatPeoplePopup.lua from RGP Mod, version 4.0
+GreatPeoplePopup: OK loaded GreatPeoplePopup.lua from RGP Mod
+ReportScreen: Loading ReportScreen.lua from Better Report Screen version 6.1
+ReportScreen: Rise & Fall    :	YES
+ReportScreen: Gathering Storm:	YES
+ReportScreen: Monopolies     :	no
+ReportScreen: OK loaded ReportScreen.lua from Better Report Screen
+MapPinPopup: initializing MapTacks.IconOptions(0)
+MapPinPopup: Selected 16 columns
+CivilopediaScreen: Loading CivilopediaPage_GreatPerson.lua from RGP Mod, version 4.0
+CivilopediaScreen: OK loaded CivilopediaPage_GreatPerson.lua from RGP Mod
+CivilopediaScreen: Loading CivilopediaPage_GreatPerson.lua from RGP Mod, version 4.0
+CivilopediaScreen: OK loaded CivilopediaPage_GreatPerson.lua from RGP Mod
+InGame: Loading InGame UI - D:/SteamLibrary/steamapps/workshop/content/289070/1719123304/UI/ToolTips
+Error opening/reading where=, file=D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\ToolTips.lua
+InGame: Loading InGame UI - D:/SteamLibrary/steamapps/workshop/content/289070/1312585482/RealModifierAnalysis
+RealModifierAnalysis: Loading Real Modifier Analysis.lua from Better Report Screen version 6.1
+RealModifierAnalysis: OK loaded Real Modifier Analysis.lua from Better Report Screen
+InGame: Loading InGame UI - ../../../DLC/Expansion2/UI/Additions/DedicationPopup
+InGame: Loading InGame UI - ../../../DLC/Expansion2/UI/Additions/DisloyalCityChooser
+InGame: Loading InGame UI - ../../../DLC/Expansion2/UI/Additions/EraProgressPanel
+InGame: Loading InGame UI - ../../../DLC/Expansion2/UI/Additions/EraReviewPopup
+InGame: Loading InGame UI - ../../../DLC/Expansion2/UI/Additions/ExpansionIntro
+InGame: Loading InGame UI - ../../../DLC/Expansion2/UI/Additions/GovernorAssignmentChooser
+InGame: Loading InGame UI - ../../../DLC/Expansion2/UI/Additions/GovernorPanel
+InGame: Loading InGame UI - ../../../DLC/Expansion2/UI/Additions/HistoricMoments
+InGame: Loading InGame UI - ../../../DLC/Expansion2/UI/Additions/WorldCrisisPopup
+InGame: Loading InGame UI - D:/SteamLibrary/steamapps/workshop/content/289070/1719123304/UI/WorldView/CityBannerManager
+TutorialUIRoot: Tutorial: Firaxis in game tutorial prompts.
+TutorialUIRoot: Version: 1
+TutorialUIRoot: Loading bank of items for tutorial scenario: 'BASE'
+MapLabelManager: 판탈라사해 (-614.43505859375, -1002.2225341797)
+MapLabelManager: 판탈라사해 (-235.12518310547, -428.53009033203)
+MapLabelManager: 판탈라사해 (66.959411621094, -936.01159667969)
+MapLabelManager: 판탈라사해 (-338.66213989258, 287.53405761719)
+MapLabelManager: 판탈라사해 (324.7961730957, -99.144386291504)
+MapLabelManager: 남극해 (1166.8078613281, 968.03460693359)
+MapLabelManager: 남극해 (1431.4334716797, 550.82043457031)
+MapLabelManager: 남극해 (1761.7769775391, 974.16271972656)
+LoadScreen: OnLoadGameViewStateDone
+Mods: Failed to create mods browser search context!
+Test: Test.LUA loaded!
+JoiningRoom: OnFinishedGameplayContentConfigure() g_waitingForContentConfigure=true
+JoiningRoom: OnFinishedGameplayContentConfigure() g_waitingForContentConfigure=true
+AdvancedSetup: There are 6 participating players.
+AdvancedSetup: Building Game Setup
+AdvancedSetup: Player Count Changed
+AdvancedSetup: There are 6 participating players.
+AdvancedSetup: Player Count Changed
+AdvancedSetup: There are 6 participating players.
+JoiningRoom: OnFinishedGameplayContentConfigure() g_waitingForContentConfigure=true
+AdvancedSetup: Hiding Game Setup
+AdvancedSetup: There are 6 participating players.
+AdvancedSetup: Building Game Setup
+AdvancedSetup: Player Count Changed
+AdvancedSetup: There are 10 participating players.
+AdvancedSetup: Hiding Game Setup
+AdvancedSetup: There are 10 participating players.
+AdvancedSetup: Building Game Setup
+JoiningRoom: OnFinishedGameplayContentConfigure() g_waitingForContentConfigure=true
+AdvancedSetup: Hiding Game Setup
+LoadScreen: true
+LoadScreen: false
+GenerateRandomMap: Map Seed = -54452881
+Map Script: Generating Archipelago Map
+Map Script: Generating Plot Types
+Map Script: Shifted Plots - Width: 	96	Height: 	60
+Map Script: Shifted Plots - Width: 	96	Height: 	60
+Map Script: Shifted Plots - Width: 	96	Height: 	60
+Map Script: Existing Ratio	120.57142857143
+Map Script: New Mountains 	197
+Map Script: Mountain Set	190
+Map Script: Generating Terrain Types
+Map Script: -
+Map Script: - Desert Percentage:	25
+Map Script: --- Latitude Readout ---
+Map Script: - All Grass End Latitude:	0.1
+Map Script: - Desert Start Latitude:	0.2
+Map Script: - Desert End Latitude:	0.5
+Map Script: - Tundra Start Latitude:	0.65
+Map Script: - Snow Start Latitude:	0.8
+Map Script: - - - - - - - - - - - - - -
+Map Script: Expanding coasts
+Map Script: After Adding Hills: 	321
+Map Script: Desired Volcanoes: 5.6266666666667
+Map Script: Continent Boundary Plots: 147
+Map Script: Boundary Plots Per Volcano: 39.188388625592
+Map Script: Volcano Placed at (x, y): 15, 35
+Map Script: Continent Edge Volcanoes Placed: 1
+Map Script: Volcano Placed at (x, y): 14, 42
+Map Script: Volcano Placed at (x, y): 9, 35
+Map Script: Volcano Placed at (x, y): 85, 26
+Map Script: Volcano Placed at (x, y): 6, 17
+Map Script: Volcano Placed at (x, y): 73, 46
+Map Script: Volcano Placed at (x, y): 83, 37
+Map Script: Volcano Placed at (x, y): 31, 24
+Map Script: Volcano Placed at (x, y): 41, 5
+Map Script: Total Volcanoes Placed: 9
+Map Script: Num Mountains: 217
+Map Script: Map Generation - Adding Rivers
+Map Script: Map Generation - Adding Lakes
+Map Script: 6 lakes added
+Map Script: Adding Features
+Map Script: Permanent Ice Tiles: 129.6
+Map Script: iPhaseIndex: 7, iIceTilesToAdd: 129.6, RandomEventEnum: 30
+Map Script: iPhaseIndex: 6, iIceTilesToAdd: 129.6, RandomEventEnum: 29
+Map Script: iPhaseIndex: 5, iIceTilesToAdd: 129.6, RandomEventEnum: 28
+Map Script: iPhaseIndex: 4, iIceTilesToAdd: 86.4, RandomEventEnum: 27
+Map Script: iPhaseIndex: 3, iIceTilesToAdd: 86.4, RandomEventEnum: 26
+Map Script: iPhaseIndex: 2, iIceTilesToAdd: 86.4, RandomEventEnum: 25
+Map Script: iPhaseIndex: 1, iIceTilesToAdd: 86.4, RandomEventEnum: 24
+Map Script: Number of Tiles: 	1427
+Map Script: Number of Forests: 	242
+Map Script: Percent Forests: 	16.958654519972
+Map Script: Number of Jungles: 	129
+Map Script: Percent Jungles: 	9.0399439383322
+Map Script: Percent of Junglable: 	40.18691588785
+Map Script: Number of Marshes: 	38
+Map Script: Adding cliffs
+Map Script: In NaturalWonderGenerator.Create()
+Map Script:     Placing 6 Natural Wonders
+Map Script: Feature Type: 6, Valid Hexes: 9
+Map Script: Feature Type: 7, Valid Hexes: 0
+Map Script: Feature Type: 8, Valid Hexes: 23
+Map Script: Feature Type: 9, Valid Hexes: 0
+Map Script: Feature Type: 10, Valid Hexes: 0
+Map Script: Feature Type: 11, Valid Hexes: 2
+Map Script: Feature Type: 12, Valid Hexes: 33
+Map Script: Feature Type: 13, Valid Hexes: 2
+Map Script: Feature Type: 14, Valid Hexes: 3
+Map Script: Feature Type: 15, Valid Hexes: 0
+Map Script: Feature Type: 16, Valid Hexes: 2
+Map Script: Feature Type: 17, Valid Hexes: 0
+Map Script: Feature Type: 18, Valid Hexes: 9
+Map Script: Feature Type: 19, Valid Hexes: 8
+Map Script: Feature Type: 20, Valid Hexes: 0
+Map Script: Feature Type: 21, Valid Hexes: 184
+Map Script: Feature Type: 22, Valid Hexes: 0
+Map Script: Feature Type: 23, Valid Hexes: 12
+Map Script: Feature Type: 24, Valid Hexes: 0
+Map Script: Feature Type: 25, Valid Hexes: 14
+Map Script: Feature Type: 26, Valid Hexes: 23
+Map Script: Feature Type: 27, Valid Hexes: 4
+Map Script: Feature Type: 28, Valid Hexes: 0
+Map Script: Feature Type: 29, Valid Hexes: 0
+Map Script: Feature Type: 36, Valid Hexes: 4
+Map Script: Feature Type: 37, Valid Hexes: 60
+Map Script: Feature Type: 38, Valid Hexes: 5
+Map Script: Feature Type: 39, Valid Hexes: 7
+Map Script: Feature Type: 40, Valid Hexes: 32
+Map Script: Feature Type: 41, Valid Hexes: 30
+Map Script: Feature Type: 42, Valid Hexes: 0
+Map Script: Feature Type: 43, Valid Hexes: 0
+Map Script: Feature Type: 44, Valid Hexes: 51
+Map Script: Feature Type: 45, Valid Hexes: 1
+Map Script: Num wonders with valid location: 22
+Map Script:  Selected Wonder = 26, Random Score = 	81
+Map Script:  Set Wonder with Feature ID of 38 at location (74, 42)
+Map Script:  Selected Wonder = 21, Random Score = 	78
+Map Script:  Set Wonder with Feature ID of 27 at location (58, 46)
+Map Script:  Selected Wonder = 17, Random Score = 	76
+Map Script:  Set Wonder with Feature ID of 23 at location (18, 36)
+Map Script:  Selected Wonder = 32, Random Score = 	74
+Map Script:  Set Wonder with Feature ID of 44 at location (42, 23)
+Map Script:  Selected Wonder = 24, Random Score = 	73
+Map Script:  Set Wonder with Feature ID of 36 at location (22, 46)
+Map Script:  Selected Wonder = 8, Random Score = 	70
+Map Script:  Set Wonder with Feature ID of 14 at location (39, 48)
+Map Script: Adding Features from Continents
+Map Script: Fissure Placed at (x, y): 29, 18
+Map Script: Fissure Placed at (x, y): 19, 37
+Map Script: Fissure Placed at (x, y): 22, 14
+Map Script: Fissure Placed at (x, y): 26, 8
+Map Script: Fissure Placed at (x, y): 13, 38
+Map Script: Fissure Placed at (x, y): 20, 14
+Map Script: Fissure Placed at (x, y): 27, 6
+Map Script: Fissure Placed at (x, y): 18, 34
+Map Script: Number of Oasis: 	0
+Map Script: Number of Fissures: 	8
+Map Script: Map Generation - Marking Coastal Lowlands
+Map Script: 353 Coastal Lowland tiles added
+Map Script:   4510077014270f eligible coastal tiles
+Map Script: In ResourceGenerator.Create()
+Map Script:     Placing resources
+Map Script: Creating start plot database.
+Map Script: Major Start X: 	38	Major Start Y: 	23
+Map Script: Major Start X: 	2	Major Start Y: 	50
+Map Script: Major Start X: 	65	Major Start Y: 	32
+Map Script: Major Start X: 	87	Major Start Y: 	42
+Map Script: Major Start X: 	53	Major Start Y: 	29
+Map Script: Major Start X: 	16	Major Start Y: 	30
+Map Script: Major Start X: 	60	Major Start Y: 	50
+Map Script: Major Start X: 	19	Major Start Y: 	41
+Map Script: Major Start X: 	93	Major Start Y: 	14
+Map Script: Major Start X: 	75	Major Start Y: 	46
+Map Script: Minor Start X: 	86	Minor Start Y: 	34
+Map Script: Minor Start X: 	14	Minor Start Y: 	37
+Map Script: Minor Start X: 	68	Minor Start Y: 	46
+Map Script: Minor Start X: 	64	Minor Start Y: 	38
+Map Script: Minor Start X: 	9	Minor Start Y: 	34
+Map Script: Minor Start X: 	55	Minor Start Y: 	40
+Map Script: Minor Start X: 	25	Minor Start Y: 	51
+Map Script: Minor Start X: 	44	Minor Start Y: 	27
+Map Script: Minor Start X: 	49	Minor Start Y: 	33
+Map Script: Minor Start X: 	87	Minor Start Y: 	25
+Map Script: Minor Start X: 	42	Minor Start Y: 	33
+Map Script: Minor Start X: 	28	Minor Start Y: 	20
+Map Script: Minor Start X: 	22	Minor Start Y: 	31
+Map Script: Minor Start X: 	3	Minor Start Y: 	18
+Map Script: Minor Start X: 	39	Minor Start Y: 	44
+Map Script: -------------------------------
+Map Script: Map Generation - Adding Goodies
+Map Script: -------------------------------
+WorldCongress: Initializing World Congress Lua
+MapLabelManager: 북극해 (-93.294654846191, -861.19915771484)
+MapLabelManager: 북극해 (396.47216796875, -391.28720092773)
+MapLabelManager: 판탈라사해 (3318.7292480469, 1743.8256835938)
+MapLabelManager: 판탈라사해 (-2213.6982421875, 257.36141967773)
+MapLabelManager: 판탈라사해 (-2146.2368164063, 813.80377197266)
+MapLabelManager: 판탈라사해 (3533.5187988281, 1139.2679443359)
+MapLabelManager: 판탈라사해 (-2048.0639648438, 1559.2210693359)
+MapLabelManager: 판탈라사해 (3536.7795410156, 207.94734191895)
+MapLabelManager: 판탈라사해 (2161.5388183594, 1745.4252929688)
+MapLabelManager: 대서양 (-1256.5861816406, -967.10943603516)
+MapLabelManager: 대서양 (-1970.7296142578, -1085.4758300781)
+MapLabelManager: 대서양 (-2086.1667480469, -651.71563720703)
+MapLabelManager: 신기틱만 (658.45373535156, 1189.8612060547)
+MapLabelManager: 신기틱만 (1962.2103271484, 975.08117675781)
+MapLabelManager: 신기틱만 (1677.6433105469, 110.92970275879)
+MapLabelManager: 신기틱만 (1254.3463134766, 776.02703857422)
+MapLabelManager: 신기틱만 (343.09548950195, 796.86846923828)
+MapLabelManager: 신기틱만 (1230.5146484375, -390.7092590332)
+MapLabelManager: 신기틱만 (1716.6014404297, -608.921875)
+MapLabelManager: 신기틱만 (843.19970703125, 107.87377929688)
+MapLabelManager: 신기틱만 (2894.4533691406, 613.69110107422)
+MapLabelManager: 신기틱만 (-602.40209960938, 960.56365966797)
+MapSearchPanel: Created SearchContext 'MapSearch_Primary'
+MapSearchPanel: Created SearchContext 'MapSearch_Suggestions'
+ReportsList: Loading ReportsListLoader.lua from ReportsList Loader 1.1
+ReportsList: OK loaded ReportsListLoader.lua from ReportsList Loader
+GovernmentScreen: FinalFreak16: Loading Mod - AlternatePolicyScreen <EXPANSION2> - With Better Report Screen Enhancements
+GreatPeoplePopup: Loading GreatPeoplePopup.lua from RGP Mod, version 4.0
+GreatPeoplePopup: OK loaded GreatPeoplePopup.lua from RGP Mod
+ReportScreen: Loading ReportScreen.lua from Better Report Screen version 6.1
+ReportScreen: Rise & Fall    :	YES
+ReportScreen: Gathering Storm:	YES
+ReportScreen: Monopolies     :	YES
+ReportScreen: OK loaded ReportScreen.lua from Better Report Screen
+MapPinPopup: initializing MapTacks.IconOptions(0)
+MapPinPopup: Selected 16 columns
+CivilopediaScreen: Loading CivilopediaPage_GreatPerson.lua from RGP Mod, version 4.0
+CivilopediaScreen: OK loaded CivilopediaPage_GreatPerson.lua from RGP Mod
+CivilopediaScreen: Loading CivilopediaPage_GreatPerson.lua from RGP Mod, version 4.0
+CivilopediaScreen: OK loaded CivilopediaPage_GreatPerson.lua from RGP Mod
+InGame: Loading InGame UI - D:/SteamLibrary/steamapps/workshop/content/289070/1719123304/UI/ToolTips
+Error opening/reading where=, file=D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\ToolTips.lua
+InGame: Loading InGame UI - D:/SteamLibrary/steamapps/workshop/content/289070/1312585482/RealModifierAnalysis
+RealModifierAnalysis: Loading Real Modifier Analysis.lua from Better Report Screen version 6.1
+RealModifierAnalysis: OK loaded Real Modifier Analysis.lua from Better Report Screen
+InGame: Loading InGame UI - ../../../DLC/Expansion2/UI/Additions/DedicationPopup
+InGame: Loading InGame UI - ../../../DLC/Expansion2/UI/Additions/DisloyalCityChooser
+InGame: Loading InGame UI - ../../../DLC/Expansion2/UI/Additions/EraProgressPanel
+InGame: Loading InGame UI - ../../../DLC/Expansion2/UI/Additions/EraReviewPopup
+InGame: Loading InGame UI - ../../../DLC/Expansion2/UI/Additions/ExpansionIntro
+InGame: Loading InGame UI - ../../../DLC/Expansion2/UI/Additions/GovernorAssignmentChooser
+InGame: Loading InGame UI - ../../../DLC/Expansion2/UI/Additions/GovernorPanel
+InGame: Loading InGame UI - ../../../DLC/Expansion2/UI/Additions/HistoricMoments
+InGame: Loading InGame UI - ../../../DLC/Expansion2/UI/Additions/WorldCrisisPopup
+InGame: Loading InGame UI - ../../../DLC/KublaiKhan_Vietnam/UI/Additions/CreateCorporationPopup
+InGame: Loading InGame UI - ../../../DLC/Ethiopia/UI/Additions/SecretSocietyPopup
+InGame: Loading InGame UI - D:/SteamLibrary/steamapps/workshop/content/289070/1719123304/UI/WorldView/CityBannerManager
+TutorialUIRoot: Tutorial: Firaxis in game tutorial prompts.
+TutorialUIRoot: Version: 1
+TutorialUIRoot: Loading bank of items for tutorial scenario: 'BASE'
+MapLabelManager: 북극해 (-307.52780151367, -779.25524902344)
+MapLabelManager: 북극해 (-797.29467773438, -1249.1672363281)
+MapLabelManager: 판탈라사해 (-3401.5021972656, 1336.1839599609)
+MapLabelManager: 판탈라사해 (2982.744140625, 723.55590820313)
+MapLabelManager: 판탈라사해 (3241.8872070313, 205.63081359863)
+MapLabelManager: 판탈라사해 (1847.7348632813, 1294.48046875)
+MapLabelManager: 판탈라사해 (2294.5703125, 1207.0043945313)
+MapLabelManager: 판탈라사해 (2886.5366210938, -254.09565734863)
+MapLabelManager: 판탈라사해 (1386.1965332031, 1338.1148681641)
+MapLabelManager: 대서양 (-2914.7114257813, -1214.3208007813)
+MapLabelManager: 대서양 (-2181.677734375, -1420.1170654297)
+MapLabelManager: 신기틱만 (-73.069679260254, 816.45550537109)
+MapLabelManager: 신기틱만 (-610.12457275391, 531.60473632813)
+MapLabelManager: 신기틱만 (-23.383991241455, 238.72969055176)
+MapLabelManager: 신기틱만 (1258.1257324219, 585.54595947266)
+MapLabelManager: 신기틱만 (-1349.1007080078, 564.38800048828)
+MapLabelManager: 신기틱만 (256.82305908203, -445.8655090332)
+MapLabelManager: 신기틱만 (869.03137207031, -981.73181152344)
+MapLabelManager: 신기틱만 (608.63348388672, 399.97915649414)
+MapLabelManager: 신기틱만 (985.15179443359, -316.16186523438)
+MapLabelManager: 신기틱만 (2186.1496582031, 228.455078125)
+LoadScreen: OnLoadGameViewStateDone
+Runtime Error: D:\SteamLibrary\steamapps\common\Sid Meier's Civilization VI\Base\Assets\UI\WorldViewIconsManager.lua:740: attempt to index a nil value
+stack traceback:
+	D:\SteamLibrary\steamapps\common\Sid Meier's Civilization VI\Base\Assets\UI\WorldViewIconsManager.lua:740: in function '(anonymous)'
+Lua callstack:
+MapLabelManager: 북극해 (-307.52780151367, -779.25524902344)
+MapLabelManager: 북극해 (-797.29467773438, -1249.1672363281)
+Runtime Error: D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: function expected instead of nil
+stack traceback:
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: in function 'CityBanner:new'
+	(tail call): ?
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:2635: in function 'OnCityAddedToMap'
+	[C]: in function 'func'
+	[C]: in function '(anonymous)'
+Runtime Error: D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: function expected instead of nil
+stack traceback:
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: in function 'CityBanner:new'
+	(tail call): ?
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:2635: in function 'OnCityAddedToMap'
+	[C]: in function 'func'
+	[C]: in function '(anonymous)'
+Runtime Error: D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: function expected instead of nil
+stack traceback:
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: in function 'CityBanner:new'
+	(tail call): ?
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:2635: in function 'OnCityAddedToMap'
+	[C]: in function 'func'
+	[C]: in function '(anonymous)'
+Runtime Error: D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: function expected instead of nil
+stack traceback:
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: in function 'CityBanner:new'
+	(tail call): ?
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:2635: in function 'OnCityAddedToMap'
+	[C]: in function 'func'
+	[C]: in function '(anonymous)'
+Runtime Error: D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: function expected instead of nil
+stack traceback:
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: in function 'CityBanner:new'
+	(tail call): ?
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:2635: in function 'OnCityAddedToMap'
+	[C]: in function 'func'
+	[C]: in function '(anonymous)'
+Runtime Error: D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: function expected instead of nil
+stack traceback:
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: in function 'CityBanner:new'
+	(tail call): ?
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:2635: in function 'OnCityAddedToMap'
+	[C]: in function 'func'
+	[C]: in function '(anonymous)'
+Runtime Error: D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: function expected instead of nil
+stack traceback:
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: in function 'CityBanner:new'
+	(tail call): ?
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:2635: in function 'OnCityAddedToMap'
+	[C]: in function 'func'
+	[C]: in function '(anonymous)'
+Runtime Error: D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: function expected instead of nil
+stack traceback:
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: in function 'CityBanner:new'
+	(tail call): ?
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:2635: in function 'OnCityAddedToMap'
+	[C]: in function 'func'
+	[C]: in function '(anonymous)'
+Runtime Error: D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: function expected instead of nil
+stack traceback:
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: in function 'CityBanner:new'
+	(tail call): ?
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:2635: in function 'OnCityAddedToMap'
+	[C]: in function 'func'
+	[C]: in function '(anonymous)'
+Runtime Error: D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: function expected instead of nil
+stack traceback:
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: in function 'CityBanner:new'
+	(tail call): ?
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:2635: in function 'OnCityAddedToMap'
+	[C]: in function 'func'
+	[C]: in function '(anonymous)'
+Runtime Error: D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: function expected instead of nil
+stack traceback:
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: in function 'CityBanner:new'
+	(tail call): ?
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:2635: in function 'OnCityAddedToMap'
+	[C]: in function 'func'
+	[C]: in function '(anonymous)'
+Runtime Error: D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: function expected instead of nil
+stack traceback:
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: in function 'CityBanner:new'
+	(tail call): ?
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:2635: in function 'OnCityAddedToMap'
+	[C]: in function 'func'
+	[C]: in function '(anonymous)'
+Runtime Error: D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: function expected instead of nil
+stack traceback:
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: in function 'CityBanner:new'
+	(tail call): ?
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:2635: in function 'OnCityAddedToMap'
+	[C]: in function 'func'
+	[C]: in function '(anonymous)'
+Runtime Error: D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: function expected instead of nil
+stack traceback:
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: in function 'CityBanner:new'
+	(tail call): ?
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:2635: in function 'OnCityAddedToMap'
+	[C]: in function 'func'
+	[C]: in function '(anonymous)'
+Runtime Error: D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: function expected instead of nil
+stack traceback:
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: in function 'CityBanner:new'
+	(tail call): ?
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:2635: in function 'OnCityAddedToMap'
+	[C]: in function 'func'
+	[C]: in function '(anonymous)'
+Runtime Error: D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: function expected instead of nil
+stack traceback:
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: in function 'CityBanner:new'
+	(tail call): ?
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:2635: in function 'OnCityAddedToMap'
+	[C]: in function 'func'
+	[C]: in function '(anonymous)'
+Runtime Error: D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: function expected instead of nil
+stack traceback:
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: in function 'CityBanner:new'
+	(tail call): ?
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:2635: in function 'OnCityAddedToMap'
+	[C]: in function 'func'
+	[C]: in function '(anonymous)'
+Runtime Error: D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: function expected instead of nil
+stack traceback:
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: in function 'CityBanner:new'
+	(tail call): ?
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:2635: in function 'OnCityAddedToMap'
+	[C]: in function 'func'
+	[C]: in function '(anonymous)'
+Runtime Error: D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: function expected instead of nil
+stack traceback:
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: in function 'CityBanner:new'
+	(tail call): ?
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:2635: in function 'OnCityAddedToMap'
+	[C]: in function 'func'
+	[C]: in function '(anonymous)'
+Runtime Error: D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: function expected instead of nil
+stack traceback:
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: in function 'CityBanner:new'
+	(tail call): ?
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:2635: in function 'OnCityAddedToMap'
+	[C]: in function 'func'
+	[C]: in function '(anonymous)'
+Runtime Error: D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: function expected instead of nil
+stack traceback:
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: in function 'CityBanner:new'
+	(tail call): ?
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:2635: in function 'OnCityAddedToMap'
+	[C]: in function 'func'
+	[C]: in function '(anonymous)'
+Runtime Error: D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: function expected instead of nil
+stack traceback:
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: in function 'CityBanner:new'
+	(tail call): ?
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:2635: in function 'OnCityAddedToMap'
+	[C]: in function 'func'
+	[C]: in function '(anonymous)'
+Runtime Error: D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: function expected instead of nil
+stack traceback:
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: in function 'CityBanner:new'
+	(tail call): ?
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:2635: in function 'OnCityAddedToMap'
+	[C]: in function 'func'
+	[C]: in function '(anonymous)'
+Runtime Error: D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: function expected instead of nil
+stack traceback:
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: in function 'CityBanner:new'
+	(tail call): ?
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:2635: in function 'OnCityAddedToMap'
+	[C]: in function 'func'
+	[C]: in function '(anonymous)'
+Runtime Error: D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: function expected instead of nil
+stack traceback:
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: in function 'CityBanner:new'
+	(tail call): ?
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:2635: in function 'OnCityAddedToMap'
+	[C]: in function 'func'
+	[C]: in function '(anonymous)'
+Runtime Error: D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: function expected instead of nil
+stack traceback:
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: in function 'CityBanner:new'
+	(tail call): ?
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:2635: in function 'OnCityAddedToMap'
+	[C]: in function 'func'
+	[C]: in function '(anonymous)'
+Runtime Error: D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: function expected instead of nil
+stack traceback:
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: in function 'CityBanner:new'
+	(tail call): ?
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:2635: in function 'OnCityAddedToMap'
+	[C]: in function 'func'
+	[C]: in function '(anonymous)'
+Runtime Error: D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: function expected instead of nil
+stack traceback:
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: in function 'CityBanner:new'
+	(tail call): ?
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:2635: in function 'OnCityAddedToMap'
+	[C]: in function 'func'
+	[C]: in function '(anonymous)'
+Runtime Error: D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: function expected instead of nil
+stack traceback:
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: in function 'CityBanner:new'
+	(tail call): ?
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:2635: in function 'OnCityAddedToMap'
+	[C]: in function 'func'
+	[C]: in function '(anonymous)'
+Runtime Error: D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: function expected instead of nil
+stack traceback:
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: in function 'CityBanner:new'
+	(tail call): ?
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:2635: in function 'OnCityAddedToMap'
+	[C]: in function 'func'
+	[C]: in function '(anonymous)'
+Runtime Error: D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: function expected instead of nil
+stack traceback:
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: in function 'CityBanner:new'
+	(tail call): ?
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:2635: in function 'OnCityAddedToMap'
+	[C]: in function 'func'
+	[C]: in function '(anonymous)'
+Runtime Error: D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: function expected instead of nil
+stack traceback:
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: in function 'CityBanner:new'
+	(tail call): ?
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:2635: in function 'OnCityAddedToMap'
+	[C]: in function 'func'
+	[C]: in function '(anonymous)'
+Runtime Error: D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: function expected instead of nil
+stack traceback:
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: in function 'CityBanner:new'
+	(tail call): ?
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:2635: in function 'OnCityAddedToMap'
+	[C]: in function 'func'
+	[C]: in function '(anonymous)'
+Runtime Error: D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: function expected instead of nil
+stack traceback:
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: in function 'CityBanner:new'
+	(tail call): ?
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:2635: in function 'OnCityAddedToMap'
+	[C]: in function 'func'
+	[C]: in function '(anonymous)'
+Runtime Error: D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: function expected instead of nil
+stack traceback:
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: in function 'CityBanner:new'
+	(tail call): ?
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:2635: in function 'OnCityAddedToMap'
+	[C]: in function 'func'
+	[C]: in function '(anonymous)'
+Runtime Error: D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: function expected instead of nil
+stack traceback:
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: in function 'CityBanner:new'
+	(tail call): ?
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:2635: in function 'OnCityAddedToMap'
+	[C]: in function 'func'
+	[C]: in function '(anonymous)'
+Runtime Error: D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: function expected instead of nil
+stack traceback:
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: in function 'CityBanner:new'
+	(tail call): ?
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:2635: in function 'OnCityAddedToMap'
+	[C]: in function 'func'
+	[C]: in function '(anonymous)'
+Runtime Error: D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: function expected instead of nil
+stack traceback:
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: in function 'CityBanner:new'
+	(tail call): ?
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:2635: in function 'OnCityAddedToMap'
+	[C]: in function 'func'
+	[C]: in function '(anonymous)'
+Runtime Error: D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: function expected instead of nil
+stack traceback:
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: in function 'CityBanner:new'
+	(tail call): ?
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:2635: in function 'OnCityAddedToMap'
+	[C]: in function 'func'
+	[C]: in function '(anonymous)'
+Runtime Error: D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: function expected instead of nil
+stack traceback:
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: in function 'CityBanner:new'
+	(tail call): ?
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:2635: in function 'OnCityAddedToMap'
+	[C]: in function 'func'
+	[C]: in function '(anonymous)'
+Runtime Error: D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: function expected instead of nil
+stack traceback:
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: in function 'CityBanner:new'
+	(tail call): ?
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:2635: in function 'OnCityAddedToMap'
+	[C]: in function 'func'
+	[C]: in function '(anonymous)'
+Runtime Error: D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: function expected instead of nil
+stack traceback:
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: in function 'CityBanner:new'
+	(tail call): ?
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:2635: in function 'OnCityAddedToMap'
+	[C]: in function 'func'
+	[C]: in function '(anonymous)'
+Runtime Error: D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: function expected instead of nil
+stack traceback:
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: in function 'CityBanner:new'
+	(tail call): ?
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:2635: in function 'OnCityAddedToMap'
+	[C]: in function 'func'
+	[C]: in function '(anonymous)'
+Runtime Error: D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: function expected instead of nil
+stack traceback:
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: in function 'CityBanner:new'
+	(tail call): ?
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:2635: in function 'OnCityAddedToMap'
+	[C]: in function 'func'
+	[C]: in function '(anonymous)'
+NaturalWonderPopup: PopupManager.LOCK   'NaturalWonderPopup', id: 12272, priority:1000
+InGame: Request to BulkHide( true, NaturalWonder ), Show on 0 = 1
+InGame: Request to BulkHide( false, NaturalWonder ), Show on 0 = 0
+NaturalWonderPopup: PopupManager.Unlock 'NaturalWonderPopup', id: 12272, priority:1000
+Runtime Error: D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: function expected instead of nil
+stack traceback:
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: in function 'CityBanner:new'
+	(tail call): ?
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:2635: in function 'OnCityAddedToMap'
+	[C]: in function 'func'
+	[C]: in function '(anonymous)'
+Runtime Error: D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: function expected instead of nil
+stack traceback:
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: in function 'CityBanner:new'
+	(tail call): ?
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:2635: in function 'OnCityAddedToMap'
+	[C]: in function 'func'
+	[C]: in function '(anonymous)'
+Runtime Error: D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: function expected instead of nil
+stack traceback:
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: in function 'CityBanner:new'
+	(tail call): ?
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:2635: in function 'OnCityAddedToMap'
+	[C]: in function 'func'
+	[C]: in function '(anonymous)'
+Runtime Error: D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: function expected instead of nil
+stack traceback:
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: in function 'CityBanner:new'
+	(tail call): ?
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:2635: in function 'OnCityAddedToMap'
+	[C]: in function 'func'
+	[C]: in function '(anonymous)'
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	41	24	0	true	false
+Runtime Error: D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: function expected instead of nil
+stack traceback:
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: in function 'CityBanner:new'
+	(tail call): ?
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:2635: in function 'OnCityAddedToMap'
+	[C]: in function 'func'
+	[C]: in function '(anonymous)'
+Runtime Error: D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: function expected instead of nil
+stack traceback:
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: in function 'CityBanner:new'
+	(tail call): ?
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:2635: in function 'OnCityAddedToMap'
+	[C]: in function 'func'
+	[C]: in function '(anonymous)'
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+Mods: Failed to create mods browser search context!
+Test: Test.LUA loaded!
+JoiningRoom: OnFinishedGameplayContentConfigure() g_waitingForContentConfigure=true
+JoiningRoom: OnFinishedGameplayContentConfigure() g_waitingForContentConfigure=true
+Mods: Failed to create mods browser search context!
+JoiningRoom: OnFinishedGameplayContentConfigure() g_waitingForContentConfigure=true
+JoiningRoom: OnFinishedGameplayContentConfigure() g_waitingForContentConfigure=true
+JoiningRoom: OnFinishedGameplayContentConfigure() g_waitingForContentConfigure=true
+AdvancedSetup: There are 6 participating players.
+AdvancedSetup: Building Game Setup
+AdvancedSetup: Player Count Changed
+AdvancedSetup: There are 6 participating players.
+AdvancedSetup: Player Count Changed
+AdvancedSetup: There are 6 participating players.
+JoiningRoom: OnFinishedGameplayContentConfigure() g_waitingForContentConfigure=true
+AdvancedSetup: Hiding Game Setup
+JoiningRoom: OnFinishedGameplayContentConfigure() g_waitingForContentConfigure=true
+AdvancedSetup: There are 10 participating players.
+AdvancedSetup: Building Game Setup
+JoiningRoom: OnFinishedGameplayContentConfigure() g_waitingForContentConfigure=true
+AdvancedSetup: Hiding Game Setup
+LoadScreen: true
+LoadScreen: false
+GenerateRandomMap: Map Seed = -1548429395
+Map Script: Generating Archipelago Map
+Map Script: Generating Plot Types
+Map Script: Shifted Plots - Width: 	96	Height: 	60
+Map Script: Shifted Plots - Width: 	96	Height: 	60
+Map Script: Shifted Plots - Width: 	96	Height: 	60
+Map Script: Existing Ratio	64.666666666667
+Map Script: New Mountains 	191
+Map Script: Mountain Set	184
+Map Script: Generating Terrain Types
+Map Script: -
+Map Script: - Desert Percentage:	25
+Map Script: --- Latitude Readout ---
+Map Script: - All Grass End Latitude:	0.1
+Map Script: - Desert Start Latitude:	0.2
+Map Script: - Desert End Latitude:	0.5
+Map Script: - Tundra Start Latitude:	0.65
+Map Script: - Snow Start Latitude:	0.8
+Map Script: - - - - - - - - - - - - - -
+Map Script: Expanding coasts
+Map Script: After Adding Hills: 	545
+Map Script: Desired Volcanoes: 5.82
+Map Script: Continent Boundary Plots: 153
+Map Script: Boundary Plots Per Volcano: 39.432989690722
+Map Script: Volcano Placed at (x, y): 17, 50
+Map Script: Volcano Placed at (x, y): 17, 54
+Map Script: Volcano Placed at (x, y): 56, 43
+Map Script: Volcano Placed at (x, y): 72, 39
+Map Script: Continent Edge Volcanoes Placed: 4
+Map Script: Volcano Placed at (x, y): 48, 42
+Map Script: Volcano Placed at (x, y): 24, 43
+Map Script: Volcano Placed at (x, y): 75, 44
+Map Script: Volcano Placed at (x, y): 10, 46
+Map Script: Volcano Placed at (x, y): 77, 17
+Map Script: Total Volcanoes Placed: 9
+Map Script: Num Mountains: 224
+Map Script: Map Generation - Adding Rivers
+Map Script: Map Generation - Adding Lakes
+Map Script: 2 lakes added
+Map Script: Adding Features
+Map Script: Permanent Ice Tiles: 129.6
+Map Script: iPhaseIndex: 7, iIceTilesToAdd: 129.6, RandomEventEnum: 30
+Map Script: iPhaseIndex: 6, iIceTilesToAdd: 129.6, RandomEventEnum: 29
+Map Script: iPhaseIndex: 5, iIceTilesToAdd: 129.6, RandomEventEnum: 28
+Map Script: iPhaseIndex: 4, iIceTilesToAdd: 86.4, RandomEventEnum: 27
+Map Script: iPhaseIndex: 3, iIceTilesToAdd: 86.4, RandomEventEnum: 26
+Map Script: iPhaseIndex: 2, iIceTilesToAdd: 86.4, RandomEventEnum: 25
+Map Script: iPhaseIndex: 1, iIceTilesToAdd: 86.4, RandomEventEnum: 24
+Map Script: Number of Tiles: 	1471
+Map Script: Number of Forests: 	253
+Map Script: Percent Forests: 	17.199184228416
+Map Script: Number of Jungles: 	129
+Map Script: Percent Jungles: 	8.7695445275323
+Map Script: Percent of Junglable: 	40.3125
+Map Script: Number of Marshes: 	40
+Map Script: Adding cliffs
+Map Script: In NaturalWonderGenerator.Create()
+Map Script:     Placing 6 Natural Wonders
+Map Script: Feature Type: 6, Valid Hexes: 18
+Map Script: Feature Type: 7, Valid Hexes: 1
+Map Script: Feature Type: 8, Valid Hexes: 56
+Map Script: Feature Type: 9, Valid Hexes: 0
+Map Script: Feature Type: 10, Valid Hexes: 3
+Map Script: Feature Type: 11, Valid Hexes: 6
+Map Script: Feature Type: 12, Valid Hexes: 37
+Map Script: Feature Type: 13, Valid Hexes: 0
+Map Script: Feature Type: 14, Valid Hexes: 3
+Map Script: Feature Type: 15, Valid Hexes: 1
+Map Script: Feature Type: 16, Valid Hexes: 6
+Map Script: Feature Type: 17, Valid Hexes: 0
+Map Script: Feature Type: 18, Valid Hexes: 20
+Map Script: Feature Type: 19, Valid Hexes: 19
+Map Script: Feature Type: 20, Valid Hexes: 0
+Map Script: Feature Type: 21, Valid Hexes: 171
+Map Script: Feature Type: 22, Valid Hexes: 0
+Map Script: Feature Type: 23, Valid Hexes: 2
+Map Script: Feature Type: 24, Valid Hexes: 0
+Map Script: Feature Type: 25, Valid Hexes: 28
+Map Script: Feature Type: 26, Valid Hexes: 30
+Map Script: Feature Type: 27, Valid Hexes: 23
+Map Script: Feature Type: 28, Valid Hexes: 12
+Map Script: Feature Type: 29, Valid Hexes: 0
+Map Script: Feature Type: 36, Valid Hexes: 37
+Map Script: Feature Type: 37, Valid Hexes: 104
+Map Script: Feature Type: 38, Valid Hexes: 34
+Map Script: Feature Type: 39, Valid Hexes: 21
+Map Script: Feature Type: 40, Valid Hexes: 52
+Map Script: Feature Type: 41, Valid Hexes: 36
+Map Script: Feature Type: 42, Valid Hexes: 0
+Map Script: Feature Type: 43, Valid Hexes: 0
+Map Script: Feature Type: 44, Valid Hexes: 75
+Map Script: Feature Type: 45, Valid Hexes: 5
+Map Script: Num wonders with valid location: 25
+Map Script:  Selected Wonder = 13, Random Score = 	93
+Map Script:  Set Wonder with Feature ID of 19 at location (14, 59)
+Map Script:  Selected Wonder = 19, Random Score = 	92
+Map Script:  Set Wonder with Feature ID of 25 at location (69, 24)
+Map Script:  Selected Wonder = 8, Random Score = 	86
+Map Script:  Set Wonder with Feature ID of 14 at location (17, 46)
+Map Script:  Selected Wonder = 25, Random Score = 	86
+Map Script:  Set Wonder with Feature ID of 37 at location (78, 50)
+Map Script:  Selected Wonder = 27, Random Score = 	81
+Map Script:  Set Wonder with Feature ID of 39 at location (4, 33)
+Map Script:  Selected Wonder = 29, Random Score = 	81
+Map Script:  Set Wonder with Feature ID of 41 at location (58, 36)
+Map Script: Adding Features from Continents
+Map Script: Fissure Placed at (x, y): 72, 33
+Map Script: Fissure Placed at (x, y): 16, 54
+Map Script: Fissure Placed at (x, y): 72, 34
+Map Script: Fissure Placed at (x, y): 17, 49
+Map Script: Fissure Placed at (x, y): 71, 40
+Map Script: Fissure Placed at (x, y): 17, 51
+Map Script: Fissure Placed at (x, y): 72, 36
+Map Script: Fissure Placed at (x, y): 60, 57
+Map Script: Number of Oasis: 	0
+Map Script: Number of Fissures: 	8
+Map Script: Map Generation - Marking Coastal Lowlands
+Map Script: 324 Coastal Lowland tiles added
+Map Script:   4510077014270f eligible coastal tiles
+Map Script: In ResourceGenerator.Create()
+Map Script:     Placing resources
+Map Script: Creating start plot database.
+Map Script: Major Start X: 	60	Major Start Y: 	42
+Map Script: Major Start X: 	24	Major Start Y: 	49
+Map Script: Major Start X: 	15	Major Start Y: 	31
+Map Script: Major Start X: 	41	Major Start Y: 	35
+Map Script: Major Start X: 	69	Major Start Y: 	36
+Map Script: Major Start X: 	72	Major Start Y: 	19
+Map Script: Major Start X: 	80	Major Start Y: 	33
+Map Script: Major Start X: 	61	Major Start Y: 	19
+Map Script: Major Start X: 	87	Major Start Y: 	50
+Map Script: Major Start X: 	9	Major Start Y: 	44
+Map Script: Minor Start X: 	39	Minor Start Y: 	48
+Map Script: Minor Start X: 	74	Minor Start Y: 	39
+Map Script: Minor Start X: 	80	Minor Start Y: 	27
+Map Script: Minor Start X: 	76	Minor Start Y: 	30
+Map Script: Minor Start X: 	45	Minor Start Y: 	40
+Map Script: Minor Start X: 	14	Minor Start Y: 	24
+Map Script: Minor Start X: 	87	Minor Start Y: 	17
+Map Script: Minor Start X: 	25	Minor Start Y: 	43
+Map Script: Minor Start X: 	11	Minor Start Y: 	35
+Map Script: Minor Start X: 	19	Minor Start Y: 	36
+Map Script: Minor Start X: 	12	Minor Start Y: 	49
+Map Script: Minor Start X: 	64	Minor Start Y: 	32
+Map Script: Minor Start X: 	66	Minor Start Y: 	17
+Map Script: Minor Start X: 	59	Minor Start Y: 	36
+Map Script: Minor Start X: 	68	Minor Start Y: 	29
+Map Script: -------------------------------
+Map Script: Map Generation - Adding Goodies
+Map Script: -------------------------------
+WorldCongress: Initializing World Congress Lua
+MapLabelManager: 북극해 (-122.879737854, -1344.3834228516)
+MapLabelManager: 북극해 (119.57872772217, -687.06982421875)
+MapLabelManager: 북극해 (594.73809814453, -522.74261474609)
+MapLabelManager: 태평양 (-156.81051635742, 5.1121339797974)
+MapLabelManager: 태평양 (329.70376586914, 99.439498901367)
+MapLabelManager: 인도양 (2730.5776367188, 1378.5111083984)
+MapLabelManager: 인도양 (2935.0759277344, 60.233375549316)
+MapLabelManager: 인도양 (2781.1235351563, 677.96130371094)
+MapLabelManager: 테우안테펙만 (2391.900390625, -87.948844909668)
+MapLabelManager: 세투발만 (981.64447021484, 1119.6014404297)
+MapSearchPanel: Created SearchContext 'MapSearch_Primary'
+MapSearchPanel: Created SearchContext 'MapSearch_Suggestions'
+ReportsList: Loading ReportsListLoader.lua from ReportsList Loader 1.1
+ReportsList: OK loaded ReportsListLoader.lua from ReportsList Loader
+GovernmentScreen: FinalFreak16: Loading Mod - AlternatePolicyScreen <EXPANSION2> - With Better Report Screen Enhancements
+GreatPeoplePopup: Loading GreatPeoplePopup.lua from RGP Mod, version 4.0
+GreatPeoplePopup: OK loaded GreatPeoplePopup.lua from RGP Mod
+ReportScreen: Loading ReportScreen.lua from Better Report Screen version 6.1
+ReportScreen: Rise & Fall    :	YES
+ReportScreen: Gathering Storm:	YES
+ReportScreen: Monopolies     :	YES
+ReportScreen: OK loaded ReportScreen.lua from Better Report Screen
+MapPinPopup: initializing MapTacks.IconOptions(0)
+MapPinPopup: Selected 16 columns
+CivilopediaScreen: Loading CivilopediaPage_GreatPerson.lua from RGP Mod, version 4.0
+CivilopediaScreen: OK loaded CivilopediaPage_GreatPerson.lua from RGP Mod
+CivilopediaScreen: Loading CivilopediaPage_GreatPerson.lua from RGP Mod, version 4.0
+CivilopediaScreen: OK loaded CivilopediaPage_GreatPerson.lua from RGP Mod
+InGame: Loading InGame UI - D:/SteamLibrary/steamapps/workshop/content/289070/1719123304/UI/ToolTips
+Error opening/reading where=, file=D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\ToolTips.lua
+InGame: Loading InGame UI - D:/SteamLibrary/steamapps/workshop/content/289070/1312585482/RealModifierAnalysis
+RealModifierAnalysis: Loading Real Modifier Analysis.lua from Better Report Screen version 6.1
+RealModifierAnalysis: OK loaded Real Modifier Analysis.lua from Better Report Screen
+InGame: Loading InGame UI - ../../../DLC/Expansion2/UI/Additions/DedicationPopup
+InGame: Loading InGame UI - ../../../DLC/Expansion2/UI/Additions/DisloyalCityChooser
+InGame: Loading InGame UI - ../../../DLC/Expansion2/UI/Additions/EraProgressPanel
+InGame: Loading InGame UI - ../../../DLC/Expansion2/UI/Additions/EraReviewPopup
+InGame: Loading InGame UI - ../../../DLC/Expansion2/UI/Additions/ExpansionIntro
+InGame: Loading InGame UI - ../../../DLC/Expansion2/UI/Additions/GovernorAssignmentChooser
+InGame: Loading InGame UI - ../../../DLC/Expansion2/UI/Additions/GovernorPanel
+InGame: Loading InGame UI - ../../../DLC/Expansion2/UI/Additions/HistoricMoments
+InGame: Loading InGame UI - ../../../DLC/Expansion2/UI/Additions/WorldCrisisPopup
+InGame: Loading InGame UI - ../../../DLC/KublaiKhan_Vietnam/UI/Additions/CreateCorporationPopup
+InGame: Loading InGame UI - ../../../DLC/Ethiopia/UI/Additions/SecretSocietyPopup
+InGame: Loading InGame UI - D:/SteamLibrary/steamapps/workshop/content/289070/1719123304/UI/WorldView/CityBannerManager
+TutorialUIRoot: Tutorial: Firaxis in game tutorial prompts.
+TutorialUIRoot: Version: 1
+TutorialUIRoot: Loading bank of items for tutorial scenario: 'BASE'
+MapLabelManager: 북극해 (-122.879737854, -1344.3834228516)
+MapLabelManager: 북극해 (119.57872772217, -687.06982421875)
+MapLabelManager: 북극해 (594.73809814453, -522.74261474609)
+MapLabelManager: 태평양 (-156.81051635742, 5.1121339797974)
+MapLabelManager: 태평양 (329.70376586914, 99.439498901367)
+MapLabelManager: 인도양 (2730.5776367188, 1378.5111083984)
+MapLabelManager: 인도양 (2935.0759277344, 60.233375549316)
+MapLabelManager: 인도양 (2781.1235351563, 677.96130371094)
+MapLabelManager: 테우안테펙만 (2391.900390625, -87.948844909668)
+MapLabelManager: 세투발만 (981.64447021484, 1119.6014404297)
+LoadScreen: OnLoadGameViewStateDone
+Runtime Error: D:\SteamLibrary\steamapps\common\Sid Meier's Civilization VI\Base\Assets\UI\WorldViewIconsManager.lua:740: attempt to index a nil value
+stack traceback:
+	D:\SteamLibrary\steamapps\common\Sid Meier's Civilization VI\Base\Assets\UI\WorldViewIconsManager.lua:740: in function '(anonymous)'
+Lua callstack:
+NaturalWonderPopup: PopupManager.LOCK   'NaturalWonderPopup', id: 24490, priority:1000
+InGame: Request to BulkHide( true, NaturalWonder ), Show on 0 = 1
+InGame: Request to BulkHide( false, NaturalWonder ), Show on 0 = 0
+NaturalWonderPopup: PopupManager.Unlock 'NaturalWonderPopup', id: 24490, priority:1000
+Runtime Error: D:\SteamLibrary\steamapps\common\Sid Meier's Civilization VI\Base\Assets\UI\WorldViewIconsManager.lua:740: attempt to index a nil value
+stack traceback:
+	D:\SteamLibrary\steamapps\common\Sid Meier's Civilization VI\Base\Assets\UI\WorldViewIconsManager.lua:740: in function '(anonymous)'
+Lua callstack:
+Runtime Error: D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: function expected instead of nil
+stack traceback:
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: in function 'CityBanner:new'
+	(tail call): ?
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:2635: in function 'OnCityAddedToMap'
+	[C]: in function 'func'
+	[C]: in function '(anonymous)'
+Runtime Error: D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: function expected instead of nil
+stack traceback:
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: in function 'CityBanner:new'
+	(tail call): ?
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:2635: in function 'OnCityAddedToMap'
+	[C]: in function 'func'
+	[C]: in function '(anonymous)'
+Runtime Error: D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: function expected instead of nil
+stack traceback:
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: in function 'CityBanner:new'
+	(tail call): ?
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:2635: in function 'OnCityAddedToMap'
+	[C]: in function 'func'
+	[C]: in function '(anonymous)'
+Runtime Error: D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: function expected instead of nil
+stack traceback:
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: in function 'CityBanner:new'
+	(tail call): ?
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:2635: in function 'OnCityAddedToMap'
+	[C]: in function 'func'
+	[C]: in function '(anonymous)'
+Runtime Error: D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: function expected instead of nil
+stack traceback:
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: in function 'CityBanner:new'
+	(tail call): ?
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:2635: in function 'OnCityAddedToMap'
+	[C]: in function 'func'
+	[C]: in function '(anonymous)'
+Runtime Error: D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: function expected instead of nil
+stack traceback:
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: in function 'CityBanner:new'
+	(tail call): ?
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:2635: in function 'OnCityAddedToMap'
+	[C]: in function 'func'
+	[C]: in function '(anonymous)'
+Runtime Error: D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: function expected instead of nil
+stack traceback:
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: in function 'CityBanner:new'
+	(tail call): ?
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:2635: in function 'OnCityAddedToMap'
+	[C]: in function 'func'
+	[C]: in function '(anonymous)'
+Runtime Error: D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: function expected instead of nil
+stack traceback:
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: in function 'CityBanner:new'
+	(tail call): ?
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:2635: in function 'OnCityAddedToMap'
+	[C]: in function 'func'
+	[C]: in function '(anonymous)'
+Runtime Error: D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: function expected instead of nil
+stack traceback:
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: in function 'CityBanner:new'
+	(tail call): ?
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:2635: in function 'OnCityAddedToMap'
+	[C]: in function 'func'
+	[C]: in function '(anonymous)'
+Runtime Error: D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: function expected instead of nil
+stack traceback:
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: in function 'CityBanner:new'
+	(tail call): ?
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:2635: in function 'OnCityAddedToMap'
+	[C]: in function 'func'
+	[C]: in function '(anonymous)'
+Runtime Error: D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: function expected instead of nil
+stack traceback:
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: in function 'CityBanner:new'
+	(tail call): ?
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:2635: in function 'OnCityAddedToMap'
+	[C]: in function 'func'
+	[C]: in function '(anonymous)'
+Runtime Error: D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: function expected instead of nil
+stack traceback:
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: in function 'CityBanner:new'
+	(tail call): ?
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:2635: in function 'OnCityAddedToMap'
+	[C]: in function 'func'
+	[C]: in function '(anonymous)'
+Runtime Error: D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: function expected instead of nil
+stack traceback:
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: in function 'CityBanner:new'
+	(tail call): ?
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:2635: in function 'OnCityAddedToMap'
+	[C]: in function 'func'
+	[C]: in function '(anonymous)'
+Runtime Error: D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: function expected instead of nil
+stack traceback:
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: in function 'CityBanner:new'
+	(tail call): ?
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:2635: in function 'OnCityAddedToMap'
+	[C]: in function 'func'
+	[C]: in function '(anonymous)'
+Runtime Error: D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: function expected instead of nil
+stack traceback:
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: in function 'CityBanner:new'
+	(tail call): ?
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:2635: in function 'OnCityAddedToMap'
+	[C]: in function 'func'
+	[C]: in function '(anonymous)'
+Runtime Error: D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: function expected instead of nil
+stack traceback:
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: in function 'CityBanner:new'
+	(tail call): ?
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:2635: in function 'OnCityAddedToMap'
+	[C]: in function 'func'
+	[C]: in function '(anonymous)'
+Runtime Error: D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: function expected instead of nil
+stack traceback:
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: in function 'CityBanner:new'
+	(tail call): ?
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:2635: in function 'OnCityAddedToMap'
+	[C]: in function 'func'
+	[C]: in function '(anonymous)'
+Runtime Error: D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: function expected instead of nil
+stack traceback:
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: in function 'CityBanner:new'
+	(tail call): ?
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:2635: in function 'OnCityAddedToMap'
+	[C]: in function 'func'
+	[C]: in function '(anonymous)'
+Runtime Error: D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: function expected instead of nil
+stack traceback:
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: in function 'CityBanner:new'
+	(tail call): ?
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:2635: in function 'OnCityAddedToMap'
+	[C]: in function 'func'
+	[C]: in function '(anonymous)'
+Runtime Error: D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: function expected instead of nil
+stack traceback:
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: in function 'CityBanner:new'
+	(tail call): ?
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:2635: in function 'OnCityAddedToMap'
+	[C]: in function 'func'
+	[C]: in function '(anonymous)'
+Runtime Error: D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: function expected instead of nil
+stack traceback:
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: in function 'CityBanner:new'
+	(tail call): ?
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:2635: in function 'OnCityAddedToMap'
+	[C]: in function 'func'
+	[C]: in function '(anonymous)'
+Runtime Error: D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: function expected instead of nil
+stack traceback:
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: in function 'CityBanner:new'
+	(tail call): ?
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:2635: in function 'OnCityAddedToMap'
+	[C]: in function 'func'
+	[C]: in function '(anonymous)'
+Runtime Error: D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: function expected instead of nil
+stack traceback:
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: in function 'CityBanner:new'
+	(tail call): ?
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:2635: in function 'OnCityAddedToMap'
+	[C]: in function 'func'
+	[C]: in function '(anonymous)'
+Runtime Error: D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: function expected instead of nil
+stack traceback:
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: in function 'CityBanner:new'
+	(tail call): ?
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:2635: in function 'OnCityAddedToMap'
+	[C]: in function 'func'
+	[C]: in function '(anonymous)'
+Runtime Error: D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: function expected instead of nil
+stack traceback:
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: in function 'CityBanner:new'
+	(tail call): ?
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:2635: in function 'OnCityAddedToMap'
+	[C]: in function 'func'
+	[C]: in function '(anonymous)'
+Runtime Error: D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: function expected instead of nil
+stack traceback:
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: in function 'CityBanner:new'
+	(tail call): ?
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:2635: in function 'OnCityAddedToMap'
+	[C]: in function 'func'
+	[C]: in function '(anonymous)'
+Runtime Error: D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: function expected instead of nil
+stack traceback:
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: in function 'CityBanner:new'
+	(tail call): ?
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:2635: in function 'OnCityAddedToMap'
+	[C]: in function 'func'
+	[C]: in function '(anonymous)'
+Runtime Error: D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: function expected instead of nil
+stack traceback:
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: in function 'CityBanner:new'
+	(tail call): ?
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:2635: in function 'OnCityAddedToMap'
+	[C]: in function 'func'
+	[C]: in function '(anonymous)'
+Runtime Error: D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: function expected instead of nil
+stack traceback:
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: in function 'CityBanner:new'
+	(tail call): ?
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:2635: in function 'OnCityAddedToMap'
+	[C]: in function 'func'
+	[C]: in function '(anonymous)'
+Runtime Error: D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: function expected instead of nil
+stack traceback:
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: in function 'CityBanner:new'
+	(tail call): ?
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:2635: in function 'OnCityAddedToMap'
+	[C]: in function 'func'
+	[C]: in function '(anonymous)'
+Runtime Error: D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: function expected instead of nil
+stack traceback:
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: in function 'CityBanner:new'
+	(tail call): ?
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:2635: in function 'OnCityAddedToMap'
+	[C]: in function 'func'
+	[C]: in function '(anonymous)'
+Runtime Error: D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: function expected instead of nil
+stack traceback:
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: in function 'CityBanner:new'
+	(tail call): ?
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:2635: in function 'OnCityAddedToMap'
+	[C]: in function 'func'
+	[C]: in function '(anonymous)'
+Runtime Error: D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: function expected instead of nil
+stack traceback:
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: in function 'CityBanner:new'
+	(tail call): ?
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:2635: in function 'OnCityAddedToMap'
+	[C]: in function 'func'
+	[C]: in function '(anonymous)'
+Runtime Error: D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: function expected instead of nil
+stack traceback:
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: in function 'CityBanner:new'
+	(tail call): ?
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:2635: in function 'OnCityAddedToMap'
+	[C]: in function 'func'
+	[C]: in function '(anonymous)'
+Runtime Error: D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: function expected instead of nil
+stack traceback:
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: in function 'CityBanner:new'
+	(tail call): ?
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:2635: in function 'OnCityAddedToMap'
+	[C]: in function 'func'
+	[C]: in function '(anonymous)'
+Runtime Error: D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: function expected instead of nil
+stack traceback:
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: in function 'CityBanner:new'
+	(tail call): ?
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:2635: in function 'OnCityAddedToMap'
+	[C]: in function 'func'
+	[C]: in function '(anonymous)'
+Runtime Error: D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: function expected instead of nil
+stack traceback:
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: in function 'CityBanner:new'
+	(tail call): ?
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:2635: in function 'OnCityAddedToMap'
+	[C]: in function 'func'
+	[C]: in function '(anonymous)'
+Runtime Error: D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: function expected instead of nil
+stack traceback:
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: in function 'CityBanner:new'
+	(tail call): ?
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:2635: in function 'OnCityAddedToMap'
+	[C]: in function 'func'
+	[C]: in function '(anonymous)'
+Runtime Error: D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: function expected instead of nil
+stack traceback:
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: in function 'CityBanner:new'
+	(tail call): ?
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:2635: in function 'OnCityAddedToMap'
+	[C]: in function 'func'
+	[C]: in function '(anonymous)'
+Runtime Error: D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: function expected instead of nil
+stack traceback:
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: in function 'CityBanner:new'
+	(tail call): ?
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:2635: in function 'OnCityAddedToMap'
+	[C]: in function 'func'
+	[C]: in function '(anonymous)'
+Runtime Error: D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: function expected instead of nil
+stack traceback:
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: in function 'CityBanner:new'
+	(tail call): ?
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:2635: in function 'OnCityAddedToMap'
+	[C]: in function 'func'
+	[C]: in function '(anonymous)'
+Runtime Error: D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: function expected instead of nil
+stack traceback:
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: in function 'CityBanner:new'
+	(tail call): ?
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:2635: in function 'OnCityAddedToMap'
+	[C]: in function 'func'
+	[C]: in function '(anonymous)'
+Runtime Error: D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: function expected instead of nil
+stack traceback:
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: in function 'CityBanner:new'
+	(tail call): ?
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:2635: in function 'OnCityAddedToMap'
+	[C]: in function 'func'
+	[C]: in function '(anonymous)'
+Runtime Error: D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: function expected instead of nil
+stack traceback:
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:154: in function 'CityBanner:new'
+	(tail call): ?
+	D:\SteamLibrary\steamapps\workshop\content\289070\1719123304\UI\WorldView\CityBannerManager.lua:2635: in function 'OnCityAddedToMap'
+	[C]: in function 'func'
+	[C]: in function '(anonymous)'
+Runtime Error: D:\SteamLibrary\steamapps\common\Sid Meier's Civilization VI\Base\Assets\UI\WorldViewIconsManager.lua:740: attempt to index a nil value
+stack traceback:
+	D:\SteamLibrary\steamapps\common\Sid Meier's Civilization VI\Base\Assets\UI\WorldViewIconsManager.lua:740: in function '(anonymous)'
+Lua callstack:
+Runtime Error: D:\SteamLibrary\steamapps\common\Sid Meier's Civilization VI\Base\Assets\UI\WorldViewIconsManager.lua:740: attempt to index a nil value
+stack traceback:
+	D:\SteamLibrary\steamapps\common\Sid Meier's Civilization VI\Base\Assets\UI\WorldViewIconsManager.lua:740: in function '(anonymous)'
+Lua callstack:
+Runtime Error: D:\SteamLibrary\steamapps\common\Sid Meier's Civilization VI\Base\Assets\UI\WorldViewIconsManager.lua:740: attempt to index a nil value
+stack traceback:
+	D:\SteamLibrary\steamapps\common\Sid Meier's Civilization VI\Base\Assets\UI\WorldViewIconsManager.lua:740: in function '(anonymous)'
+Lua callstack:
+Mods: Failed to create mods browser search context!
+Test: Test.LUA loaded!
+JoiningRoom: OnFinishedGameplayContentConfigure() g_waitingForContentConfigure=true
+JoiningRoom: OnFinishedGameplayContentConfigure() g_waitingForContentConfigure=true
+AdvancedSetup: There are 6 participating players.
+AdvancedSetup: Building Game Setup
+AdvancedSetup: Player Count Changed
+AdvancedSetup: There are 6 participating players.
+AdvancedSetup: Player Count Changed
+AdvancedSetup: There are 6 participating players.
+JoiningRoom: OnFinishedGameplayContentConfigure() g_waitingForContentConfigure=true
+AdvancedSetup: Player Count Changed
+AdvancedSetup: There are 10 participating players.
+AdvancedSetup: Hiding Game Setup
+AdvancedSetup: There are 10 participating players.
+AdvancedSetup: Building Game Setup
+JoiningRoom: OnFinishedGameplayContentConfigure() g_waitingForContentConfigure=true
+AdvancedSetup: Hiding Game Setup
+LoadScreen: true
+LoadScreen: false
+GenerateRandomMap: Map Seed = -300647455
+Map Script: Generating Archipelago Map
+Map Script: Generating Plot Types
+Map Script: Shifted Plots - Width: 	96	Height: 	60
+Map Script: Shifted Plots - Width: 	96	Height: 	60
+Map Script: Shifted Plots - Width: 	96	Height: 	60
+Map Script: Existing Ratio	70.083333333333
+Map Script: New Mountains 	186
+Map Script: Mountain Set	187
+Map Script: Generating Terrain Types
+Map Script: -
+Map Script: - Desert Percentage:	25
+Map Script: --- Latitude Readout ---
+Map Script: - All Grass End Latitude:	0.1
+Map Script: - Desert Start Latitude:	0.2
+Map Script: - Desert End Latitude:	0.5
+Map Script: - Tundra Start Latitude:	0.65
+Map Script: - Snow Start Latitude:	0.8
+Map Script: - - - - - - - - - - - - - -
+Map Script: Expanding coasts
+Map Script: After Adding Hills: 	227
+Map Script: Desired Volcanoes: 5.6066666666667
+Map Script: Continent Boundary Plots: 80
+Map Script: Boundary Plots Per Volcano: 21.403091557669
+Map Script: Continent Edge Volcanoes Placed: 0
+Map Script: Volcano Placed at (x, y): 25, 7
+Map Script: Volcano Placed at (x, y): 85, 55
+Map Script: Volcano Placed at (x, y): 74, 46
+Map Script: Volcano Placed at (x, y): 65, 18
+Map Script: Volcano Placed at (x, y): 2, 26
+Map Script: Volcano Placed at (x, y): 42, 16
+Map Script: Volcano Placed at (x, y): 17, 30
+Map Script: Volcano Placed at (x, y): 24, 39
+Map Script: Total Volcanoes Placed: 8
+Map Script: Num Mountains: 219
+Map Script: Map Generation - Adding Rivers
+Map Script: Map Generation - Adding Lakes
+Map Script: 1 lakes added
+Map Script: Adding Features
+Map Script: Permanent Ice Tiles: 129.6
+Map Script: iPhaseIndex: 7, iIceTilesToAdd: 129.6, RandomEventEnum: 30
+Map Script: iPhaseIndex: 6, iIceTilesToAdd: 129.6, RandomEventEnum: 29
+Map Script: iPhaseIndex: 5, iIceTilesToAdd: 129.6, RandomEventEnum: 28
+Map Script: iPhaseIndex: 4, iIceTilesToAdd: 86.4, RandomEventEnum: 27
+Map Script: iPhaseIndex: 3, iIceTilesToAdd: 86.4, RandomEventEnum: 26
+Map Script: iPhaseIndex: 2, iIceTilesToAdd: 86.4, RandomEventEnum: 25
+Map Script: iPhaseIndex: 1, iIceTilesToAdd: 86.4, RandomEventEnum: 24
+Map Script: Number of Tiles: 	1392
+Map Script: Number of Forests: 	236
+Map Script: Percent Forests: 	16.954022988506
+Map Script: Number of Jungles: 	96
+Map Script: Percent Jungles: 	6.8965517241379
+Map Script: Percent of Junglable: 	40.336134453782
+Map Script: Number of Marshes: 	36
+Map Script: Adding cliffs
+Map Script: In NaturalWonderGenerator.Create()
+Map Script:     Placing 6 Natural Wonders
+Map Script: Feature Type: 6, Valid Hexes: 4
+Map Script: Feature Type: 7, Valid Hexes: 2
+Map Script: Feature Type: 8, Valid Hexes: 38
+Map Script: Feature Type: 9, Valid Hexes: 0
+Map Script: Feature Type: 10, Valid Hexes: 0
+Map Script: Feature Type: 11, Valid Hexes: 16
+Map Script: Feature Type: 12, Valid Hexes: 31
+Map Script: Feature Type: 13, Valid Hexes: 0
+Map Script: Feature Type: 14, Valid Hexes: 2
+Map Script: Feature Type: 15, Valid Hexes: 0
+Map Script: Feature Type: 16, Valid Hexes: 8
+Map Script: Feature Type: 17, Valid Hexes: 0
+Map Script: Feature Type: 18, Valid Hexes: 8
+Map Script: Feature Type: 19, Valid Hexes: 8
+Map Script: Feature Type: 20, Valid Hexes: 0
+Map Script: Feature Type: 21, Valid Hexes: 161
+Map Script: Feature Type: 22, Valid Hexes: 0
+Map Script: Feature Type: 23, Valid Hexes: 1
+Map Script: Feature Type: 24, Valid Hexes: 0
+Map Script: Feature Type: 25, Valid Hexes: 17
+Map Script: Feature Type: 26, Valid Hexes: 26
+Map Script: Feature Type: 27, Valid Hexes: 16
+Map Script: Feature Type: 28, Valid Hexes: 0
+Map Script: Feature Type: 29, Valid Hexes: 2
+Map Script: Feature Type: 36, Valid Hexes: 20
+Map Script: Feature Type: 37, Valid Hexes: 71
+Map Script: Feature Type: 38, Valid Hexes: 8
+Map Script: Feature Type: 39, Valid Hexes: 5
+Map Script: Feature Type: 40, Valid Hexes: 29
+Map Script: Feature Type: 41, Valid Hexes: 33
+Map Script: Feature Type: 42, Valid Hexes: 0
+Map Script: Feature Type: 43, Valid Hexes: 3
+Map Script: Feature Type: 44, Valid Hexes: 50
+Map Script: Feature Type: 45, Valid Hexes: 2
+Map Script: Num wonders with valid location: 24
+Map Script:  Selected Wonder = 20, Random Score = 	95
+Map Script:  Set Wonder with Feature ID of 26 at location (48, 49)
+Map Script:  Selected Wonder = 17, Random Score = 	91
+Map Script:  Set Wonder with Feature ID of 23 at location (48, 36)
+Map Script:  Selected Wonder = 32, Random Score = 	89
+Map Script:  Set Wonder with Feature ID of 44 at location (75, 11)
+Map Script:  Selected Wonder = 12, Random Score = 	85
+Map Script:  Set Wonder with Feature ID of 18 at location (71, 29)
+Map Script:  Selected Wonder = 1, Random Score = 	84
+Map Script:  Set Wonder with Feature ID of 7 at location (14, 16)
+Map Script:  Selected Wonder = 13, Random Score = 	84
+Map Script:  Set Wonder with Feature ID of 19 at location (28, 52)
+Map Script: Adding Features from Continents
+Map Script: Fissure Placed at (x, y): 41, 28
+Map Script: Fissure Placed at (x, y): 51, 37
+Map Script: Fissure Placed at (x, y): 64, 30
+Map Script: Fissure Placed at (x, y): 43, 29
+Map Script: Fissure Placed at (x, y): 67, 14
+Map Script: Fissure Placed at (x, y): 64, 17
+Map Script: Fissure Placed at (x, y): 87, 18
+Map Script: Number of Oasis: 	0
+Map Script: Number of Fissures: 	7
+Map Script: Map Generation - Marking Coastal Lowlands
+Map Script: 326 Coastal Lowland tiles added
+Map Script:   4510077014270f eligible coastal tiles
+Map Script: In ResourceGenerator.Create()
+Map Script:     Placing resources
+Map Script: Creating start plot database.
+Map Script: Major Start X: 	79	Major Start Y: 	21
+Map Script: Major Start X: 	46	Major Start Y: 	39
+Map Script: Major Start X: 	16	Major Start Y: 	29
+Map Script: Major Start X: 	70	Major Start Y: 	15
+Map Script: Major Start X: 	22	Major Start Y: 	41
+Map Script: Major Start X: 	94	Major Start Y: 	45
+Map Script: Major Start X: 	31	Major Start Y: 	18
+Map Script: Major Start X: 	68	Major Start Y: 	43
+Map Script: Major Start X: 	33	Major Start Y: 	42
+Map Script: Major Start X: 	52	Major Start Y: 	13
+Map Script: Minor Start X: 	22	Minor Start Y: 	33
+Map Script: Minor Start X: 	15	Minor Start Y: 	43
+Map Script: Minor Start X: 	48	Minor Start Y: 	45
+Map Script: Minor Start X: 	91	Minor Start Y: 	20
+Map Script: Minor Start X: 	4	Minor Start Y: 	28
+Map Script: Minor Start X: 	64	Minor Start Y: 	18
+Map Script: Minor Start X: 	72	Minor Start Y: 	48
+Map Script: Minor Start X: 	23	Minor Start Y: 	11
+Map Script: Minor Start X: 	2	Minor Start Y: 	52
+Map Script: Minor Start X: 	79	Minor Start Y: 	50
+Map Script: Minor Start X: 	35	Minor Start Y: 	33
+Map Script: Minor Start X: 	37	Minor Start Y: 	46
+Map Script: Minor Start X: 	48	Minor Start Y: 	17
+Map Script: Minor Start X: 	35	Minor Start Y: 	15
+Map Script: Minor Start X: 	57	Minor Start Y: 	15
+Map Script: -------------------------------
+Map Script: Map Generation - Adding Goodies
+Map Script: -------------------------------
+WorldCongress: Initializing World Congress Lua
+MapLabelManager: 태평양 (-2407.818359375, -208.10746765137)
+MapLabelManager: 태평양 (-2315.85546875, -676.00476074219)
+MapLabelManager: 이아페투스해 (-1320.9680175781, -342.62408447266)
+MapLabelManager: 이아페투스해 (-1666.1218261719, -543.25866699219)
+MapLabelManager: 인도양 (2765.3740234375, 243.97900390625)
+MapLabelManager: 인도양 (2503.9619140625, -175.18075561523)
+MapLabelManager: 인도양 (1799.59375, -48.675956726074)
+MapLabelManager: 판탈라사해 (-413.14407348633, 473.05993652344)
+MapLabelManager: 판탈라사해 (-692.416015625, 1209.0294189453)
+MapLabelManager: 판탈라사해 (264.83627319336, -29.173387527466)
+MapLabelManager: 판탈라사해 (-1625.0366210938, 1381.6693115234)
+MapLabelManager: 판탈라사해 (-1111.2761230469, 1453.2097167969)
+MapLabelManager: 판탈라사해 (-498.455078125, -369.60665893555)
+MapLabelManager: 판탈라사해 (-323.0087890625, 1353.1859130859)
+MapLabelManager: 북극해 (2572.6472167969, 962.78497314453)
+MapLabelManager: 북극해 (2179.6201171875, 640.11865234375)
+MapLabelManager: 스트리모니안만 (135.51301574707, -1310.1948242188)
+MapLabelManager: 리구리아해 (-1378.3883056641, 824.95037841797)
+MapLabelManager: 리구리아해 (-1209.5302734375, 237.48983764648)
+MapSearchPanel: Created SearchContext 'MapSearch_Primary'
+MapSearchPanel: Created SearchContext 'MapSearch_Suggestions'
+ReportsList: Loading ReportsListLoader.lua from ReportsList Loader 1.1
+ReportsList: OK loaded ReportsListLoader.lua from ReportsList Loader
+GovernmentScreen: FinalFreak16: Loading Mod - AlternatePolicyScreen <EXPANSION2> - With Better Report Screen Enhancements
+GreatPeoplePopup: Loading GreatPeoplePopup.lua from RGP Mod, version 4.0
+GreatPeoplePopup: OK loaded GreatPeoplePopup.lua from RGP Mod
+ReportScreen: Loading ReportScreen.lua from Better Report Screen version 6.1
+ReportScreen: Rise & Fall    :	YES
+ReportScreen: Gathering Storm:	YES
+ReportScreen: Monopolies     :	YES
+ReportScreen: OK loaded ReportScreen.lua from Better Report Screen
+MapPinPopup: initializing MapTacks.IconOptions(0)
+MapPinPopup: Selected 16 columns
+CivilopediaScreen: Loading CivilopediaPage_GreatPerson.lua from RGP Mod, version 4.0
+CivilopediaScreen: OK loaded CivilopediaPage_GreatPerson.lua from RGP Mod
+CivilopediaScreen: Loading CivilopediaPage_GreatPerson.lua from RGP Mod, version 4.0
+CivilopediaScreen: OK loaded CivilopediaPage_GreatPerson.lua from RGP Mod
+InGame: Loading InGame UI - D:/SteamLibrary/steamapps/workshop/content/289070/1312585482/RealModifierAnalysis
+RealModifierAnalysis: Loading Real Modifier Analysis.lua from Better Report Screen version 6.1
+RealModifierAnalysis: OK loaded Real Modifier Analysis.lua from Better Report Screen
+InGame: Loading InGame UI - ../../../DLC/Expansion2/UI/Additions/DedicationPopup
+InGame: Loading InGame UI - ../../../DLC/Expansion2/UI/Additions/DisloyalCityChooser
+InGame: Loading InGame UI - ../../../DLC/Expansion2/UI/Additions/EraProgressPanel
+InGame: Loading InGame UI - ../../../DLC/Expansion2/UI/Additions/EraReviewPopup
+InGame: Loading InGame UI - ../../../DLC/Expansion2/UI/Additions/ExpansionIntro
+InGame: Loading InGame UI - ../../../DLC/Expansion2/UI/Additions/GovernorAssignmentChooser
+InGame: Loading InGame UI - ../../../DLC/Expansion2/UI/Additions/GovernorPanel
+InGame: Loading InGame UI - ../../../DLC/Expansion2/UI/Additions/HistoricMoments
+InGame: Loading InGame UI - ../../../DLC/Expansion2/UI/Additions/WorldCrisisPopup
+InGame: Loading InGame UI - ../../../DLC/KublaiKhan_Vietnam/UI/Additions/CreateCorporationPopup
+InGame: Loading InGame UI - ../../../DLC/Ethiopia/UI/Additions/SecretSocietyPopup
+TutorialUIRoot: Tutorial: Firaxis in game tutorial prompts.
+TutorialUIRoot: Version: 1
+TutorialUIRoot: Loading bank of items for tutorial scenario: 'BASE'
+MapLabelManager: 태평양 (-2407.818359375, -208.10746765137)
+MapLabelManager: 태평양 (-2315.85546875, -676.00476074219)
+MapLabelManager: 이아페투스해 (-1320.9680175781, -342.62408447266)
+MapLabelManager: 이아페투스해 (-1666.1218261719, -543.25866699219)
+MapLabelManager: 인도양 (2765.3740234375, 243.97900390625)
+MapLabelManager: 인도양 (2503.9619140625, -175.18075561523)
+MapLabelManager: 인도양 (1799.59375, -48.675956726074)
+MapLabelManager: 판탈라사해 (-413.14407348633, 473.05993652344)
+MapLabelManager: 판탈라사해 (-692.416015625, 1209.0294189453)
+MapLabelManager: 판탈라사해 (264.83627319336, -29.173387527466)
+MapLabelManager: 판탈라사해 (-1625.0366210938, 1381.6693115234)
+MapLabelManager: 판탈라사해 (-1111.2761230469, 1453.2097167969)
+MapLabelManager: 판탈라사해 (-498.455078125, -369.60665893555)
+MapLabelManager: 판탈라사해 (-323.0087890625, 1353.1859130859)
+MapLabelManager: 북극해 (2572.6472167969, 962.78497314453)
+MapLabelManager: 북극해 (2179.6201171875, 640.11865234375)
+MapLabelManager: 스트리모니안만 (135.51301574707, -1310.1948242188)
+MapLabelManager: 리구리아해 (-1378.3883056641, 824.95037841797)
+MapLabelManager: 리구리아해 (-1209.5302734375, 237.48983764648)
+LoadScreen: OnLoadGameViewStateDone
+MapLabelManager: 인도양 (2765.3740234375, 243.97900390625)
+MapLabelManager: 인도양 (2503.9619140625, -175.18075561523)
+MapLabelManager: 인도양 (1799.59375, -48.675956726074)
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	79	21	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+MapLabelManager: 남극해 (-2815.6528320313, -897.00274658203)
+MapLabelManager: 남극해 (-1604.0942382813, -1543.0533447266)
+MapLabelManager: 남극해 (-2326.3842773438, -1366.9455566406)
+MapLabelManager: 남극해 (-2971.8208007813, -1448.9117431641)
+MapLabelManager: 남극해 (-3398.8415527344, -1018.0511474609)
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	79	21	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	79	21	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	79	21	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	79	21	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+NaturalDisasterPopup: PopupManager.LOCK   'NaturalDisasterPopup', id: 169991, priority:500
+InGame: Request to BulkHide( true, NaturalDisaster ), Show on 0 = 1
+InGame: Request to BulkHide( false, NaturalDisaster ), Show on 0 = 0
+NaturalDisasterPopup: PopupManager.Unlock 'NaturalDisasterPopup', id: 169991, priority:500
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	79	21	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	79	21	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	79	21	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=-694546974
+TutorialUIRoot: diplo stmt type=-692650463
+DiplomacyActionView: Closing Diplomacy Action View. m_eventID: 237834
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	79	21	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	79	21	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+MapLabelManager: 태평양 (-2407.818359375, -208.10746765137)
+MapLabelManager: 태평양 (-2315.85546875, -676.00476074219)
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	85	21	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	79	21	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	79	21	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	79	21	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=1812035902
+TutorialUIRoot: diplo stmt type=1713530910
+DiplomacyActionView: Closing Diplomacy Action View. m_eventID: 321144
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	79	21	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	79	21	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	79	21	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	79	21	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	79	21	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	85	21	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	0	0	0	false	false
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=932889739
+DiplomacyActionView: Closing Diplomacy Action View. m_eventID: 418984
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+EraCompletePopup: PopupManager.LOCK   'EraCompletePopupXP2', id: 427351, priority:1000
+EraCompletePopup: START EraPopupAnimation
+EraCompletePopup: START EraPopupAnimation
+EraCompletePopup: PopupManager.Unlock 'EraCompletePopupXP2', id: 427351, priority:1000
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	79	21	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	85	21	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	0	0	0	false	false
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+DiplomacyActionView: Closing Diplomacy Action View. m_eventID: 461585
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	85	21	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	79	21	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	79	21	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	79	21	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=-1912527725
+DiplomacyActionView: Closing Diplomacy Action View. m_eventID: 522189
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=1004427747
+DiplomacyActionView: Closing Diplomacy Action View. m_eventID: 532687
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	85	21	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	85	21	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	85	21	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	79	21	0	true	false
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=-2065048438
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+TutorialUIRoot: diplo stmt type=-2065048438
+DiplomacyActionView: Closing Diplomacy Action View. m_eventID: 573775
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+NaturalDisasterPopup: PopupManager.LOCK   'NaturalDisasterPopup', id: 592395, priority:500
+InGame: Request to BulkHide( true, NaturalDisaster ), Show on 0 = 1
+InGame: Request to BulkHide( false, NaturalDisaster ), Show on 0 = 0
+NaturalDisasterPopup: PopupManager.Unlock 'NaturalDisasterPopup', id: 592395, priority:500
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	79	21	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	85	21	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	85	21	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	85	21	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	85	21	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	79	21	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+NaturalDisasterPopup: PopupManager.LOCK   'NaturalDisasterPopup', id: 716086, priority:500
+InGame: Request to BulkHide( true, NaturalDisaster ), Show on 0 = 1
+InGame: Request to BulkHide( false, NaturalDisaster ), Show on 0 = 0
+NaturalDisasterPopup: PopupManager.Unlock 'NaturalDisasterPopup', id: 716086, priority:500
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	79	21	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	0	19	0	true	false
+WonderBuiltPopup: PopupManager.LOCK   'WonderBuiltPopup', id: 738947, priority:1000
+InGame: Request to BulkHide( true, Wonder ), Show on 0 = 1
+InGame: Request to BulkHide( false, Wonder ), Show on 0 = 0
+WonderBuiltPopup: PopupManager.Unlock 'WonderBuiltPopup', id: 738947, priority:1000
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	79	21	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	79	21	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	79	21	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	85	21	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	85	21	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	0	0	0	false	false
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=1004427747
+DiplomacyActionView: Closing Diplomacy Action View. m_eventID: 787882
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	79	21	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	79	21	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	79	21	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	85	21	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	0	0	0	false	false
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=1092515808
+TutorialUIRoot: diplo stmt type=1092515808
+DiplomacyActionView: Closing Diplomacy Action View. m_eventID: 845081
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	79	21	0	true	false
+EraCompletePopup: PopupManager.LOCK   'EraCompletePopupXP2', id: 862529, priority:1000
+EraCompletePopup: START EraPopupAnimation
+EraCompletePopup: START EraPopupAnimation
+EraCompletePopup: PopupManager.Unlock 'EraCompletePopupXP2', id: 862529, priority:1000
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	79	21	0	true	false
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=-2065048438
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+TutorialUIRoot: diplo stmt type=-2065048438
+DiplomacyActionView: Closing Diplomacy Action View. m_eventID: 866611
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+WonderBuiltPopup: PopupManager.LOCK   'WonderBuiltPopup', id: 874570, priority:1000
+InGame: Request to BulkHide( true, Wonder ), Show on 0 = 1
+InGame: Request to BulkHide( false, Wonder ), Show on 0 = 0
+WonderBuiltPopup: PopupManager.Unlock 'WonderBuiltPopup', id: 874570, priority:1000
+NaturalDisasterPopup: PopupManager.LOCK   'NaturalDisasterPopup', id: 885150, priority:500
+InGame: Request to BulkHide( true, NaturalDisaster ), Show on 0 = 1
+InGame: Request to BulkHide( false, NaturalDisaster ), Show on 0 = 0
+NaturalDisasterPopup: PopupManager.Unlock 'NaturalDisasterPopup', id: 885150, priority:500
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=-694546974
+TutorialUIRoot: diplo stmt type=-692650463
+DiplomacyActionView: Closing Diplomacy Action View. m_eventID: 885454
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	85	21	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	0	19	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	0	0	0	false	false
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+DiplomacyActionView: Closing Diplomacy Action View. m_eventID: 903301
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	79	21	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=1004427747
+DiplomacyActionView: Closing Diplomacy Action View. m_eventID: 955702
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=1092515808
+DiplomacyActionView: Closing Diplomacy Action View. m_eventID: 956660
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+InGameTopOptionsMenu: Expected a different input active context...
+InGameTopOptionsMenu: Menu is already closing.
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	0	19	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	79	21	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+DiplomacyActionView: Closing Diplomacy Action View. m_eventID: 988294
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+DiplomacyActionView: Closing Diplomacy Action View. m_eventID: 989151
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=932889739
+DiplomacyActionView: Closing Diplomacy Action View. m_eventID: 1002396
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	79	21	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	79	21	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	0	19	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	79	21	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	85	21	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	0	0	0	false	false
+NaturalDisasterPopup: PopupManager.LOCK   'NaturalDisasterPopup', id: 1040515, priority:500
+InGame: Request to BulkHide( true, NaturalDisaster ), Show on 0 = 1
+InGame: Request to BulkHide( false, NaturalDisaster ), Show on 0 = 0
+NaturalDisasterPopup: PopupManager.Unlock 'NaturalDisasterPopup', id: 1040515, priority:500
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+DiplomacyActionView: Closing Diplomacy Action View. m_eventID: 1042683
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	79	21	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	85	21	0	true	false
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=-2065048438
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	0	0	0	false	false
+TutorialUIRoot: diplo stmt type=-2065048438
+DiplomacyActionView: Closing Diplomacy Action View. m_eventID: 1066590
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	85	21	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	0	19	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	0	19	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	0	0	0	false	false
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+DiplomacyActionView: Closing Diplomacy Action View. m_eventID: 1112248
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	0	19	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	79	21	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	0	19	0	true	false
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=932889739
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	0	0	0	false	false
+DiplomacyActionView: Closing Diplomacy Action View. m_eventID: 1134082
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	79	21	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=-1912527725
+DiplomacyActionView: Closing Diplomacy Action View. m_eventID: 1177402
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+DiplomacyActionView: Closing Diplomacy Action View. m_eventID: 0
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=-883488896
+DiplomacyActionView: Closing Diplomacy Action View. m_eventID: 0
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=-883488896
+DiplomacyActionView: Closing Diplomacy Action View. m_eventID: 0
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=-883488896
+DiplomacyActionView: Closing Diplomacy Action View. m_eventID: 0
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+DiplomacyActionView: Closing Diplomacy Action View. m_eventID: 0
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=-883488896
+DiplomacyActionView: Closing Diplomacy Action View. m_eventID: 0
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	0	19	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	0	19	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	79	21	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	0	19	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	0	0	0	false	false
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=-1912527725
+DiplomacyActionView: Closing Diplomacy Action View. m_eventID: 1221956
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	79	21	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	79	21	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	79	21	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	85	21	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	0	19	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	0	0	0	false	false
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=-1912527725
+DiplomacyActionView: Closing Diplomacy Action View. m_eventID: 1281463
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+NaturalDisasterPopup: PopupManager.LOCK   'NaturalDisasterPopup', id: 1287213, priority:500
+InGame: Request to BulkHide( true, NaturalDisaster ), Show on 0 = 1
+InGame: Request to BulkHide( false, NaturalDisaster ), Show on 0 = 0
+NaturalDisasterPopup: PopupManager.Unlock 'NaturalDisasterPopup', id: 1287213, priority:500
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=1092515808
+DiplomacyActionView: Closing Diplomacy Action View. m_eventID: 1287589
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	79	21	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+EraCompletePopup: PopupManager.LOCK   'EraCompletePopupXP2', id: 1299136, priority:1000
+EraCompletePopup: START EraPopupAnimation
+EraCompletePopup: START EraPopupAnimation
+EraCompletePopup: PopupManager.Unlock 'EraCompletePopupXP2', id: 1299136, priority:1000
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+DiplomacyActionView: Closing Diplomacy Action View. m_eventID: 1300562
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	0	19	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	85	21	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	79	21	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	85	21	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	79	21	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	85	21	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	85	21	0	true	false
+MapLabelManager: 판탈라사해 (-413.14407348633, 473.05993652344)
+MapLabelManager: 판탈라사해 (-692.416015625, 1209.0294189453)
+MapLabelManager: 판탈라사해 (264.83627319336, -29.173387527466)
+MapLabelManager: 판탈라사해 (-1625.0366210938, 1381.6693115234)
+MapLabelManager: 판탈라사해 (-1111.2761230469, 1453.2097167969)
+MapLabelManager: 판탈라사해 (-498.455078125, -369.60665893555)
+MapLabelManager: 판탈라사해 (-323.0087890625, 1353.1859130859)
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	79	21	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	85	21	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	0	19	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	0	0	0	false	false
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+DiplomacyActionView: Closing Diplomacy Action View. m_eventID: 1363707
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=-694546974
+TutorialUIRoot: diplo stmt type=-692650463
+DiplomacyActionView: Closing Diplomacy Action View. m_eventID: 1371317
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	0	19	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	0	0	0	false	false
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=932889739
+DiplomacyActionView: Closing Diplomacy Action View. m_eventID: 1381687
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+DiplomacyActionView: Closing Diplomacy Action View. m_eventID: 1391846
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=932889739
+DiplomacyActionView: Closing Diplomacy Action View. m_eventID: 1392071
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+WonderBuiltPopup: PopupManager.LOCK   'WonderBuiltPopup', id: 1401181, priority:1000
+InGame: Request to BulkHide( true, Wonder ), Show on 0 = 1
+InGame: Request to BulkHide( false, Wonder ), Show on 0 = 0
+WonderBuiltPopup: PopupManager.Unlock 'WonderBuiltPopup', id: 1401181, priority:1000
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	0	19	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	79	21	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	85	21	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	79	21	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	79	21	0	true	false
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=-2065048438
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+TutorialUIRoot: diplo stmt type=-2065048438
+DiplomacyActionView: Closing Diplomacy Action View. m_eventID: 1413354
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=932889739
+DiplomacyActionView: Closing Diplomacy Action View. m_eventID: 1415760
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	79	21	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=1612079318
+DiplomacyActionView: Closing Diplomacy Action View. m_eventID: 1426773
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	79	21	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	79	21	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	79	21	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=1612079318
+DiplomacyActionView: Closing Diplomacy Action View. m_eventID: 1478255
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	0	19	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	85	21	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	0	19	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	0	0	0	false	false
+NaturalDisasterPopup: PopupManager.LOCK   'NaturalDisasterPopup', id: 1527086, priority:500
+InGame: Request to BulkHide( true, NaturalDisaster ), Show on 0 = 1
+InGame: Request to BulkHide( false, NaturalDisaster ), Show on 0 = 0
+NaturalDisasterPopup: PopupManager.Unlock 'NaturalDisasterPopup', id: 1527086, priority:500
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	0	19	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	0	19	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	0	0	0	false	false

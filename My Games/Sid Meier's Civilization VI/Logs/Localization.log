@@ -1,0 +1,63 @@
+[3986136.909] Status: Create StringDictionary
+[3986136.909] Status: SetCurrentLanguage(ko_KR)
+[3986137.305] Status: Done with InitializeDictionary
+[3986163.432] Warning: ICU: A resource bundle lookup returned a fallback result (not an error)
+[3986169.593] Status: Error while parsing bundle - 3
+[3986169.593] Status: Error while parsing bundle - 3
+[3986169.593] Status: Error while parsing bundle - 3
+[3986173.979] Status: Error while parsing bundle - 3
+[3986183.029] Status: Error while parsing bundle - 3
+[3986185.834] Status: Error while parsing bundle - 3
+[3986186.250] Status: Error while parsing bundle - 3
+[3986186.651] Status: Error while parsing bundle - 3
+[3986186.983] Status: Error while parsing bundle - 3
+[3986188.991] Status: Error while parsing bundle - 3
+[3986188.991] Status: Error while parsing bundle - 3
+[3986188.991] Status: Error while parsing bundle - 3
+[3986190.379] Status: Error while parsing bundle - 3
+[3986194.350] Status: Error while parsing bundle - 3
+[3986224.243] Status: Error while parsing bundle - 3
+[3986225.822] Status: Error while parsing bundle - 3
+[3986225.822] Status: Error while parsing bundle - 3
+[3986225.822] Status: Error while parsing bundle - 3
+[3986366.900] Status: Error while parsing bundle - 3
+[3986367.362] Status: Error while parsing bundle - 3
+[3986371.982] Status: Error while parsing bundle - 3
+[3986372.574] Status: Error while parsing bundle - 3
+[3986396.990] Status: Error while parsing bundle - 3
+[3986396.993] Status: Error while parsing bundle - 3
+[3986397.565] Status: Error while parsing bundle - 3
+[3986398.203] Status: Error while parsing bundle - 3
+[3986399.123] Status: Error while parsing bundle - 3
+[3986516.815] Status: Error while parsing bundle - 3
+[3986518.063] Status: Error while parsing bundle - 3
+[3986518.598] Status: Error while parsing bundle - 3
+[3986519.554] Status: Error while parsing bundle - 3
+[3986530.117] Status: Error while parsing bundle - 3
+[3986530.601] Status: Error while parsing bundle - 3
+[3986531.528] Status: Error while parsing bundle - 3
+[3986531.531] Status: Error while parsing bundle - 3
+[3986532.510] Status: Error while parsing bundle - 3
+[3986533.001] Status: Error while parsing bundle - 3
+[3986534.073] Status: Error while parsing bundle - 3
+[3986595.345] Warning: ICU: A resource bundle lookup returned a fallback result (not an error)
+[3988963.166] ERROR: An argument already exists with that name (MajorWarBonus).
+[3988963.166] ERROR: An argument already exists with that name (EachWarDeclaredBonus).
+[3988963.166] ERROR: An argument already exists with that name (MaxWarDeclaredBonus).
+[3988963.166] ERROR: An argument already exists with that name (NotAtWarPenalty).
+[3988963.166] ERROR: An argument already exists with that name (SinceWarPenaltyTurns).
+[3988964.117] ERROR: An argument already exists with that name (MajorWarBonus).
+[3988964.117] ERROR: An argument already exists with that name (EachWarDeclaredBonus).
+[3988964.118] ERROR: An argument already exists with that name (MaxWarDeclaredBonus).
+[3988964.118] ERROR: An argument already exists with that name (NotAtWarPenalty).
+[3988964.118] ERROR: An argument already exists with that name (SinceWarPenaltyTurns).
+[3989392.468] ERROR: An argument already exists with that name (MajorWarBonus).
+[3989392.468] ERROR: An argument already exists with that name (EachWarDeclaredBonus).
+[3989392.468] ERROR: An argument already exists with that name (MaxWarDeclaredBonus).
+[3989392.468] ERROR: An argument already exists with that name (NotAtWarPenalty).
+[3989392.468] ERROR: An argument already exists with that name (SinceWarPenaltyTurns).
+[3989485.431] ERROR: An argument already exists with that name (MajorWarBonus).
+[3989485.431] ERROR: An argument already exists with that name (EachWarDeclaredBonus).
+[3989485.431] ERROR: An argument already exists with that name (MaxWarDeclaredBonus).
+[3989485.431] ERROR: An argument already exists with that name (NotAtWarPenalty).
+[3989485.431] ERROR: An argument already exists with that name (SinceWarPenaltyTurns).

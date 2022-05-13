@@ -1,0 +1,98 @@
+Turn, Event, Origin City, Destination City, Attached Resource, Origin Yields
+17, Route Started, LOC_CITY_NAME_ROME, LOC_CITY_NAME_MBAMBA,Resource -1 (x0),Origin Yields,0.00,0.00,4.00,0.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+35, Route Started, LOC_CITY_NAME_LISBON_STK, LOC_CITY_NAME_GENEVA,Resource -1 (x0),Origin Yields,0.00,0.00,9.00,0.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+37, Route Started, LOC_CITY_NAME_DUR_KURIGALZU, LOC_CITY_NAME_BABYLON_STK,Resource -1 (x0),Origin Yields,2.00,1.00,0.00,0.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+38, Route Started, LOC_CITY_NAME_PELLA, LOC_CITY_NAME_DION,Resource -1 (x0),Origin Yields,1.00,1.00,0.00,0.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+44, Route Started, LOC_CITY_NAME_KUMASI, LOC_CITY_NAME_ESHNUNNA,Resource -1 (x0),Origin Yields,0.00,0.00,3.00,0.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+45, Route Ended (War Declared), LOC_CITY_NAME_ROME, LOC_CITY_NAME_MBAMBA,Resource -1 (x0),Origin Yields,0.00,0.00,4.00,1.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+55, Route Started, LOC_CITY_NAME_LISBON_STK, LOC_CITY_NAME_XOCHICALCO,Resource -1 (x0),Origin Yields,0.00,0.00,12.00,0.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+58, Route Ended (Plundered), LOC_CITY_NAME_LISBON_STK, LOC_CITY_NAME_XOCHICALCO,Resource -1 (x0),Origin Yields,0.00,0.00,12.00,0.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+60, Route Ended (Expired), LOC_CITY_NAME_DUR_KURIGALZU, LOC_CITY_NAME_BABYLON_STK,Resource -1 (x0),Origin Yields,3.00,1.00,0.00,0.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+61, Route Started, LOC_CITY_NAME_DUR_KURIGALZU, LOC_CITY_NAME_JOHANNESBURG,Resource -1 (x0),Origin Yields,0.00,0.00,7.00,0.00,2.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+61, Route Started, LOC_CITY_NAME_ROXBURGH, LOC_CITY_NAME_BOLOGNA,Resource -1 (x0),Origin Yields,0.00,0.00,3.00,1.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+61, Route Started, LOC_CITY_NAME_SAMARKAND, LOC_CITY_NAME_RAVENNA,Resource -1 (x0),Origin Yields,0.00,0.00,3.00,1.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+61, Route Started, LOC_CITY_NAME_JOHANNESBURG, LOC_CITY_NAME_TUTTUL,Resource -1 (x0),Origin Yields,0.00,0.00,3.00,0.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+62, Route Started, LOC_CITY_NAME_BOLOGNA, LOC_CITY_NAME_DUMBARTON,Resource -1 (x0),Origin Yields,0.00,0.00,3.00,0.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+63, Route Started, LOC_CITY_NAME_LISBON_STK, LOC_CITY_NAME_XOCHICALCO,Resource -1 (x0),Origin Yields,0.00,0.00,18.00,0.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+64, Route Started, LOC_CITY_NAME_BANDAR_BRUNEI, LOC_CITY_NAME_DELHI,Resource -1 (x0),Origin Yields,0.00,0.00,3.00,0.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+67, Route Ended (Expired), LOC_CITY_NAME_PELLA, LOC_CITY_NAME_DION,Resource -1 (x0),Origin Yields,1.00,1.00,2.00,0.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+68, Route Started, LOC_CITY_NAME_PELLA, LOC_CITY_NAME_DUNDEE,Resource -1 (x0),Origin Yields,0.00,0.00,11.00,1.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+69, Route Started, LOC_CITY_NAME_ANTIOCH, LOC_CITY_NAME_PYDNA,Resource -1 (x0),Origin Yields,0.00,0.00,3.00,0.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+71, Route Started, LOC_CITY_NAME_COIMBRA, LOC_CITY_NAME_GENEVA,Resource -1 (x0),Origin Yields,0.00,0.00,12.00,1.50,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+73, Route Ended (Expired), LOC_CITY_NAME_KUMASI, LOC_CITY_NAME_ESHNUNNA,Resource -1 (x0),Origin Yields,0.00,0.00,4.00,1.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+74, Route Started, LOC_CITY_NAME_KUMASI, LOC_CITY_NAME_ESHNUNNA,Resource -1 (x0),Origin Yields,0.00,0.00,4.00,1.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+80, Route Ended (Expired), LOC_CITY_NAME_LISBON_STK, LOC_CITY_NAME_GENEVA,Resource -1 (x0),Origin Yields,0.00,0.00,19.50,1.50,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+81, Route Started, LOC_CITY_NAME_LISBON_STK, LOC_CITY_NAME_GENEVA,Resource -1 (x0),Origin Yields,0.00,0.00,19.50,1.50,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+81, Route Started, LOC_CITY_NAME_HATTUSA, LOC_CITY_NAME_CULLEN,Resource -1 (x0),Origin Yields,0.00,0.00,6.00,1.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+84, Route Ended (War Declared), LOC_CITY_NAME_DUR_KURIGALZU, LOC_CITY_NAME_JOHANNESBURG,Resource -1 (x0),Origin Yields,0.00,0.00,7.00,0.00,2.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+84, Route Ended (War Declared), LOC_CITY_NAME_JOHANNESBURG, LOC_CITY_NAME_TUTTUL,Resource -1 (x0),Origin Yields,0.00,0.00,3.00,0.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+85, Route Started, LOC_CITY_NAME_MUSCAT, LOC_CITY_NAME_RATUMACOS,Resource -1 (x0),Origin Yields,0.00,0.00,3.00,1.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+85, Route Ended (Expired), LOC_CITY_NAME_BOLOGNA, LOC_CITY_NAME_DUMBARTON,Resource -1 (x0),Origin Yields,0.00,0.00,4.00,1.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+86, Route Started, LOC_CITY_NAME_BOLOGNA, LOC_CITY_NAME_DUMBARTON,Resource -1 (x0),Origin Yields,0.00,0.00,4.00,1.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+88, Route Started, LOC_CITY_NAME_MADURAI, LOC_CITY_NAME_PATNA,Resource -1 (x0),Origin Yields,3.00,1.00,0.00,0.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+89, Route Started, LOC_CITY_NAME_LISBON_STK, LOC_CITY_NAME_LISBON,Resource -1 (x0),Origin Yields,0.00,0.00,27.00,0.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+91, Route Started, LOC_CITY_NAME_COIMBRA, LOC_CITY_NAME_LISBON,Resource -1 (x0),Origin Yields,0.00,0.00,21.00,0.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+96, Route Ended (Expired), LOC_CITY_NAME_ROXBURGH, LOC_CITY_NAME_BOLOGNA,Resource -1 (x0),Origin Yields,0.00,0.00,4.00,1.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+97, Route Started, LOC_CITY_NAME_ROXBURGH, LOC_CITY_NAME_HATTUSA,Resource -1 (x0),Origin Yields,0.00,0.00,12.00,0.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+100, Route Ended (Expired), LOC_CITY_NAME_SAMARKAND, LOC_CITY_NAME_RAVENNA,Resource -1 (x0),Origin Yields,0.00,0.00,7.00,1.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+101, Route Started, LOC_CITY_NAME_SAMARKAND, LOC_CITY_NAME_MBAMBA,Resource -1 (x0),Origin Yields,0.00,0.00,3.00,1.00,1.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+103, Route Started, LOC_CITY_NAME_DION, LOC_CITY_NAME_PELLA,Resource -1 (x0),Origin Yields,3.00,2.00,0.00,0.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+104, Route Ended (Expired), LOC_CITY_NAME_LISBON_STK, LOC_CITY_NAME_XOCHICALCO,Resource -1 (x0),Origin Yields,0.00,0.00,19.50,1.50,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+105, Route Started, LOC_CITY_NAME_LISBON_STK, LOC_CITY_NAME_MALINALCO,Resource -1 (x0),Origin Yields,0.00,0.00,27.00,1.50,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+105, Route Ended (Expired), LOC_CITY_NAME_BANDAR_BRUNEI, LOC_CITY_NAME_DELHI,Resource -1 (x0),Origin Yields,0.00,0.00,4.00,1.00,1.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+106, Route Started, LOC_CITY_NAME_BANDAR_BRUNEI, LOC_CITY_NAME_MUMBAI,Resource -1 (x0),Origin Yields,0.00,0.00,6.00,1.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+108, Route Started, LOC_CITY_NAME_GUARDA, LOC_CITY_NAME_LISBON,Resource -1 (x0),Origin Yields,0.00,0.00,21.00,0.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+110, Route Started, LOC_CITY_NAME_ADELAIDE, LOC_CITY_NAME_BIBRAX,Resource -1 (x0),Origin Yields,0.00,0.00,12.00,1.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+110, Route Ended (Expired), LOC_CITY_NAME_ANTIOCH, LOC_CITY_NAME_PYDNA,Resource -1 (x0),Origin Yields,0.00,0.00,7.00,0.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+111, Route Started, LOC_CITY_NAME_ANTIOCH, LOC_CITY_NAME_PYDNA,Resource -1 (x0),Origin Yields,0.00,0.00,7.00,0.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+112, Route Ended (Expired), LOC_CITY_NAME_COIMBRA, LOC_CITY_NAME_GENEVA,Resource -1 (x0),Origin Yields,0.00,0.00,22.50,1.50,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+112, Route Ended (Expired), LOC_CITY_NAME_HATTUSA, LOC_CITY_NAME_CULLEN,Resource -1 (x0),Origin Yields,0.00,0.00,7.00,1.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+113, Route Started, LOC_CITY_NAME_COIMBRA, LOC_CITY_NAME_GENEVA,Resource -1 (x0),Origin Yields,0.00,0.00,22.50,1.50,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+113, Route Ended (Expired), LOC_CITY_NAME_KUMASI, LOC_CITY_NAME_ESHNUNNA,Resource -1 (x0),Origin Yields,0.00,0.00,4.00,1.00,1.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+113, Route Started, LOC_CITY_NAME_HATTUSA, LOC_CITY_NAME_CULLEN,Resource -1 (x0),Origin Yields,0.00,0.00,7.00,1.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+114, Route Started, LOC_CITY_NAME_KUMASI, LOC_CITY_NAME_PUTEOLI,Resource -1 (x0),Origin Yields,0.00,0.00,6.00,0.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+116, Route Started, LOC_CITY_NAME_COIMBRA, LOC_CITY_NAME_MALINALCO,Resource -1 (x0),Origin Yields,0.00,0.00,21.00,1.50,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+116, Route Started, LOC_CITY_NAME_JOHANNESBURG, LOC_CITY_NAME_GENEVA,Resource -1 (x0),Origin Yields,0.00,0.00,10.78,1.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+116, Route Ended (Expired), LOC_CITY_NAME_MUSCAT, LOC_CITY_NAME_RATUMACOS,Resource -1 (x0),Origin Yields,0.00,0.00,4.00,1.00,0.00,1.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+117, Route Started, LOC_CITY_NAME_MUSCAT, LOC_CITY_NAME_BIBRAX,Resource -1 (x0),Origin Yields,0.00,0.00,7.00,1.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+119, Route Ended (Expired), LOC_CITY_NAME_MADURAI, LOC_CITY_NAME_PATNA,Resource -1 (x0),Origin Yields,3.00,2.00,0.00,0.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+119, Route Ended (Expired), LOC_CITY_NAME_PELLA, LOC_CITY_NAME_DUNDEE,Resource -1 (x0),Origin Yields,0.00,0.00,10.00,1.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+119, Route Ended (Plundered), LOC_CITY_NAME_HATTUSA, LOC_CITY_NAME_CULLEN,Resource -1 (x0),Origin Yields,0.00,1.00,7.00,1.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+120, Route Started, LOC_CITY_NAME_MADURAI, LOC_CITY_NAME_DELHI,Resource -1 (x0),Origin Yields,3.00,1.00,0.00,0.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+120, Route Started, LOC_CITY_NAME_PELLA, LOC_CITY_NAME_HATTUSA,Resource -1 (x0),Origin Yields,0.00,0.00,13.00,0.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+121, Route Started, LOC_CITY_NAME_CANBERRA, LOC_CITY_NAME_PERTH,Resource -1 (x0),Origin Yields,3.00,1.00,0.00,0.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+121, Route Ended (Expired), LOC_CITY_NAME_BOLOGNA, LOC_CITY_NAME_DUMBARTON,Resource -1 (x0),Origin Yields,0.00,0.00,4.00,1.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+122, Route Started, LOC_CITY_NAME_LISBON_STK, LOC_CITY_NAME_TEAYO,Resource -1 (x0),Origin Yields,0.00,0.00,27.00,1.50,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+122, Route Started, LOC_CITY_NAME_BOLOGNA, LOC_CITY_NAME_DUMBARTON,Resource -1 (x0),Origin Yields,0.00,0.00,4.00,1.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+126, Route Ended (Expired), LOC_CITY_NAME_LISBON_STK, LOC_CITY_NAME_GENEVA,Resource -1 (x0),Origin Yields,0.00,0.00,28.50,1.50,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+127, Route Ended (War Declared), LOC_CITY_NAME_KUMASI, LOC_CITY_NAME_PUTEOLI,Resource -1 (x0),Origin Yields,0.00,0.00,6.00,0.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+127, Route Started, LOC_CITY_NAME_LISBON_STK, LOC_CITY_NAME_GENEVA,Resource -1 (x0),Origin Yields,0.00,0.00,28.50,1.50,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+127, Route Started, LOC_CITY_NAME_KUMASI, LOC_CITY_NAME_DURMUTI,Resource -1 (x0),Origin Yields,0.00,0.00,6.00,1.00,0.00,0.00,Destination Yields,0.00,0.00,4.00,0.00,0.00,0.00
+128, Route Ended (Expired), LOC_CITY_NAME_LISBON_STK, LOC_CITY_NAME_LISBON,Resource -1 (x0),Origin Yields,0.00,0.00,28.50,0.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+129, Route Started, LOC_CITY_NAME_LISBON_STK, LOC_CITY_NAME_LISBON,Resource -1 (x0),Origin Yields,0.00,0.00,28.50,0.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+130, Route Started, LOC_CITY_NAME_BRUSSELS, LOC_CITY_NAME_MELBOURNE,Resource -1 (x0),Origin Yields,0.00,0.00,3.00,1.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+132, Route Ended (Expired), LOC_CITY_NAME_SAMARKAND, LOC_CITY_NAME_MBAMBA,Resource -1 (x0),Origin Yields,0.00,0.00,4.00,1.00,1.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+133, Route Started, LOC_CITY_NAME_SAMARKAND, LOC_CITY_NAME_MBAMBA,Resource -1 (x0),Origin Yields,0.00,0.00,4.00,1.00,1.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+135, Route Started, LOC_CITY_NAME_METHONE, LOC_CITY_NAME_DUNDEE,Resource -1 (x0),Origin Yields,0.00,0.00,10.00,1.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+136, Route Ended (Expired), LOC_CITY_NAME_ROXBURGH, LOC_CITY_NAME_HATTUSA,Resource -1 (x0),Origin Yields,0.00,0.00,13.00,0.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+137, Route Started, LOC_CITY_NAME_ROXBURGH, LOC_CITY_NAME_PYDNA,Resource -1 (x0),Origin Yields,0.00,0.00,13.00,1.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+137, Route Ended (Expired), LOC_CITY_NAME_BANDAR_BRUNEI, LOC_CITY_NAME_MUMBAI,Resource -1 (x0),Origin Yields,0.00,0.00,7.00,1.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+138, Route Started, LOC_CITY_NAME_BANDAR_BRUNEI, LOC_CITY_NAME_MUMBAI,Resource -1 (x0),Origin Yields,0.00,0.00,7.00,1.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+139, Route Started, LOC_CITY_NAME_COIMBRA, LOC_CITY_NAME_TEAYO,Resource -1 (x0),Origin Yields,0.00,0.00,22.50,1.50,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+140, Route Started, LOC_CITY_NAME_BIBRAX, LOC_CITY_NAME_MADURAI,Resource -1 (x0),Origin Yields,0.00,1.00,12.00,1.00,0.00,1.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+142, Route Ended (Plundered), LOC_CITY_NAME_JOHANNESBURG, LOC_CITY_NAME_GENEVA,Resource -1 (x0),Origin Yields,0.00,0.00,13.78,1.00,2.00,0.00,Destination Yields,0.00,0.00,2.00,0.00,0.00,0.00
+142, Route Ended (Expired), LOC_CITY_NAME_DION, LOC_CITY_NAME_PELLA,Resource -1 (x0),Origin Yields,3.00,3.00,0.00,0.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+143, Route Started, LOC_CITY_NAME_DION, LOC_CITY_NAME_DUNDEE,Resource -1 (x0),Origin Yields,0.00,0.00,10.00,1.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+144, Route Started, LOC_CITY_NAME_MADURAI, LOC_CITY_NAME_RAVENNA,Resource -1 (x0),Origin Yields,0.00,1.00,11.25,1.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+146, Route Ended (Plundered), LOC_CITY_NAME_ADELAIDE, LOC_CITY_NAME_BIBRAX,Resource -1 (x0),Origin Yields,0.00,0.00,12.00,1.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+147, Route Ended (City Destroyed), LOC_CITY_NAME_COIMBRA, LOC_CITY_NAME_LISBON,Resource -1 (x0),Origin Yields,0.00,0.00,22.50,0.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+147, Route Ended (City Destroyed), LOC_CITY_NAME_GUARDA, LOC_CITY_NAME_LISBON,Resource -1 (x0),Origin Yields,0.00,0.00,22.50,0.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+147, Route Ended (City Destroyed), LOC_CITY_NAME_LISBON_STK, LOC_CITY_NAME_LISBON,Resource -1 (x0),Origin Yields,0.00,0.00,31.50,0.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+147, Route Started, LOC_CITY_NAME_CANBERRA, LOC_CITY_NAME_MALINALCO,Resource -1 (x0),Origin Yields,0.00,0.00,12.00,1.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+147, Route Started, LOC_CITY_NAME_METHONE, LOC_CITY_NAME_ROXBURGH,Resource -1 (x0),Origin Yields,0.00,0.00,7.00,1.00,1.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+148, Route Started, LOC_CITY_NAME_COIMBRA, LOC_CITY_NAME_ALEXANDRIA_TROAS,Resource -1 (x0),Origin Yields,0.00,1.50,21.00,1.50,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+148, Route Started, LOC_CITY_NAME_GUARDA, LOC_CITY_NAME_GENEVA,Resource -1 (x0),Origin Yields,0.00,0.00,22.50,1.50,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+148, Route Started, LOC_CITY_NAME_LISBON_STK, LOC_CITY_NAME_ALEXANDRIA_TROAS,Resource -1 (x0),Origin Yields,0.00,1.50,30.00,1.50,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+148, Route Ended (Expired), LOC_CITY_NAME_MUSCAT, LOC_CITY_NAME_BIBRAX,Resource -1 (x0),Origin Yields,0.00,0.00,8.00,1.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+148, Route Ended (Plundered), LOC_CITY_NAME_GUARDA, LOC_CITY_NAME_GENEVA,Resource -1 (x0),Origin Yields,0.00,0.00,22.50,1.50,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+149, Route Started, LOC_CITY_NAME_MUSCAT, LOC_CITY_NAME_BIBRAX,Resource -1 (x0),Origin Yields,0.00,0.00,8.00,1.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00

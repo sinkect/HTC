@@ -1,0 +1,68 @@
+[3986133.191] [Localization]: StartupErrorMessages.xml
+[3986133.191] [Localization]: Input XML does not contain database entry tags. GameData, GameInfo or Database
+[3986136.858] [Localization]: Validating Foreign Key Constraints...
+[3986136.859] [Localization]: Passed Validation.
+[3986136.877] [Configuration]: Validating Foreign Key Constraints...
+[3986136.878] [Configuration]: Passed Validation.
+[3986138.883] [FullTextSearch]: Initializing FullTextSearch
+[3986139.771] [Gameplay]: Validating Foreign Key Constraints...
+[3986139.786] [Gameplay]: Passed Validation.
+[3986141.060] [Configuration]: Validating Foreign Key Constraints...
+[3986141.061] [Configuration]: Passed Validation.
+[3986142.569] [HallofFame]: Database found. Checking versions...
+[3986142.571] [HallofFame]: Database is up-to-date!
+[3986159.416] [FullTextSearch]: FTS - Creating Context
+[3986167.495] [FullTextSearch]: FTS - Creating Context
+[3986568.039] [Configuration]: Validating Foreign Key Constraints...
+[3986568.040] [Configuration]: Passed Validation.
+[3986574.035] [Configuration]: Validating Foreign Key Constraints...
+[3986574.036] [Configuration]: Passed Validation.
+[3986581.446] [Gameplay]: Validating Foreign Key Constraints...
+[3986581.472] [Gameplay]: Passed Validation.
+[3986594.668] [FullTextSearch]: FTS - Creating Context
+[3986594.669] [FullTextSearch]: FTS - Creating Context
+[3986595.019] [FullTextSearch]: FTS - Creating Context
+[3986595.167] [FullTextSearch]: FTS - Creating Context
+[3986596.211] [FullTextSearch]: FTS - Creating Context
+[3986648.722] [Configuration]: Validating Foreign Key Constraints...
+[3986648.723] [Configuration]: Passed Validation.
+[3986649.669] [FullTextSearch]: FTS - Creating Context
+[3986770.179] [Configuration]: Validating Foreign Key Constraints...
+[3986770.180] [Configuration]: Passed Validation.
+[3986778.813] [Gameplay]: Validating Foreign Key Constraints...
+[3986778.840] [Gameplay]: Passed Validation.
+[3986812.206] [FullTextSearch]: FTS - Creating Context
+[3986812.206] [FullTextSearch]: FTS - Creating Context
+[3986812.500] [FullTextSearch]: FTS - Creating Context
+[3986812.637] [FullTextSearch]: FTS - Creating Context
+[3986813.617] [FullTextSearch]: FTS - Creating Context
+[3986907.700] [Configuration]: Validating Foreign Key Constraints...
+[3986907.701] [Configuration]: Passed Validation.
+[3986908.667] [FullTextSearch]: FTS - Creating Context
+[3986912.436] [FullTextSearch]: FTS - Creating Context
+[3986927.115] [Configuration]: Validating Foreign Key Constraints...
+[3986927.116] [Configuration]: Passed Validation.
+[3986934.437] [Configuration]: Validating Foreign Key Constraints...
+[3986934.438] [Configuration]: Passed Validation.
+[3986946.839] [Configuration]: Validating Foreign Key Constraints...
+[3986946.840] [Configuration]: Passed Validation.
+[3986954.767] [Gameplay]: Validating Foreign Key Constraints...
+[3986954.793] [Gameplay]: Passed Validation.
+[3986986.303] [FullTextSearch]: FTS - Creating Context
+[3986986.304] [FullTextSearch]: FTS - Creating Context
+[3986986.596] [FullTextSearch]: FTS - Creating Context
+[3986986.725] [FullTextSearch]: FTS - Creating Context
+[3986987.710] [FullTextSearch]: FTS - Creating Context
+[3987055.304] [Configuration]: Validating Foreign Key Constraints...
+[3987055.305] [Configuration]: Passed Validation.
+[3987056.257] [FullTextSearch]: FTS - Creating Context
+[3987193.092] [Configuration]: Validating Foreign Key Constraints...
+[3987193.092] [Configuration]: Passed Validation.
+[3987201.101] [Gameplay]: Validating Foreign Key Constraints...
+[3987201.127] [Gameplay]: Passed Validation.
+[3987232.819] [FullTextSearch]: FTS - Creating Context
+[3987232.820] [FullTextSearch]: FTS - Creating Context
+[3987233.112] [FullTextSearch]: FTS - Creating Context
+[3987233.240] [FullTextSearch]: FTS - Creating Context
+[3987234.183] [FullTextSearch]: FTS - Creating Context
+[3990254.571] [FullTextSearch]: FullTextSearch - Shutting down

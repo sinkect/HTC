@@ -1,0 +1,405 @@
+Game Turn, Realism, Total CO2, CO2 Bldgs, CO2 Projects, CO2 Routes, CO2 Units, Deforestation, ClimateChange, Volcanoes (Total), NW Volcanoes, Volcanoes (Active), Eruptions, Floodable Rivers, Floods, NaturalWonderEruptions
+2, 2, 0, 0, 0, 0, 0, 0, 0, 9, 0, 0, 0, 3, 0, 0
+3, 2, 0, 0, 0, 0, 0, 0, 0, 9, 0, 0, 0, 4, 0, 0
+4, 2, 0, 0, 0, 0, 0, 0, 0, 9, 0, 0, 0, 4, 0, 0
+5, 2, 0, 0, 0, 0, 0, 0, 0, 9, 0, 0, 0, 4, 0, 0
+2, 2, 0, 0, 0, 0, 0, 0, 0, 9, 2, 0, 0, 1, 0, 0
+2, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 0, 0, 5, 0, 0
+3, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 0, 0, 7, 0, 0
+4, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 1, 0, 9, 0, 0
+5, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 1, 0, 9, 0, 0
+6, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 1, 0, 10, 0, 0
+7, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 1, 0, 10, 0, 0
+8, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 1, 0, 10, 0, 0
+9, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 1, 0, 10, 0, 0
+10, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 1, 0, 11, 0, 0
+10, STORM, Severity = 1, 심해지는 먼지 폭풍, Center at: (57 - 22), Tiles Damaged = 0, Pop Lost = 0, Units Killed = 0, Fertility Added = 0
+11, ENHANCED TILES, At plot: 2168, 2264,
+11, STORM, Severity = 1, 심해지는 먼지 폭풍, Center at: (54 - 23), Tiles Damaged = 0, Pop Lost = 0, Units Killed = 0, Fertility Added = 1
+11, STORM MOVEMENT, 2168,2263,2167,2262,
+11, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 1, 0, 11, 0, 0
+12, STORM, Severity = 1, 심해지는 먼지 폭풍, Center at: (52 - 25), Tiles Damaged = 0, Pop Lost = 0, Units Killed = 0, Fertility Added = 0
+12, STORM MOVEMENT, 2166,2261,2357,2452,
+12, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 1, 0, 11, 0, 0
+13, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 1, 0, 11, 0, 0
+13, STORM, Severity = 1, 4단계 허리케인, Center at: (40 - 52), Tiles Damaged = 0, Pop Lost = 0, Units Killed = 0, Fertility Added = 0
+14, STORM, Severity = 1, 4단계 허리케인, Center at: (34 - 52), Tiles Damaged = 0, Pop Lost = 0, Units Killed = 0, Fertility Added = 0
+14, STORM MOVEMENT, 5031,5030,5125,5029,5028,5123,5027,5026,
+14, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 1, 0, 12, 0, 0
+15, ENHANCED TILES, At plot: 5214, 5117,
+15, ENHANCED TILES, At plot: 5117, 5022,
+15, STORM, Severity = 1, 4단계 허리케인, Center at: (29 - 53), Tiles Damaged = 0, Pop Lost = 0, Units Killed = 0, Fertility Added = 2
+15, STORM MOVEMENT, 5025,5120,5216,5215,5214,5117,
+15, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 1, 0, 12, 0, 0
+16, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 1, 0, 12, 0, 0
+16, ENHANCED TILES, At plot: 1085, 1085,
+16, ONEOFF, Severity = 1, 산불, Center at: (29 - 11), Tiles Damaged = 0
+17, ONEOFF, Severity = 1, 산불, Center at: (29 - 11), Tiles Damaged = 0
+17, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 1, 0, 12, 0, 0
+17, ERUPTION, Severity=0, 카토카 화산, Volcano at: (17 - 30), Tiles Damaged = 0, Pop Lost = 0, Units Killed = 0, Fertility Added = 4
+18, ENHANCED TILES, At plot: 1085, 1085,
+18, ONEOFF, Severity = 1, 산불, Center at: (29 - 11), Tiles Damaged = 0
+18, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 1, 1, 12, 0, 0
+18, FLOOD, Severity = 2, 그레이트자브강, Floodplain at: (94 - 47), Tiles Damaged = 1, Pop Lost = 1, Units Killed = 0, Fertility Added = 3
+19, ONEOFF, Severity = 1, 산불, Center at: (29 - 11), Tiles Damaged = 0
+19, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 1, 1, 13, 1, 0
+19, FLOOD, Severity = 0, 몬데구강, Floodplain at: (82 - 22), Tiles Damaged = 0, Pop Lost = 0, Units Killed = 0, Fertility Added = 2
+20, ONEOFF, Severity = 1, 산불, Center at: (29 - 11), Tiles Damaged = 0
+20, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 1, 1, 13, 2, 0
+20, STORM, Severity = 1, 상당한 눈보라, Center at: (82 - 1), Tiles Damaged = 0, Pop Lost = 0, Units Killed = 0, Fertility Added = 0
+21, ENHANCED TILES, At plot: 175, 79,
+21, STORM, Severity = 1, 상당한 눈보라, Center at: (79 - 1), Tiles Damaged = 0, Pop Lost = 0, Units Killed = 0, Fertility Added = 1
+21, STORM MOVEMENT, 177,81,176,175,
+21, ONEOFF, Severity = 1, 산불, Center at: (29 - 11), Tiles Damaged = 0
+21, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 2, 1, 13, 2, 0
+22, STORM, Severity = 1, 상당한 눈보라, Center at: (75 - 3), Tiles Damaged = 0, Pop Lost = 0, Units Killed = 0, Fertility Added = 0
+22, STORM MOVEMENT, 174,78,173,77,172,268,363,
+22, ENHANCED TILES, At plot: 1085, 1085,
+22, ONEOFF, Severity = 1, 산불, Center at: (29 - 11), Tiles Damaged = 0
+22, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 2, 1, 13, 2, 0
+22, FLOOD, Severity = 2, 그레이트자브강, Floodplain at: (94 - 47), Tiles Damaged = 0, Pop Lost = 1, Units Killed = 0, Fertility Added = 5
+23, ONEOFF, Severity = 1, 산불, Center at: (29 - 11), Tiles Damaged = 0
+23, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 2, 1, 13, 3, 0
+24, ONEOFF, Severity = 1, 산불, Center at: (29 - 11), Tiles Damaged = 0
+24, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 2, 1, 13, 3, 0
+25, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 2, 1, 14, 3, 0
+26, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 2, 1, 15, 3, 0
+26, ENHANCED TILES, At plot: 4643, 4643,4546,4547,
+26, STORM, Severity = 2, 심각한 눈보라, Center at: (35 - 48), Tiles Damaged = 0, Pop Lost = 0, Units Killed = 0, Fertility Added = 3
+27, STORM, Severity = 2, 심각한 눈보라, Center at: (38 - 49), Tiles Damaged = 3, Pop Lost = 0, Units Killed = 1, Fertility Added = 0
+27, STORM MOVEMENT, 4644,4548,4645,4646,4742,
+27, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 2, 1, 15, 3, 0
+28, STORM, Severity = 2, 심각한 눈보라, Center at: (42 - 49), Tiles Damaged = 0, Pop Lost = 0, Units Killed = 0, Fertility Added = 0
+28, STORM MOVEMENT, 4743,4744,4745,4746,
+28, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 3, 1, 15, 3, 0
+29, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 3, 1, 15, 3, 0
+30, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 3, 1, 15, 3, 0
+31, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 3, 1, 15, 3, 0
+32, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 3, 1, 15, 3, 0
+33, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 3, 1, 15, 3, 0
+34, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 3, 1, 15, 3, 0
+34, ENHANCED TILES, At plot: 3504, 3599,
+34, STORM, Severity = 1, 심해지는 먼지 폭풍, Center at: (48 - 36), Tiles Damaged = 0, Pop Lost = 0, Units Killed = 0, Fertility Added = 1
+35, ENHANCED TILES, At plot: 3599, 3599,
+35, STORM, Severity = 1, 심해지는 먼지 폭풍, Center at: (44 - 39), Tiles Damaged = 0, Pop Lost = 0, Units Killed = 0, Fertility Added = 1
+35, STORM MOVEMENT, 3599,3695,3694,3693,3788,
+35, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 4, 1, 15, 3, 0
+35, FLOOD, Severity = 0, 포강, Floodplain at: (26 - 37), Tiles Damaged = 0, Pop Lost = 0, Units Killed = 0, Fertility Added = 0
+36, STORM, Severity = 1, 심해지는 먼지 폭풍, Center at: (45 - 42), Tiles Damaged = 0, Pop Lost = 0, Units Killed = 0, Fertility Added = 0
+36, STORM MOVEMENT, 3884,3979,4076,4077,
+36, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 4, 1, 15, 4, 0
+37, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 4, 1, 15, 4, 0
+37, STORM, Severity = 1, 4단계 허리케인, Center at: (86 - 46), Tiles Damaged = 0, Pop Lost = 0, Units Killed = 0, Fertility Added = 0
+38, STORM, Severity = 1, 4단계 허리케인, Center at: (90 - 47), Tiles Damaged = 0, Pop Lost = 0, Units Killed = 0, Fertility Added = 0
+38, STORM MOVEMENT, 4503,4599,4696,4600,4505,4601,4602,
+38, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 4, 1, 15, 4, 0
+39, STORM, Severity = 1, 4단계 허리케인, Center at: (94 - 49), Tiles Damaged = 1, Pop Lost = 0, Units Killed = 0, Fertility Added = 0
+39, STORM MOVEMENT, 4699,4795,4796,4797,4798,
+39, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 4, 1, 15, 4, 0
+40, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 4, 1, 15, 4, 0
+40, STORM, Severity = 2, 토네이도 발생, Center at: (50 - 13), Tiles Damaged = 1, Pop Lost = 0, Units Killed = 0, Fertility Added = 0
+41, STORM, Severity = 2, 토네이도 발생, Center at: (53 - 10), Tiles Damaged = 0, Pop Lost = 2, Units Killed = 0, Fertility Added = 0
+41, STORM MOVEMENT, 1299,1204,1108,1013,
+41, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 4, 1, 15, 4, 0
+42, STORM, Severity = 2, 토네이도 발생, Center at: (51 - 9), Tiles Damaged = 0, Pop Lost = 0, Units Killed = 0, Fertility Added = 0
+42, STORM MOVEMENT, 1108,1013,1012,915,
+42, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 4, 1, 15, 4, 0
+43, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 4, 1, 15, 4, 0
+43, STORM, Severity = 1, 4단계 허리케인, Center at: (20 - 25), Tiles Damaged = 0, Pop Lost = 0, Units Killed = 0, Fertility Added = 0
+44, STORM, Severity = 1, 4단계 허리케인, Center at: (17 - 24), Tiles Damaged = 0, Pop Lost = 0, Units Killed = 0, Fertility Added = 0
+44, STORM MOVEMENT, 2324,2227,2323,2322,2321,
+44, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 4, 1, 15, 4, 0
+44, FLOOD, Severity = 0, 제제레강, Floodplain at: (92 - 20), Tiles Damaged = 0, Pop Lost = 0, Units Killed = 0, Fertility Added = 1
+45, STORM, Severity = 1, 4단계 허리케인, Center at: (13 - 27), Tiles Damaged = 0, Pop Lost = 0, Units Killed = 0, Fertility Added = 0
+45, STORM MOVEMENT, 2416,2415,2414,2510,2605,
+45, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 4, 1, 15, 5, 0
+46, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 4, 1, 15, 5, 0
+46, ERUPTION, Severity=2, LOC_FEATURE_EYJAFJALLAJOKULL_NAME, Natural Wonder at: (28 - 52), Tiles Damaged = 0, Pop Lost = 0, Units Killed = 0, Fertility Added = 3
+46, ERUPTION, Severity=2, LOC_FEATURE_EYJAFJALLAJOKULL_NAME, Natural Wonder at: (29 - 52), Tiles Damaged = 0, Pop Lost = 0, Units Killed = 0, Fertility Added = 3
+47, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 4, 2, 15, 5, 1
+48, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 4, 2, 15, 5, 1
+48, ENHANCED TILES, At plot: 2303, 2304,
+48, STORM, Severity = 1, 심해지는 먼지 폭풍, Center at: (95 - 23), Tiles Damaged = 0, Pop Lost = 0, Units Killed = 0, Fertility Added = 1
+49, STORM, Severity = 1, 심해지는 먼지 폭풍, Center at: (92 - 21), Tiles Damaged = 0, Pop Lost = 0, Units Killed = 0, Fertility Added = 0
+49, STORM MOVEMENT, 2302,2206,2205,2108,
+49, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 4, 2, 15, 5, 1
+50, STORM, Severity = 1, 심해지는 먼지 폭풍, Center at: (89 - 22), Tiles Damaged = 0, Pop Lost = 0, Units Killed = 0, Fertility Added = 0
+50, STORM MOVEMENT, 2107,2106,2202,2201,
+50, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 4, 2, 15, 5, 1
+51, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 4, 2, 15, 5, 1
+51, FLOOD, Severity = 2, 달링강, Floodplain at: (72 - 48), Tiles Damaged = 1, Pop Lost = 2, Units Killed = 0, Fertility Added = 4
+52, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 4, 2, 15, 6, 1
+53, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 4, 2, 15, 6, 1
+53, FLOOD, Severity = 1, 쿠퍼강, Floodplain at: (78 - 49), Tiles Damaged = 1, Pop Lost = 0, Units Killed = 0, Fertility Added = 4
+54, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 4, 2, 15, 7, 1
+55, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 4, 2, 15, 7, 1
+56, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 4, 2, 15, 7, 1
+56, FLOOD, Severity = 0, 아르노강, Floodplain at: (20 - 35), Tiles Damaged = 1, Pop Lost = 0, Units Killed = 0, Fertility Added = 1
+57, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 4, 2, 15, 8, 1
+58, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 4, 2, 15, 8, 1
+59, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 4, 2, 15, 8, 1
+60, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 4, 2, 15, 8, 1
+61, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 4, 2, 15, 8, 1
+62, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 4, 2, 15, 8, 1
+63, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 4, 2, 15, 8, 1
+64, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 4, 2, 15, 8, 1
+64, FLOOD, Severity = 0, 몬데구강, Floodplain at: (82 - 22), Tiles Damaged = 2, Pop Lost = 0, Units Killed = 0, Fertility Added = 0
+65, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 4, 2, 15, 9, 1
+65, STORM, Severity = 1, 상당한 눈보라, Center at: (64 - 10), Tiles Damaged = 0, Pop Lost = 0, Units Killed = 0, Fertility Added = 0
+66, STORM, Severity = 1, 상당한 눈보라, Center at: (62 - 10), Tiles Damaged = 0, Pop Lost = 0, Units Killed = 0, Fertility Added = 0
+66, STORM MOVEMENT, 1023,1118,1023,1022,
+66, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 4, 2, 15, 9, 1
+67, STORM, Severity = 1, 상당한 눈보라, Center at: (57 - 9), Tiles Damaged = 0, Pop Lost = 0, Units Killed = 0, Fertility Added = 0
+67, STORM MOVEMENT, 1021,1020,923,922,921,
+67, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 4, 2, 15, 9, 1
+67, FLOOD, Severity = 1, 그레이트자브강, Floodplain at: (94 - 47), Tiles Damaged = 4, Pop Lost = 0, Units Killed = 0, Fertility Added = 3
+68, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 4, 2, 15, 10, 1
+69, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 5, 2, 15, 10, 1
+70, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 5, 2, 15, 10, 1
+70, ERUPTION, Severity=0, 아서시트, Volcano at: (25 - 7), Tiles Damaged = 0, Pop Lost = 0, Units Killed = 0, Fertility Added = 4
+71, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 5, 3, 15, 10, 1
+71, ERUPTION, Severity=1, 티브로가르간산, Volcano at: (74 - 46), Tiles Damaged = 0, Pop Lost = 1, Units Killed = 0, Fertility Added = 5
+72, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 5, 4, 15, 10, 1
+72, ENHANCED TILES, At plot: 1276, 1276,
+72, ONEOFF, Severity = 1, 산불, Center at: (28 - 13), Tiles Damaged = 0
+73, ONEOFF, Severity = 1, 산불, Center at: (28 - 13), Tiles Damaged = 0
+73, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 5, 4, 15, 10, 1
+74, ENHANCED TILES, At plot: 1276, 1276,
+74, ONEOFF, Severity = 1, 산불, Center at: (28 - 13), Tiles Damaged = 0
+74, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 5, 4, 15, 10, 1
+75, ONEOFF, Severity = 1, 산불, Center at: (28 - 13), Tiles Damaged = 0
+75, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 5, 4, 15, 10, 1
+75, FLOOD, Severity = 2, 몬데구강, Floodplain at: (82 - 22), Tiles Damaged = 1, Pop Lost = 1, Units Killed = 0, Fertility Added = 4
+76, ONEOFF, Severity = 1, 산불, Center at: (28 - 13), Tiles Damaged = 0
+76, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 5, 4, 15, 11, 1
+77, ONEOFF, Severity = 1, 산불, Center at: (28 - 13), Tiles Damaged = 0
+77, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 5, 4, 15, 11, 1
+78, ENHANCED TILES, At plot: 1276, 1276,
+78, ONEOFF, Severity = 1, 산불, Center at: (28 - 13), Tiles Damaged = 0
+78, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 5, 4, 15, 11, 1
+78, STORM, Severity = 2, 5단계 허리케인, Center at: (33 - 1), Tiles Damaged = 0, Pop Lost = 0, Units Killed = 0, Fertility Added = 0
+79, ENHANCED TILES, At plot: 223, 30,
+79, STORM, Severity = 2, 5단계 허리케인, Center at: (30 - 3), Tiles Damaged = 0, Pop Lost = 0, Units Killed = 0, Fertility Added = 1
+79, STORM MOVEMENT, 225,224,223,318,
+79, ONEOFF, Severity = 1, 산불, Center at: (28 - 13), Tiles Damaged = 0
+79, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 5, 4, 15, 11, 1
+80, ENHANCED TILES, At plot: 413, 507,604,
+80, STORM, Severity = 2, 5단계 허리케인, Center at: (27 - 3), Tiles Damaged = 0, Pop Lost = 0, Units Killed = 1, Fertility Added = 2
+80, STORM MOVEMENT, 317,413,412,315,
+80, ONEOFF, Severity = 1, 산불, Center at: (28 - 13), Tiles Damaged = 0
+80, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 5, 4, 15, 11, 1
+80, FLOOD, Severity = 2, 그레이트자브강, Floodplain at: (94 - 47), Tiles Damaged = 2, Pop Lost = 0, Units Killed = 0, Fertility Added = 4
+81, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 5, 4, 15, 12, 1
+82, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 5, 4, 15, 12, 1
+83, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 5, 4, 15, 12, 1
+83, FLOOD, Severity = 2, 갠지스강, Floodplain at: (32 - 30), Tiles Damaged = 0, Pop Lost = 0, Units Killed = 0, Fertility Added = 2
+84, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 5, 4, 15, 13, 1
+84, FLOOD, Severity = 2, 갠지스강, Floodplain at: (32 - 30), Tiles Damaged = 0, Pop Lost = 0, Units Killed = 1, Fertility Added = 3
+85, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 5, 4, 15, 14, 1
+85, ERUPTION, Severity=0, 티브로가르간산, Volcano at: (74 - 46), Tiles Damaged = 1, Pop Lost = 0, Units Killed = 0, Fertility Added = 2
+86, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 5, 5, 15, 14, 1
+87, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 5, 5, 15, 14, 1
+88, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 5, 5, 15, 14, 1
+88, ENHANCED TILES, At plot: 2786, 2786,
+88, ONEOFF, Severity = 1, 산불, Center at: (2 - 29), Tiles Damaged = 0
+89, ENHANCED TILES, At plot: 2883, 2883,
+89, ONEOFF, Severity = 1, 산불, Center at: (3 - 30), Tiles Damaged = 0
+89, ENHANCED TILES, At plot: 2785, 2785,
+89, ONEOFF, Severity = 1, 산불, Center at: (1 - 29), Tiles Damaged = 0
+89, ONEOFF, Severity = 1, 산불, Center at: (2 - 29), Tiles Damaged = 0
+89, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 5, 5, 15, 14, 1
+89, FLOOD, Severity = 2, 인더스강, Floodplain at: (34 - 35), Tiles Damaged = 0, Pop Lost = 0, Units Killed = 0, Fertility Added = 6
+90, ENHANCED TILES, At plot: 2786, 2786,
+90, ONEOFF, Severity = 1, 산불, Center at: (2 - 29), Tiles Damaged = 0
+90, ONEOFF, Severity = 1, 산불, Center at: (3 - 30), Tiles Damaged = 0
+90, ENHANCED TILES, At plot: 2881, 2881,
+90, ONEOFF, Severity = 1, 산불, Center at: (1 - 30), Tiles Damaged = 0
+90, ONEOFF, Severity = 1, 산불, Center at: (1 - 29), Tiles Damaged = 0
+90, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 5, 5, 15, 15, 1
+90, STORM, Severity = 1, 4단계 허리케인, Center at: (1 - 14), Tiles Damaged = 0, Pop Lost = 0, Units Killed = 0, Fertility Added = 0
+91, STORM, Severity = 1, 4단계 허리케인, Center at: (6 - 12), Tiles Damaged = 0, Pop Lost = 0, Units Killed = 0, Fertility Added = 0
+91, STORM MOVEMENT, 1249,1250,1251,1348,1252,1157,1158,
+91, ONEOFF, Severity = 1, 산불, Center at: (2 - 29), Tiles Damaged = 0
+91, ENHANCED TILES, At plot: 2883, 2883,
+91, ONEOFF, Severity = 1, 산불, Center at: (3 - 30), Tiles Damaged = 0
+91, ENHANCED TILES, At plot: 2785, 2785,
+91, ONEOFF, Severity = 1, 산불, Center at: (1 - 29), Tiles Damaged = 0
+91, ONEOFF, Severity = 1, 산불, Center at: (1 - 30), Tiles Damaged = 0
+91, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 5, 5, 15, 15, 1
+92, STORM, Severity = 1, 4단계 허리케인, Center at: (9 - 11), Tiles Damaged = 0, Pop Lost = 0, Units Killed = 0, Fertility Added = 0
+92, STORM MOVEMENT, 1254,1159,1063,1064,1065,
+92, ONEOFF, Severity = 1, 산불, Center at: (2 - 29), Tiles Damaged = 0
+92, ONEOFF, Severity = 1, 산불, Center at: (3 - 30), Tiles Damaged = 0
+92, ONEOFF, Severity = 1, 산불, Center at: (1 - 29), Tiles Damaged = 0
+92, ENHANCED TILES, At plot: 2881, 2881,
+92, ONEOFF, Severity = 1, 산불, Center at: (1 - 30), Tiles Damaged = 0
+92, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 5, 5, 15, 15, 1
+92, STORM, Severity = 1, 4단계 허리케인, Center at: (9 - 17), Tiles Damaged = 0, Pop Lost = 0, Units Killed = 0, Fertility Added = 0
+93, STORM, Severity = 1, 4단계 허리케인, Center at: (13 - 14), Tiles Damaged = 0, Pop Lost = 0, Units Killed = 0, Fertility Added = 0
+93, STORM MOVEMENT, 1546,1547,1548,1452,1357,
+93, ONEOFF, Severity = 1, 산불, Center at: (2 - 29), Tiles Damaged = 0
+93, ONEOFF, Severity = 1, 산불, Center at: (3 - 30), Tiles Damaged = 0
+93, ONEOFF, Severity = 1, 산불, Center at: (1 - 29), Tiles Damaged = 0
+93, ONEOFF, Severity = 1, 산불, Center at: (1 - 30), Tiles Damaged = 0
+93, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 5, 5, 15, 15, 1
+94, ENHANCED TILES, At plot: 1454, 1550,
+94, ENHANCED TILES, At plot: 1360, 1263,
+94, STORM, Severity = 1, 4단계 허리케인, Center at: (16 - 14), Tiles Damaged = 0, Pop Lost = 0, Units Killed = 0, Fertility Added = 2
+94, STORM MOVEMENT, 1358,1454,1455,1360,
+94, ENHANCED TILES, At plot: 2786, 2786,
+94, ONEOFF, Severity = 1, 산불, Center at: (2 - 29), Tiles Damaged = 0
+94, ONEOFF, Severity = 1, 산불, Center at: (3 - 30), Tiles Damaged = 0
+94, ONEOFF, Severity = 1, 산불, Center at: (1 - 29), Tiles Damaged = 0
+94, ONEOFF, Severity = 1, 산불, Center at: (1 - 30), Tiles Damaged = 0
+94, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 5, 5, 15, 15, 1
+95, ONEOFF, Severity = 1, 산불, Center at: (2 - 29), Tiles Damaged = 0
+95, ENHANCED TILES, At plot: 2883, 2883,
+95, ONEOFF, Severity = 1, 산불, Center at: (3 - 30), Tiles Damaged = 0
+95, ENHANCED TILES, At plot: 2785, 2785,
+95, ONEOFF, Severity = 1, 산불, Center at: (1 - 29), Tiles Damaged = 0
+95, ONEOFF, Severity = 1, 산불, Center at: (1 - 30), Tiles Damaged = 0
+95, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 5, 5, 15, 15, 1
+96, ONEOFF, Severity = 1, 산불, Center at: (2 - 29), Tiles Damaged = 0
+96, ONEOFF, Severity = 1, 산불, Center at: (3 - 30), Tiles Damaged = 0
+96, ONEOFF, Severity = 1, 산불, Center at: (1 - 29), Tiles Damaged = 0
+96, ENHANCED TILES, At plot: 2881, 2881,
+96, ONEOFF, Severity = 1, 산불, Center at: (1 - 30), Tiles Damaged = 0
+96, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 5, 5, 15, 15, 1
+97, ONEOFF, Severity = 1, 산불, Center at: (3 - 30), Tiles Damaged = 0
+97, ONEOFF, Severity = 1, 산불, Center at: (1 - 29), Tiles Damaged = 0
+97, ONEOFF, Severity = 1, 산불, Center at: (1 - 30), Tiles Damaged = 0
+97, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 5, 5, 15, 15, 1
+98, ONEOFF, Severity = 1, 산불, Center at: (1 - 30), Tiles Damaged = 0
+98, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 5, 5, 15, 15, 1
+99, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 5, 5, 15, 15, 1
+99, FLOOD, Severity = 1, 디강, Floodplain at: (28 - 12), Tiles Damaged = 0, Pop Lost = 0, Units Killed = 0, Fertility Added = 2
+100, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 5, 5, 15, 16, 1
+100, ERUPTION, Severity=2, LOC_FEATURE_EYJAFJALLAJOKULL_NAME, Natural Wonder at: (28 - 52), Tiles Damaged = 0, Pop Lost = 0, Units Killed = 0, Fertility Added = 10
+101, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 5, 6, 15, 16, 2
+101, ENHANCED TILES, At plot: 4831, 4831,
+101, ONEOFF, Severity = 1, 산불, Center at: (31 - 50), Tiles Damaged = 0
+102, ONEOFF, Severity = 1, 산불, Center at: (31 - 50), Tiles Damaged = 0
+102, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 6, 6, 15, 16, 2
+103, ENHANCED TILES, At plot: 4831, 4831,
+103, ONEOFF, Severity = 1, 산불, Center at: (31 - 50), Tiles Damaged = 0
+103, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 6, 6, 15, 16, 2
+104, ONEOFF, Severity = 1, 산불, Center at: (31 - 50), Tiles Damaged = 0
+104, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 6, 6, 15, 16, 2
+104, FLOOD, Severity = 1, 제제레강, Floodplain at: (92 - 20), Tiles Damaged = 1, Pop Lost = 0, Units Killed = 0, Fertility Added = 3
+105, ONEOFF, Severity = 1, 산불, Center at: (31 - 50), Tiles Damaged = 0
+105, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 6, 6, 15, 17, 2
+106, ONEOFF, Severity = 1, 산불, Center at: (31 - 50), Tiles Damaged = 0
+106, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 5, 6, 15, 17, 2
+106, ENHANCED TILES, At plot: 1034, 1130,
+106, STORM, Severity = 1, 상당한 눈보라, Center at: (74 - 10), Tiles Damaged = 0, Pop Lost = 0, Units Killed = 0, Fertility Added = 1
+107, STORM, Severity = 1, 상당한 눈보라, Center at: (72 - 10), Tiles Damaged = 0, Pop Lost = 0, Units Killed = 0, Fertility Added = 0
+107, STORM MOVEMENT, 937,1033,936,1032,
+107, ENHANCED TILES, At plot: 4831, 4831,
+107, ONEOFF, Severity = 1, 산불, Center at: (31 - 50), Tiles Damaged = 0
+107, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 6, 6, 15, 17, 2
+107, ENHANCED TILES, At plot: 3192, 3192,
+107, ONEOFF, Severity = 1, 산불, Center at: (24 - 33), Tiles Damaged = 0
+108, STORM, Severity = 1, 상당한 눈보라, Center at: (69 - 8), Tiles Damaged = 0, Pop Lost = 0, Units Killed = 0, Fertility Added = 0
+108, STORM MOVEMENT, 1031,1030,933,837,
+108, ONEOFF, Severity = 1, 산불, Center at: (31 - 50), Tiles Damaged = 0
+108, ONEOFF, Severity = 1, 산불, Center at: (24 - 33), Tiles Damaged = 0
+108, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 6, 6, 15, 17, 2
+108, FLOOD, Severity = 0, 쿠퍼강, Floodplain at: (78 - 49), Tiles Damaged = 1, Pop Lost = 0, Units Killed = 0, Fertility Added = 1
+109, ONEOFF, Severity = 1, 산불, Center at: (31 - 50), Tiles Damaged = 0
+109, ENHANCED TILES, At plot: 3192, 3192,
+109, ONEOFF, Severity = 1, 산불, Center at: (24 - 33), Tiles Damaged = 0
+109, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 6, 6, 15, 18, 2
+110, ONEOFF, Severity = 1, 산불, Center at: (24 - 33), Tiles Damaged = 0
+110, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 6, 6, 15, 18, 2
+110, FLOOD, Severity = 1, 쿠퍼강, Floodplain at: (78 - 49), Tiles Damaged = 1, Pop Lost = 0, Units Killed = 0, Fertility Added = 1
+111, ONEOFF, Severity = 1, 산불, Center at: (24 - 33), Tiles Damaged = 0
+111, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 6, 6, 15, 19, 2
+112, ONEOFF, Severity = 1, 산불, Center at: (24 - 33), Tiles Damaged = 0
+112, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 6, 6, 15, 19, 2
+113, ENHANCED TILES, At plot: 3192, 3192,
+113, ONEOFF, Severity = 1, 산불, Center at: (24 - 33), Tiles Damaged = 0
+113, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 6, 6, 15, 19, 2
+114, ONEOFF, Severity = 1, 산불, Center at: (24 - 33), Tiles Damaged = 0
+114, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 6, 6, 15, 19, 2
+114, STORM, Severity = 2, 5단계 허리케인, Center at: (24 - 26), Tiles Damaged = 0, Pop Lost = 0, Units Killed = 0, Fertility Added = 0
+115, ENHANCED TILES, At plot: 2422, 2613,
+115, ENHANCED TILES, At plot: 2421, 2612,
+115, ENHANCED TILES, At plot: 2517, 2708,2710,
+115, STORM, Severity = 2, 5단계 허리케인, Center at: (21 - 26), Tiles Damaged = 4, Pop Lost = 2, Units Killed = 0, Fertility Added = 5
+115, STORM MOVEMENT, 2423,2327,2422,2421,2517,
+115, ONEOFF, Severity = 1, 산불, Center at: (24 - 33), Tiles Damaged = 0
+115, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 6, 6, 15, 19, 2
+116, ENHANCED TILES, At plot: 2515, 2513,2609,
+116, STORM, Severity = 2, 5단계 허리케인, Center at: (17 - 25), Tiles Damaged = 2, Pop Lost = 1, Units Killed = 0, Fertility Added = 2
+116, STORM MOVEMENT, 2516,2515,2514,2417,
+116, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 6, 6, 15, 19, 2
+117, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 6, 6, 15, 19, 2
+118, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 6, 6, 15, 19, 2
+119, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 6, 6, 15, 19, 2
+119, ERUPTION, Severity=2, 아서시트, Volcano at: (25 - 7), Tiles Damaged = 0, Pop Lost = 0, Units Killed = 0, Fertility Added = 8
+120, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 6, 7, 15, 19, 2
+121, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 6, 7, 15, 19, 2
+122, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 5, 7, 15, 19, 2
+123, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 5, 7, 15, 19, 2
+123, STORM, Severity = 1, 4단계 허리케인, Center at: (64 - 12), Tiles Damaged = 0, Pop Lost = 0, Units Killed = 0, Fertility Added = 0
+124, ENHANCED TILES, At plot: 1120, 1121,
+124, STORM, Severity = 1, 4단계 허리케인, Center at: (65 - 11), Tiles Damaged = 0, Pop Lost = 0, Units Killed = 0, Fertility Added = 1
+124, STORM MOVEMENT, 1120,1121,1026,1121,
+124, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 5, 7, 15, 19, 2
+124, FLOOD, Severity = 0, 인시키강, Floodplain at: (22 - 34), Tiles Damaged = 2, Pop Lost = 0, Units Killed = 0, Fertility Added = 1
+125, STORM, Severity = 1, 4단계 허리케인, Center at: (68 - 10), Tiles Damaged = 0, Pop Lost = 0, Units Killed = 0, Fertility Added = 0
+125, STORM MOVEMENT, 1218,1219,1123,1028,
+125, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 5, 7, 15, 20, 2
+126, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 5, 7, 15, 20, 2
+127, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 5, 7, 15, 20, 2
+127, FLOOD, Severity = 2, 제제레강, Floodplain at: (92 - 20), Tiles Damaged = 1, Pop Lost = 0, Units Killed = 0, Fertility Added = 7
+128, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 5, 7, 15, 21, 2
+128, FLOOD MITIGATED, Severity=1, 그레이트자브강, Floodplain at: (94 - 47)
+128, FLOOD MITIGATED, Severity=1, 그레이트자브강, Floodplain at: (94 - 47)
+129, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 5, 7, 15, 22, 2
+129, FLOOD, Severity = 0, 디강, Floodplain at: (28 - 12), Tiles Damaged = 0, Pop Lost = 0, Units Killed = 0, Fertility Added = 1
+130, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 5, 7, 15, 23, 2
+130, STORM, Severity = 2, 5단계 허리케인, Center at: (11 - 20), Tiles Damaged = 0, Pop Lost = 0, Units Killed = 0, Fertility Added = 0
+131, STORM, Severity = 2, 5단계 허리케인, Center at: (14 - 19), Tiles Damaged = 0, Pop Lost = 0, Units Killed = 0, Fertility Added = 0
+131, STORM MOVEMENT, 1932,1933,1934,1838,
+131, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 5, 7, 15, 23, 2
+132, STORM, Severity = 2, 5단계 허리케인, Center at: (15 - 19), Tiles Damaged = 0, Pop Lost = 0, Units Killed = 0, Fertility Added = 0
+132, STORM MOVEMENT, 1935,2031,1935,1839,
+132, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 5, 7, 15, 23, 2
+133, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 5, 7, 15, 23, 2
+134, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 5, 7, 15, 23, 2
+135, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 5, 7, 15, 23, 2
+135, FLOOD, Severity = 2, 다미에타강, Floodplain at: (13 - 44), Tiles Damaged = 0, Pop Lost = 0, Units Killed = 0, Fertility Added = 4
+136, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 5, 7, 15, 24, 2
+137, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 5, 7, 15, 24, 2
+138, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 5, 7, 15, 24, 2
+139, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 5, 7, 15, 24, 2
+140, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 5, 7, 15, 24, 2
+141, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 5, 7, 15, 24, 2
+142, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 5, 7, 15, 24, 2
+143, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 5, 7, 15, 24, 2
+143, ENHANCED TILES, At plot: 1284, 1284,
+143, ONEOFF, Severity = 1, 산불, Center at: (36 - 13), Tiles Damaged = 0
+144, ONEOFF, Severity = 1, 산불, Center at: (36 - 13), Tiles Damaged = 0
+144, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 5, 7, 15, 24, 2
+145, ENHANCED TILES, At plot: 1284, 1284,
+145, ONEOFF, Severity = 1, 산불, Center at: (36 - 13), Tiles Damaged = 0
+145, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 5, 7, 15, 24, 2
+146, ONEOFF, Severity = 1, 산불, Center at: (36 - 13), Tiles Damaged = 0
+146, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 5, 7, 15, 24, 2
+146, FLOOD, Severity = 0, 브리즈번강, Floodplain at: (71 - 42), Tiles Damaged = 2, Pop Lost = 0, Units Killed = 0, Fertility Added = 1
+147, ONEOFF, Severity = 1, 산불, Center at: (36 - 13), Tiles Damaged = 0
+147, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 5, 7, 15, 25, 2
+148, ONEOFF, Severity = 1, 산불, Center at: (36 - 13), Tiles Damaged = 0
+148, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 5, 7, 15, 25, 2
+149, ENHANCED TILES, At plot: 1284, 1284,
+149, ONEOFF, Severity = 1, 산불, Center at: (36 - 13), Tiles Damaged = 0
+149, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 5, 7, 15, 25, 2
+149, ERUPTION, Severity=1, 피코산, Volcano at: (2 - 26), Tiles Damaged = 0, Pop Lost = 0, Units Killed = 1, Fertility Added = 8
+150, ONEOFF, Severity = 1, 산불, Center at: (36 - 13), Tiles Damaged = 0
+150, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 5, 8, 15, 25, 2
+150, FLOOD MITIGATED, Severity=0, 몬데구강, Floodplain at: (82 - 22)
+150, FLOOD MITIGATED, Severity=0, 몬데구강, Floodplain at: (82 - 22)
+151, ONEOFF, Severity = 1, 산불, Center at: (36 - 13), Tiles Damaged = 0
+151, 2, 0, 0, 0, 0, 0, 0, 0, 8, 1, 5, 8, 15, 26, 2
+151, ERUPTION, Severity=1, 피코산, Volcano at: (2 - 26), Tiles Damaged = 0, Pop Lost = 0, Units Killed = 0, Fertility Added = 5

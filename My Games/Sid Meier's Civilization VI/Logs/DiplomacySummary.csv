@@ -1,0 +1,1447 @@
+Game Turn, Initiator, Recipient, Action, Details, Mayhem, Visibility
+1, 63, 0, Met, ,    0.0, 0
+1, 0, 63, Met, ,    0.0, 0
+1, 63, 0, At War, Surprise,    0.0, 0
+1, 63, 1, Met, ,    0.0, 0
+1, 1, 63, Met, ,    0.0, 0
+1, 63, 1, At War, Surprise,    0.0, 0
+1, 63, 2, Met, ,    0.0, 0
+1, 2, 63, Met, ,    0.0, 0
+1, 63, 2, At War, Surprise,    0.0, 0
+1, 63, 3, Met, ,    0.0, 0
+1, 3, 63, Met, ,    0.0, 0
+1, 63, 3, At War, Surprise,    0.0, 0
+1, 63, 4, Met, ,    0.0, 0
+1, 4, 63, Met, ,    0.0, 0
+1, 63, 4, At War, Surprise,    0.0, 0
+1, 63, 5, Met, ,    0.0, 0
+1, 5, 63, Met, ,    0.0, 0
+1, 63, 5, At War, Surprise,    0.0, 0
+1, 63, 6, Met, ,    0.0, 0
+1, 6, 63, Met, ,    0.0, 0
+1, 63, 6, At War, Surprise,    0.0, 0
+1, 63, 7, Met, ,    0.0, 0
+1, 7, 63, Met, ,    0.0, 0
+1, 63, 7, At War, Surprise,    0.0, 0
+1, 63, 8, Met, ,    0.0, 0
+1, 8, 63, Met, ,    0.0, 0
+1, 63, 8, At War, Surprise,    0.0, 0
+1, 63, 9, Met, ,    0.0, 0
+1, 9, 63, Met, ,    0.0, 0
+1, 63, 9, At War, Surprise,    0.0, 0
+1, 63, 10, Met, ,    0.0, 0
+1, 10, 63, Met, ,    0.0, 0
+1, 63, 10, At War, Surprise,    0.0, 0
+1, 63, 11, Met, ,    0.0, 0
+1, 11, 63, Met, ,    0.0, 0
+1, 63, 11, At War, Surprise,    0.0, 0
+1, 63, 12, Met, ,    0.0, 0
+1, 12, 63, Met, ,    0.0, 0
+1, 63, 12, At War, Surprise,    0.0, 0
+1, 63, 13, Met, ,    0.0, 0
+1, 13, 63, Met, ,    0.0, 0
+1, 63, 13, At War, Surprise,    0.0, 0
+1, 63, 14, Met, ,    0.0, 0
+1, 14, 63, Met, ,    0.0, 0
+1, 63, 14, At War, Surprise,    0.0, 0
+1, 62, 0, Met, ,    0.0, 0
+1, 0, 62, Met, ,    0.0, 0
+1, 62, 0, At War, Surprise,    0.0, 0
+1, 62, 1, Met, ,    0.0, 0
+1, 1, 62, Met, ,    0.0, 0
+1, 62, 1, At War, Surprise,    0.0, 0
+1, 62, 2, Met, ,    0.0, 0
+1, 2, 62, Met, ,    0.0, 0
+1, 62, 2, At War, Surprise,    0.0, 0
+1, 62, 3, Met, ,    0.0, 0
+1, 3, 62, Met, ,    0.0, 0
+1, 62, 3, At War, Surprise,    0.0, 0
+1, 62, 4, Met, ,    0.0, 0
+1, 4, 62, Met, ,    0.0, 0
+1, 62, 4, At War, Surprise,    0.0, 0
+1, 62, 5, Met, ,    0.0, 0
+1, 5, 62, Met, ,    0.0, 0
+1, 62, 5, At War, Surprise,    0.0, 0
+1, 63, 0, Met, ,    0.0, 0
+1, 0, 63, Met, ,    0.0, 0
+1, 63, 0, At War, Surprise,    0.0, 0
+1, 63, 1, Met, ,    0.0, 0
+1, 1, 63, Met, ,    0.0, 0
+1, 63, 1, At War, Surprise,    0.0, 0
+1, 63, 2, Met, ,    0.0, 0
+1, 2, 63, Met, ,    0.0, 0
+1, 63, 2, At War, Surprise,    0.0, 0
+1, 63, 3, Met, ,    0.0, 0
+1, 3, 63, Met, ,    0.0, 0
+1, 63, 3, At War, Surprise,    0.0, 0
+1, 63, 4, Met, ,    0.0, 0
+1, 4, 63, Met, ,    0.0, 0
+1, 63, 4, At War, Surprise,    0.0, 0
+1, 63, 5, Met, ,    0.0, 0
+1, 5, 63, Met, ,    0.0, 0
+1, 63, 5, At War, Surprise,    0.0, 0
+1, 63, 6, Met, ,    0.0, 0
+1, 6, 63, Met, ,    0.0, 0
+1, 63, 6, At War, Surprise,    0.0, 0
+1, 63, 7, Met, ,    0.0, 0
+1, 7, 63, Met, ,    0.0, 0
+1, 63, 7, At War, Surprise,    0.0, 0
+1, 63, 8, Met, ,    0.0, 0
+1, 8, 63, Met, ,    0.0, 0
+1, 63, 8, At War, Surprise,    0.0, 0
+1, 63, 9, Met, ,    0.0, 0
+1, 9, 63, Met, ,    0.0, 0
+1, 63, 9, At War, Surprise,    0.0, 0
+1, 63, 10, Met, ,    0.0, 0
+1, 10, 63, Met, ,    0.0, 0
+1, 63, 10, At War, Surprise,    0.0, 0
+1, 63, 11, Met, ,    0.0, 0
+1, 11, 63, Met, ,    0.0, 0
+1, 63, 11, At War, Surprise,    0.0, 0
+1, 63, 12, Met, ,    0.0, 0
+1, 12, 63, Met, ,    0.0, 0
+1, 63, 12, At War, Surprise,    0.0, 0
+1, 63, 13, Met, ,    0.0, 0
+1, 13, 63, Met, ,    0.0, 0
+1, 63, 13, At War, Surprise,    0.0, 0
+1, 63, 14, Met, ,    0.0, 0
+1, 14, 63, Met, ,    0.0, 0
+1, 63, 14, At War, Surprise,    0.0, 0
+1, 63, 15, Met, ,    0.0, 0
+1, 15, 63, Met, ,    0.0, 0
+1, 63, 15, At War, Surprise,    0.0, 0
+1, 63, 16, Met, ,    0.0, 0
+1, 16, 63, Met, ,    0.0, 0
+1, 63, 16, At War, Surprise,    0.0, 0
+1, 63, 17, Met, ,    0.0, 0
+1, 17, 63, Met, ,    0.0, 0
+1, 63, 17, At War, Surprise,    0.0, 0
+1, 63, 18, Met, ,    0.0, 0
+1, 18, 63, Met, ,    0.0, 0
+1, 63, 18, At War, Surprise,    0.0, 0
+1, 63, 19, Met, ,    0.0, 0
+1, 19, 63, Met, ,    0.0, 0
+1, 63, 19, At War, Surprise,    0.0, 0
+1, 63, 20, Met, ,    0.0, 0
+1, 20, 63, Met, ,    0.0, 0
+1, 63, 20, At War, Surprise,    0.0, 0
+1, 63, 21, Met, ,    0.0, 0
+1, 21, 63, Met, ,    0.0, 0
+1, 63, 21, At War, Surprise,    0.0, 0
+1, 63, 22, Met, ,    0.0, 0
+1, 22, 63, Met, ,    0.0, 0
+1, 63, 22, At War, Surprise,    0.0, 0
+1, 63, 23, Met, ,    0.0, 0
+1, 23, 63, Met, ,    0.0, 0
+1, 63, 23, At War, Surprise,    0.0, 0
+1, 63, 24, Met, ,    0.0, 0
+1, 24, 63, Met, ,    0.0, 0
+1, 63, 24, At War, Surprise,    0.0, 0
+1, 62, 0, Met, ,    0.0, 0
+1, 0, 62, Met, ,    0.0, 0
+1, 62, 0, At War, Surprise,    0.0, 0
+1, 62, 1, Met, ,    0.0, 0
+1, 1, 62, Met, ,    0.0, 0
+1, 62, 1, At War, Surprise,    0.0, 0
+1, 62, 2, Met, ,    0.0, 0
+1, 2, 62, Met, ,    0.0, 0
+1, 62, 2, At War, Surprise,    0.0, 0
+1, 62, 3, Met, ,    0.0, 0
+1, 3, 62, Met, ,    0.0, 0
+1, 62, 3, At War, Surprise,    0.0, 0
+1, 62, 4, Met, ,    0.0, 0
+1, 4, 62, Met, ,    0.0, 0
+1, 62, 4, At War, Surprise,    0.0, 0
+1, 62, 5, Met, ,    0.0, 0
+1, 5, 62, Met, ,    0.0, 0
+1, 62, 5, At War, Surprise,    0.0, 0
+1, 62, 6, Met, ,    0.0, 0
+1, 6, 62, Met, ,    0.0, 0
+1, 62, 6, At War, Surprise,    0.0, 0
+1, 62, 7, Met, ,    0.0, 0
+1, 7, 62, Met, ,    0.0, 0
+1, 62, 7, At War, Surprise,    0.0, 0
+1, 62, 8, Met, ,    0.0, 0
+1, 8, 62, Met, ,    0.0, 0
+1, 62, 8, At War, Surprise,    0.0, 0
+1, 62, 9, Met, ,    0.0, 0
+1, 9, 62, Met, ,    0.0, 0
+1, 62, 9, At War, Surprise,    0.0, 0
+2, 7, 11, Met, ,    0.0, 0
+2, 11, 7, Met, ,    0.0, 0
+2, 7, 11, Gave Influence, ,    0.0, 0
+3, 3, 10, Met, ,    0.0, 0
+3, 10, 3, Met, ,    0.0, 0
+3, 3, 10, Gave Influence, ,    0.0, 0
+3, 18, 4, Met, ,    0.5, 0
+3, 4, 18, Met, ,    0.5, 0
+3, 4, 18, Gave Influence, ,    0.5, 0
+4, 15, 6, Met, ,    2.0, 0
+4, 6, 15, Met, ,    2.0, 0
+4, 6, 15, Gave Influence, ,    2.0, 0
+1, 63, 0, Met, ,    0.0, 0
+1, 0, 63, Met, ,    0.0, 0
+1, 63, 0, At War, Surprise,    0.0, 0
+1, 63, 1, Met, ,    0.0, 0
+1, 1, 63, Met, ,    0.0, 0
+1, 63, 1, At War, Surprise,    0.0, 0
+1, 63, 2, Met, ,    0.0, 0
+1, 2, 63, Met, ,    0.0, 0
+1, 63, 2, At War, Surprise,    0.0, 0
+1, 63, 3, Met, ,    0.0, 0
+1, 3, 63, Met, ,    0.0, 0
+1, 63, 3, At War, Surprise,    0.0, 0
+1, 63, 4, Met, ,    0.0, 0
+1, 4, 63, Met, ,    0.0, 0
+1, 63, 4, At War, Surprise,    0.0, 0
+1, 63, 5, Met, ,    0.0, 0
+1, 5, 63, Met, ,    0.0, 0
+1, 63, 5, At War, Surprise,    0.0, 0
+1, 63, 6, Met, ,    0.0, 0
+1, 6, 63, Met, ,    0.0, 0
+1, 63, 6, At War, Surprise,    0.0, 0
+1, 63, 7, Met, ,    0.0, 0
+1, 7, 63, Met, ,    0.0, 0
+1, 63, 7, At War, Surprise,    0.0, 0
+1, 63, 8, Met, ,    0.0, 0
+1, 8, 63, Met, ,    0.0, 0
+1, 63, 8, At War, Surprise,    0.0, 0
+1, 63, 9, Met, ,    0.0, 0
+1, 9, 63, Met, ,    0.0, 0
+1, 63, 9, At War, Surprise,    0.0, 0
+1, 63, 10, Met, ,    0.0, 0
+1, 10, 63, Met, ,    0.0, 0
+1, 63, 10, At War, Surprise,    0.0, 0
+1, 63, 11, Met, ,    0.0, 0
+1, 11, 63, Met, ,    0.0, 0
+1, 63, 11, At War, Surprise,    0.0, 0
+1, 63, 12, Met, ,    0.0, 0
+1, 12, 63, Met, ,    0.0, 0
+1, 63, 12, At War, Surprise,    0.0, 0
+1, 63, 13, Met, ,    0.0, 0
+1, 13, 63, Met, ,    0.0, 0
+1, 63, 13, At War, Surprise,    0.0, 0
+1, 63, 14, Met, ,    0.0, 0
+1, 14, 63, Met, ,    0.0, 0
+1, 63, 14, At War, Surprise,    0.0, 0
+1, 63, 15, Met, ,    0.0, 0
+1, 15, 63, Met, ,    0.0, 0
+1, 63, 15, At War, Surprise,    0.0, 0
+1, 63, 16, Met, ,    0.0, 0
+1, 16, 63, Met, ,    0.0, 0
+1, 63, 16, At War, Surprise,    0.0, 0
+1, 63, 17, Met, ,    0.0, 0
+1, 17, 63, Met, ,    0.0, 0
+1, 63, 17, At War, Surprise,    0.0, 0
+1, 63, 18, Met, ,    0.0, 0
+1, 18, 63, Met, ,    0.0, 0
+1, 63, 18, At War, Surprise,    0.0, 0
+1, 63, 19, Met, ,    0.0, 0
+1, 19, 63, Met, ,    0.0, 0
+1, 63, 19, At War, Surprise,    0.0, 0
+1, 63, 20, Met, ,    0.0, 0
+1, 20, 63, Met, ,    0.0, 0
+1, 63, 20, At War, Surprise,    0.0, 0
+1, 63, 21, Met, ,    0.0, 0
+1, 21, 63, Met, ,    0.0, 0
+1, 63, 21, At War, Surprise,    0.0, 0
+1, 63, 22, Met, ,    0.0, 0
+1, 22, 63, Met, ,    0.0, 0
+1, 63, 22, At War, Surprise,    0.0, 0
+1, 63, 23, Met, ,    0.0, 0
+1, 23, 63, Met, ,    0.0, 0
+1, 63, 23, At War, Surprise,    0.0, 0
+1, 63, 24, Met, ,    0.0, 0
+1, 24, 63, Met, ,    0.0, 0
+1, 63, 24, At War, Surprise,    0.0, 0
+1, 62, 0, Met, ,    0.0, 0
+1, 0, 62, Met, ,    0.0, 0
+1, 62, 0, At War, Surprise,    0.0, 0
+1, 62, 1, Met, ,    0.0, 0
+1, 1, 62, Met, ,    0.0, 0
+1, 62, 1, At War, Surprise,    0.0, 0
+1, 62, 2, Met, ,    0.0, 0
+1, 2, 62, Met, ,    0.0, 0
+1, 62, 2, At War, Surprise,    0.0, 0
+1, 62, 3, Met, ,    0.0, 0
+1, 3, 62, Met, ,    0.0, 0
+1, 62, 3, At War, Surprise,    0.0, 0
+1, 62, 4, Met, ,    0.0, 0
+1, 4, 62, Met, ,    0.0, 0
+1, 62, 4, At War, Surprise,    0.0, 0
+1, 62, 5, Met, ,    0.0, 0
+1, 5, 62, Met, ,    0.0, 0
+1, 62, 5, At War, Surprise,    0.0, 0
+1, 62, 6, Met, ,    0.0, 0
+1, 6, 62, Met, ,    0.0, 0
+1, 62, 6, At War, Surprise,    0.0, 0
+1, 62, 7, Met, ,    0.0, 0
+1, 7, 62, Met, ,    0.0, 0
+1, 62, 7, At War, Surprise,    0.0, 0
+1, 62, 8, Met, ,    0.0, 0
+1, 8, 62, Met, ,    0.0, 0
+1, 62, 8, At War, Surprise,    0.0, 0
+1, 62, 9, Met, ,    0.0, 0
+1, 9, 62, Met, ,    0.0, 0
+1, 62, 9, At War, Surprise,    0.0, 0
+2, 0, 23, Met, ,    0.0, 0
+2, 23, 0, Met, ,    0.0, 0
+2, 0, 23, Gave Influence, ,    0.0, 0
+1, 63, 0, Met, ,    0.0, 0
+1, 0, 63, Met, ,    0.0, 0
+1, 63, 0, At War, Surprise,    0.0, 0
+1, 63, 1, Met, ,    0.0, 0
+1, 1, 63, Met, ,    0.0, 0
+1, 63, 1, At War, Surprise,    0.0, 0
+1, 63, 2, Met, ,    0.0, 0
+1, 2, 63, Met, ,    0.0, 0
+1, 63, 2, At War, Surprise,    0.0, 0
+1, 63, 3, Met, ,    0.0, 0
+1, 3, 63, Met, ,    0.0, 0
+1, 63, 3, At War, Surprise,    0.0, 0
+1, 63, 4, Met, ,    0.0, 0
+1, 4, 63, Met, ,    0.0, 0
+1, 63, 4, At War, Surprise,    0.0, 0
+1, 63, 5, Met, ,    0.0, 0
+1, 5, 63, Met, ,    0.0, 0
+1, 63, 5, At War, Surprise,    0.0, 0
+1, 63, 6, Met, ,    0.0, 0
+1, 6, 63, Met, ,    0.0, 0
+1, 63, 6, At War, Surprise,    0.0, 0
+1, 63, 7, Met, ,    0.0, 0
+1, 7, 63, Met, ,    0.0, 0
+1, 63, 7, At War, Surprise,    0.0, 0
+1, 63, 8, Met, ,    0.0, 0
+1, 8, 63, Met, ,    0.0, 0
+1, 63, 8, At War, Surprise,    0.0, 0
+1, 63, 9, Met, ,    0.0, 0
+1, 9, 63, Met, ,    0.0, 0
+1, 63, 9, At War, Surprise,    0.0, 0
+1, 63, 10, Met, ,    0.0, 0
+1, 10, 63, Met, ,    0.0, 0
+1, 63, 10, At War, Surprise,    0.0, 0
+1, 63, 11, Met, ,    0.0, 0
+1, 11, 63, Met, ,    0.0, 0
+1, 63, 11, At War, Surprise,    0.0, 0
+1, 63, 12, Met, ,    0.0, 0
+1, 12, 63, Met, ,    0.0, 0
+1, 63, 12, At War, Surprise,    0.0, 0
+1, 63, 13, Met, ,    0.0, 0
+1, 13, 63, Met, ,    0.0, 0
+1, 63, 13, At War, Surprise,    0.0, 0
+1, 63, 14, Met, ,    0.0, 0
+1, 14, 63, Met, ,    0.0, 0
+1, 63, 14, At War, Surprise,    0.0, 0
+1, 63, 15, Met, ,    0.0, 0
+1, 15, 63, Met, ,    0.0, 0
+1, 63, 15, At War, Surprise,    0.0, 0
+1, 63, 16, Met, ,    0.0, 0
+1, 16, 63, Met, ,    0.0, 0
+1, 63, 16, At War, Surprise,    0.0, 0
+1, 63, 17, Met, ,    0.0, 0
+1, 17, 63, Met, ,    0.0, 0
+1, 63, 17, At War, Surprise,    0.0, 0
+1, 63, 18, Met, ,    0.0, 0
+1, 18, 63, Met, ,    0.0, 0
+1, 63, 18, At War, Surprise,    0.0, 0
+1, 63, 19, Met, ,    0.0, 0
+1, 19, 63, Met, ,    0.0, 0
+1, 63, 19, At War, Surprise,    0.0, 0
+1, 63, 20, Met, ,    0.0, 0
+1, 20, 63, Met, ,    0.0, 0
+1, 63, 20, At War, Surprise,    0.0, 0
+1, 63, 21, Met, ,    0.0, 0
+1, 21, 63, Met, ,    0.0, 0
+1, 63, 21, At War, Surprise,    0.0, 0
+1, 63, 22, Met, ,    0.0, 0
+1, 22, 63, Met, ,    0.0, 0
+1, 63, 22, At War, Surprise,    0.0, 0
+1, 63, 23, Met, ,    0.0, 0
+1, 23, 63, Met, ,    0.0, 0
+1, 63, 23, At War, Surprise,    0.0, 0
+1, 63, 24, Met, ,    0.0, 0
+1, 24, 63, Met, ,    0.0, 0
+1, 63, 24, At War, Surprise,    0.0, 0
+1, 62, 0, Met, ,    0.0, 0
+1, 0, 62, Met, ,    0.0, 0
+1, 62, 0, At War, Surprise,    0.0, 0
+1, 62, 1, Met, ,    0.0, 0
+1, 1, 62, Met, ,    0.0, 0
+1, 62, 1, At War, Surprise,    0.0, 0
+1, 62, 2, Met, ,    0.0, 0
+1, 2, 62, Met, ,    0.0, 0
+1, 62, 2, At War, Surprise,    0.0, 0
+1, 62, 3, Met, ,    0.0, 0
+1, 3, 62, Met, ,    0.0, 0
+1, 62, 3, At War, Surprise,    0.0, 0
+1, 62, 4, Met, ,    0.0, 0
+1, 4, 62, Met, ,    0.0, 0
+1, 62, 4, At War, Surprise,    0.0, 0
+1, 62, 5, Met, ,    0.0, 0
+1, 5, 62, Met, ,    0.0, 0
+1, 62, 5, At War, Surprise,    0.0, 0
+1, 62, 6, Met, ,    0.0, 0
+1, 6, 62, Met, ,    0.0, 0
+1, 62, 6, At War, Surprise,    0.0, 0
+1, 62, 7, Met, ,    0.0, 0
+1, 7, 62, Met, ,    0.0, 0
+1, 62, 7, At War, Surprise,    0.0, 0
+1, 62, 8, Met, ,    0.0, 0
+1, 8, 62, Met, ,    0.0, 0
+1, 62, 8, At War, Surprise,    0.0, 0
+1, 62, 9, Met, ,    0.0, 0
+1, 9, 62, Met, ,    0.0, 0
+1, 62, 9, At War, Surprise,    0.0, 0
+1, 22, 9, Met, ,    0.0, 0
+1, 9, 22, Met, ,    0.0, 0
+1, 9, 22, Gave Influence, ,    0.0, 0
+2, 1, 12, Met, ,    0.0, 0
+2, 12, 1, Met, ,    0.0, 0
+2, 1, 12, Gave Influence, ,    0.0, 0
+2, 24, 9, Met, ,    0.0, 0
+2, 9, 24, Met, ,    0.0, 0
+2, 9, 24, Gave Influence, ,    0.0, 0
+3, 3, 15, Met, ,    0.0, 0
+3, 15, 3, Met, ,    0.0, 0
+3, 3, 15, Gave Influence, ,    0.0, 0
+3, 5, 18, Met, ,    0.0, 0
+3, 18, 5, Met, ,    0.0, 0
+3, 5, 18, Gave Influence, ,    0.0, 0
+3, 6, 23, Met, ,    0.0, 0
+3, 23, 6, Met, ,    0.0, 0
+3, 6, 23, Gave Influence, ,    0.0, 0
+3, 7, 16, Met, ,    0.0, 0
+3, 16, 7, Met, ,    0.0, 0
+3, 7, 16, Gave Influence, ,    0.0, 0
+3, 8, 21, Met, ,    0.0, 0
+3, 21, 8, Met, ,    0.0, 0
+3, 8, 21, Gave Influence, ,    0.0, 0
+3, 16, 19, Met, ,    0.5, 0
+3, 19, 16, Met, ,    0.5, 0
+3, 20, 8, Met, ,    1.5, 0
+3, 8, 20, Met, ,    1.5, 0
+3, 8, 20, Gave Influence, ,    1.5, 0
+4, 4, 11, Met, ,    2.0, 0
+4, 11, 4, Met, ,    2.0, 0
+4, 4, 11, Gave Influence, ,    2.0, 0
+4, 10, 4, Met, ,    2.0, 0
+4, 4, 10, Met, ,    2.0, 0
+4, 4, 10, Gave Influence, ,    2.0, 0
+5, 0, 13, Met, ,    3.5, 0
+5, 13, 0, Met, ,    3.5, 0
+5, 0, 13, Gave Influence, ,    3.5, 0
+6, 2, 10, Met, ,    5.0, 0
+6, 10, 2, Met, ,    5.0, 0
+7, 9, 22, Gave Influence, ,    5.0, 0
+8, 1, 12, Gave Influence, ,    5.0, 0
+8, 4, 2, Met, ,    5.0, 0
+8, 2, 4, Met, ,    5.0, 0
+8, 17, 6, Met, ,    5.0, 0
+8, 6, 17, Met, ,    5.0, 0
+8, 6, 17, Gave Influence, ,    5.0, 0
+9, 5, 18, Gave Influence, ,    6.0, 0
+9, 8, 20, Gave Influence, ,    7.5, 0
+9, 9, 22, Gave Influence, ,    7.5, 0
+10, 13, 14, Met, ,   10.0, 0
+10, 14, 13, Met, ,   10.0, 0
+12, 2, 4, Delegation, ,   13.0, 0
+14, 6, 17, Gave Influence, ,   22.5, 0
+16, 9, 22, Gave Influence, ,   29.5, 0
+17, 0, 14, Met, ,   33.0, 0
+17, 14, 0, Met, ,   33.0, 0
+17, 0, 14, Gave Influence, ,   33.0, 0
+17, 5, 18, Gave Influence, ,   33.0, 0
+17, 19, 7, Met, ,   34.5, 0
+17, 7, 19, Met, ,   34.5, 0
+17, 7, 19, Gave Influence, ,   34.5, 0
+18, 4, 2, Delegation, ,   34.5, 1
+18, 6, 23, Gave Influence, ,   34.5, 0
+19, 3, 15, Gave Influence, ,   38.0, 0
+24, 4, 10, Gave Influence, ,   61.5, 0
+26, 7, 16, Gave Influence, ,   73.0, 0
+27, 0, 5, Met, ,   80.0, 0
+27, 5, 0, Met, ,   80.0, 0
+27, 0, 13, Gave Influence, ,   80.0, 0
+28, 2, 11, Met, ,   86.0, 0
+28, 11, 2, Met, ,   86.0, 0
+31, 2, 10, Gave Influence, ,  102.0, 0
+33, 5, 14, Met, ,  110.5, 0
+33, 14, 5, Met, ,  110.5, 0
+35, 4, 11, Gave Influence, ,  118.5, 0
+37, 0, 3, Met, ,  125.0, 0
+37, 3, 0, Met, ,  125.0, 0
+40, 13, 5, Met, ,  146.0, 0
+40, 5, 13, Met, ,  146.0, 0
+43, 0, 13, Gave Influence, ,  155.5, 0
+44, 2, 11, Gave Influence, ,  160.5, 0
+44, 8, 6, Met, ,  161.5, 0
+44, 6, 8, Met, ,  161.5, 0
+45, 1, 8, Met, ,  167.0, 0
+45, 8, 1, Met, ,  167.0, 0
+45, 4, Team 2, Individual Declaring War on Team START, Surprise,  167.0
+45, 4, 2, At War, Surprise,  167.0, 2
+45, 10, Team 2, Individual Declaring War on Team START, Suzerain War,  171.0
+45, 10, 2, At War, Suzerain War,  171.0, 0
+45, 10, Team 2, Individual Declaring War on Team END, Suzerain War,  173.0
+45, 4, Team 2, Individual Declaring War on Team END, Surprise,  173.0
+46, 1, 21, Met, ,  181.0, 0
+46, 21, 1, Met, ,  181.0, 0
+46, 6, 9, Met, ,  189.0, 0
+46, 9, 6, Met, ,  189.0, 0
+47, 6, 9, Deal Proposed, 20 RESOURCE_HORSES for 0 turns from 9 to 6; 0 Open Borders for 30 turns from 6 to 9; 1 Gold for 0 turns from 6 to 9; 6 Gold for 30 turns from 6 to 9; ,  204.5, 0
+47, 9, 6, Deal Closed, 20 RESOURCE_HORSES for 0 turns from 9 to 6; 0 Open Borders for 30 turns from 6 to 9; 31 Gold for 0 turns from 6 to 9; 9 Gold for 30 turns from 6 to 9; ,  204.5, 0
+47, 6, 9, Deal Rejected, 20 RESOURCE_HORSES for 0 turns from 9 to 6; 0 Open Borders for 30 turns from 6 to 9; 31 Gold for 0 turns from 6 to 9; 9 Gold for 30 turns from 6 to 9; ,  204.5, 0
+47, 9, 6, Deal Rejected, 20 RESOURCE_HORSES for 0 turns from 9 to 6; 0 Open Borders for 30 turns from 6 to 9; 31 Gold for 0 turns from 6 to 9; 9 Gold for 30 turns from 6 to 9; ,  204.5, 0
+48, 1, 8, Delegation, ,  208.5, 0
+48, 5, 11, Met, ,  216.5, 0
+48, 11, 5, Met, ,  216.5, 0
+51, 11, Team 4, Individual Declaring War on Team START, Suzerain War,  238.5
+51, 11, 4, At War, Suzerain War,  238.5, 0
+51, 10, Team 11, Individual Declaring War on Team START, Suzerain War,  240.5
+51, 10, 11, Met, ,  240.5, 0
+51, 11, 10, Met, ,  240.5, 0
+51, 10, 11, At War, Suzerain War,  240.5, 0
+51, 10, Team 11, Individual Declaring War on Team END, Suzerain War,  242.5
+51, 11, Team 4, Individual Declaring War on Team END, Suzerain War,  242.5
+51, 11, Team 10, Individual Declaring War on Team START, Suzerain War,  242.5
+51, 11, 10, At War, Suzerain War,  242.5, 0
+51, 11, Team 10, Individual Declaring War on Team END, Suzerain War,  244.5
+51, 2, 5, Met, ,  244.5, 0
+51, 5, 2, Met, ,  244.5, 0
+51, 2, 11, Gave Influence, ,  244.5, 0
+51, 5, 0, Deal Proposed, 8 Favor for 0 turns from 0 to 5; 0 Open Borders for 30 turns from 5 to 0; 1 Gold for 30 turns from 5 to 0; ,  251.0, 0
+51, 6, 4, Met, ,  251.0, 0
+51, 4, 6, Met, ,  251.0, 0
+52, 6, 22, Met, ,  261.0, 0
+52, 22, 6, Met, ,  261.0, 0
+53, 2, 5, Delegation, ,  268.0, 0
+53, 6, 4, Deal Proposed, 20 RESOURCE_HORSES for 0 turns from 4 to 6; 0 Open Borders for 30 turns from 6 to 4; 1 Gold for 0 turns from 6 to 4; 6 Gold for 30 turns from 6 to 4; ,  272.5, 0
+53, 4, 6, Deal Closed, 20 RESOURCE_HORSES for 0 turns from 4 to 6; 0 Open Borders for 30 turns from 6 to 4; 13 Gold for 0 turns from 6 to 4; 7 Gold for 30 turns from 6 to 4; ,  272.5, 0
+53, 6, 4, Deal Rejected, 20 RESOURCE_HORSES for 0 turns from 4 to 6; 0 Open Borders for 30 turns from 6 to 4; 13 Gold for 0 turns from 6 to 4; 7 Gold for 30 turns from 6 to 4; ,  272.5, 0
+53, 4, 6, Deal Rejected, 20 RESOURCE_HORSES for 0 turns from 4 to 6; 0 Open Borders for 30 turns from 6 to 4; 13 Gold for 0 turns from 6 to 4; 7 Gold for 30 turns from 6 to 4; ,  272.5, 0
+53, 8, 1, Delegation, ,  272.5, 0
+54, 5, 2, Delegation, ,  284.0, 0
+54, 6, 10, Met, ,  284.0, 0
+54, 10, 6, Met, ,  284.0, 0
+55, 2, 4, Deal Proposed, 0 Peace for 10 turns from 2 to 4; 0 Peace for 10 turns from 4 to 2; 7 Gold for 0 turns from 2 to 4; ,  290.0, 0
+55, 2, 4, Deal Closed, 0 Peace for 10 turns from 2 to 4; 0 Peace for 10 turns from 4 to 2; 7 Gold for 0 turns from 2 to 4; ,  290.0, 0
+55, 4, 2, Deal Rejected, 0 Peace for 10 turns from 2 to 4; 0 Peace for 10 turns from 4 to 2; 7 Gold for 0 turns from 2 to 4; ,  290.0, 0
+55, 9, 6, Delegation, ,  294.0, 0
+56, 1, 21, Gave Influence, ,  301.5, 0
+56, 6, 1, Met, ,  306.0, 0
+56, 1, 6, Met, ,  306.0, 0
+56, 6, 2, Met, ,  306.0, 0
+56, 2, 6, Met, ,  306.0, 0
+56, 9, 23, Met, ,  307.5, 0
+56, 23, 9, Met, ,  307.5, 0
+57, 8, 20, Gave Influence, ,  316.0, 0
+58, 2, 4, Deal Proposed, 0 Peace for 10 turns from 2 to 4; 0 Peace for 10 turns from 4 to 2; 7 Gold for 0 turns from 2 to 4; ,  323.5, 0
+58, 2, 4, Deal Closed, 0 Peace for 10 turns from 2 to 4; 0 Peace for 10 turns from 4 to 2; 7 Gold for 0 turns from 2 to 4; ,  323.5, 0
+58, 4, 2, Deal Rejected, 0 Peace for 10 turns from 2 to 4; 0 Peace for 10 turns from 4 to 2; 7 Gold for 0 turns from 2 to 4; ,  323.5, 0
+58, 5, 18, Gave Influence, ,  327.0, 0
+58, 5, 4, Met, ,  327.0, 0
+58, 4, 5, Met, ,  327.0, 0
+58, 7, 16, Gave Influence, ,  327.0, 0
+59, 4, 5, Deal Proposed, 20 RESOURCE_IRON for 0 turns from 5 to 4; 0 Open Borders for 30 turns from 4 to 5; ,  335.0, 0
+59, 4, 5, Deal Closed, 20 RESOURCE_IRON for 0 turns from 5 to 4; 0 Open Borders for 30 turns from 4 to 5; ,  335.0, 0
+59, 5, 4, Deal Rejected, 20 RESOURCE_IRON for 0 turns from 5 to 4; 0 Open Borders for 30 turns from 4 to 5; ,  335.0, 0
+59, 6, 20, Met, ,  339.5, 0
+59, 20, 6, Met, ,  339.5, 0
+60, 6, 1, Delegation, ,  346.0, 0
+60, 6, 9, Delegation, ,  346.0, 0
+60, 8, Team 21, Individual Declaring War on Team START, Surprise,  346.5
+60, 8, 21, At War, Surprise,  346.5, 0
+60, 20, Team 21, Individual Declaring War on Team START, Suzerain War,  350.5
+60, 20, 21, Met, ,  350.5, 0
+60, 21, 20, Met, ,  350.5, 0
+60, 20, 21, At War, Suzerain War,  350.5, 0
+60, 20, Team 21, Individual Declaring War on Team END, Suzerain War,  352.5
+60, 8, Team 21, Individual Declaring War on Team END, Surprise,  352.5
+60, 10, 5, Met, ,  353.5, 0
+60, 5, 10, Met, ,  353.5, 0
+61, 2, 4, Deal Proposed, 0 Peace for 10 turns from 2 to 4; 0 Peace for 10 turns from 4 to 2; 7 Gold for 0 turns from 2 to 4; ,  360.5, 0
+61, 2, 4, Deal Closed, 0 Peace for 10 turns from 2 to 4; 0 Peace for 10 turns from 4 to 2; 7 Gold for 0 turns from 2 to 4; ,  360.5, 0
+61, 4, 2, Deal Rejected, 0 Peace for 10 turns from 2 to 4; 0 Peace for 10 turns from 4 to 2; 7 Gold for 0 turns from 2 to 4; ,  360.5, 0
+61, 5, 13, Gave Influence, ,  363.5, 0
+61, 8, 20, Gave Influence, ,  364.5, 0
+62, 5, 0, Deal Proposed, 4 RESOURCE_HORSES for 0 turns from 0 to 5; 0 Open Borders for 30 turns from 5 to 0; 2 Gold for 30 turns from 5 to 0; ,  371.5, 0
+63, 5, 4, Deal Proposed, 20 RESOURCE_HORSES for 0 turns from 4 to 5; 0 Open Borders for 30 turns from 5 to 4; 5 Gold for 30 turns from 5 to 4; ,  382.5, 0
+63, 4, 5, Deal Closed, 20 RESOURCE_HORSES for 0 turns from 4 to 5; 0 Open Borders for 30 turns from 5 to 4; 1 Gold for 0 turns from 5 to 4; 8 Gold for 30 turns from 5 to 4; ,  382.5, 0
+63, 5, 4, Deal Rejected, 20 RESOURCE_HORSES for 0 turns from 4 to 5; 0 Open Borders for 30 turns from 5 to 4; 1 Gold for 0 turns from 5 to 4; 8 Gold for 30 turns from 5 to 4; ,  382.5, 0
+63, 4, 5, Deal Rejected, 20 RESOURCE_HORSES for 0 turns from 4 to 5; 0 Open Borders for 30 turns from 5 to 4; 1 Gold for 0 turns from 5 to 4; 8 Gold for 30 turns from 5 to 4; ,  382.5, 0
+64, 2, 4, Deal Proposed, 0 Peace for 10 turns from 2 to 4; 0 Peace for 10 turns from 4 to 2; 7 Gold for 0 turns from 2 to 4; ,  397.5, 0
+64, 2, 4, Deal Closed, 0 Peace for 10 turns from 2 to 4; 0 Peace for 10 turns from 4 to 2; 7 Gold for 0 turns from 2 to 4; ,  397.5, 0
+64, 4, 2, Deal Rejected, 0 Peace for 10 turns from 2 to 4; 0 Peace for 10 turns from 4 to 2; 7 Gold for 0 turns from 2 to 4; ,  397.5, 0
+64, 8, 6, Delegation, ,  399.0, 0
+65, 11, 4, Peace, ,  411.5, 0
+65, 11, 10, Peace, ,  411.5, 0
+65, 4, 11, Gave Influence, ,  411.5, 0
+65, 5, 2, Deal Proposed, 27 Favor for 0 turns from 2 to 5; 0 Open Borders for 30 turns from 2 to 5; 20 RESOURCE_IRON for 0 turns from 5 to 2; 10 Gold for 0 turns from 5 to 2; 1 Gold for 30 turns from 5 to 2; ,  412.0, 1
+65, 5, 2, Deal Closed, 27 Favor for 0 turns from 2 to 5; 0 Open Borders for 30 turns from 2 to 5; 20 RESOURCE_IRON for 0 turns from 5 to 2; 10 Gold for 0 turns from 5 to 2; 1 Gold for 30 turns from 5 to 2; ,  412.0, 1
+65, 2, 5, Deal Rejected, 27 Favor for 0 turns from 2 to 5; 0 Open Borders for 30 turns from 2 to 5; 20 RESOURCE_IRON for 0 turns from 5 to 2; 10 Gold for 0 turns from 5 to 2; 1 Gold for 30 turns from 5 to 2; ,  412.0, 1
+65, 6, 23, Gave Influence, ,  412.0, 0
+65, 9, 22, Gave Influence, ,  416.0, 0
+67, 2, 4, Deal Proposed, 0 Peace for 10 turns from 2 to 4; 0 Peace for 10 turns from 4 to 2; 7 Gold for 0 turns from 2 to 4; ,  437.5, 0
+67, 2, 4, Deal Closed, 0 Peace for 10 turns from 2 to 4; 0 Peace for 10 turns from 4 to 2; 7 Gold for 0 turns from 2 to 4; ,  437.5, 0
+67, 4, 2, Deal Rejected, 0 Peace for 10 turns from 2 to 4; 0 Peace for 10 turns from 4 to 2; 7 Gold for 0 turns from 2 to 4; ,  437.5, 0
+67, 5, 13, Gave Influence, ,  439.5, 0
+68, 11, Team 4, Individual Declaring War on Team START, Suzerain War,  451.5
+68, 11, 4, At War, Suzerain War,  451.5, 0
+68, 10, Team 11, Individual Declaring War on Team START, Suzerain War,  453.5
+68, 10, 11, At War, Suzerain War,  453.5, 0
+68, 10, Team 11, Individual Declaring War on Team END, Suzerain War,  455.5
+68, 11, Team 4, Individual Declaring War on Team END, Suzerain War,  455.5
+68, 11, Team 10, Individual Declaring War on Team START, Suzerain War,  455.5
+68, 11, 10, At War, Suzerain War,  455.5, 0
+68, 11, Team 10, Individual Declaring War on Team END, Suzerain War,  457.5
+68, 2, 11, Gave Influence, ,  457.5, 0
+69, 6, 4, Denounced, ,  467.0, 0
+70, 2, 4, Deal Proposed, 0 Peace for 10 turns from 2 to 4; 0 Peace for 10 turns from 4 to 2; 7 Gold for 0 turns from 2 to 4; ,  477.0, 0
+70, 2, 4, Deal Closed, 0 Peace for 10 turns from 2 to 4; 0 Peace for 10 turns from 4 to 2; 7 Gold for 0 turns from 2 to 4; ,  477.0, 0
+70, 4, 2, Deal Rejected, 0 Peace for 10 turns from 2 to 4; 0 Peace for 10 turns from 4 to 2; 7 Gold for 0 turns from 2 to 4; ,  477.0, 0
+71, 6, 1, Deal Proposed, 11 RESOURCE_IRON for 0 turns from 1 to 6; 0 Open Borders for 30 turns from 6 to 1; 4 Gold for 0 turns from 6 to 1; 3 Gold for 30 turns from 6 to 1; ,  489.0, 1
+71, 6, 1, Deal Closed, 11 RESOURCE_IRON for 0 turns from 1 to 6; 0 Open Borders for 30 turns from 6 to 1; 4 Gold for 0 turns from 6 to 1; 3 Gold for 30 turns from 6 to 1; ,  489.0, 1
+71, 1, 6, Deal Rejected, 11 RESOURCE_IRON for 0 turns from 1 to 6; 0 Open Borders for 30 turns from 6 to 1; 4 Gold for 0 turns from 6 to 1; 3 Gold for 30 turns from 6 to 1; ,  489.0, 0
+72, 2, 5, Deal Proposed, 14 RESOURCE_IRON for 0 turns from 5 to 2; 4 RESOURCE_HORSES for 0 turns from 5 to 2; 0 Open Borders for 30 turns from 2 to 5; 19 Gold for 30 turns from 2 to 5; ,  497.5, 1
+72, 2, 5, Deal Closed, 14 RESOURCE_IRON for 0 turns from 5 to 2; 4 RESOURCE_HORSES for 0 turns from 5 to 2; 0 Open Borders for 30 turns from 2 to 5; 19 Gold for 30 turns from 2 to 5; ,  497.5, 1
+72, 5, 2, Deal Rejected, 14 RESOURCE_IRON for 0 turns from 5 to 2; 4 RESOURCE_HORSES for 0 turns from 5 to 2; 0 Open Borders for 30 turns from 2 to 5; 19 Gold for 30 turns from 2 to 5; ,  497.5, 1
+72, 5, 6, Met, ,  505.5, 0
+72, 6, 5, Met, ,  505.5, 0
+72, 6, 5, Deal Proposed, 14 RESOURCE_IRON for 0 turns from 5 to 6; 4 RESOURCE_HORSES for 0 turns from 5 to 6; 0 Open Borders for 30 turns from 6 to 5; 8 Gold for 30 turns from 6 to 5; ,  505.5, 0
+72, 6, 5, Deal Closed, 14 RESOURCE_IRON for 0 turns from 5 to 6; 4 RESOURCE_HORSES for 0 turns from 5 to 6; 0 Open Borders for 30 turns from 6 to 5; 8 Gold for 30 turns from 6 to 5; ,  505.5, 0
+72, 5, 6, Deal Rejected, 14 RESOURCE_IRON for 0 turns from 5 to 6; 4 RESOURCE_HORSES for 0 turns from 5 to 6; 0 Open Borders for 30 turns from 6 to 5; 8 Gold for 30 turns from 6 to 5; ,  505.5, 0
+73, 2, 4, Deal Proposed, 0 Peace for 10 turns from 2 to 4; 0 Peace for 10 turns from 4 to 2; 6 Gold for 0 turns from 2 to 4; 3 Gold for 30 turns from 2 to 4; ,  513.0, 0
+73, 4, 2, Deal Accepted, 0 Peace for 10 turns from 2 to 4; 0 Peace for 10 turns from 4 to 2; 6 Gold for 0 turns from 2 to 4; 3 Gold for 30 turns from 2 to 4; ,  513.0, 0
+73, 2, 4, Peace, ,  513.0, 0
+73, 10, 2, Peace, ,  513.0, 0
+73, 11, 4, Peace, ,  513.0, 0
+73, 10, 11, Peace, ,  513.0, 0
+73, 4, 8, Met, ,  513.0, 0
+73, 8, 4, Met, ,  513.0, 0
+73, 7, 16, Gave Influence, ,  514.5, 0
+73, 8, 4, Deal Proposed, 20 RESOURCE_HORSES for 0 turns from 4 to 8; 0 Open Borders for 30 turns from 8 to 4; 1 Gold for 0 turns from 8 to 4; 6 Gold for 30 turns from 8 to 4; ,  514.5, 0
+73, 4, 8, Deal Closed, 20 RESOURCE_HORSES for 0 turns from 4 to 8; 0 Open Borders for 30 turns from 8 to 4; 8 Gold for 30 turns from 8 to 4; ,  514.5, 0
+73, 8, 4, Deal Rejected, 20 RESOURCE_HORSES for 0 turns from 4 to 8; 0 Open Borders for 30 turns from 8 to 4; 8 Gold for 30 turns from 8 to 4; ,  514.5, 0
+73, 4, 8, Deal Rejected, 20 RESOURCE_HORSES for 0 turns from 4 to 8; 0 Open Borders for 30 turns from 8 to 4; 8 Gold for 30 turns from 8 to 4; ,  514.5, 0
+74, 5, 4, Deal Proposed, 20 RESOURCE_IRON for 0 turns from 4 to 5; 1 RESOURCE_SUGAR for 30 turns from 4 to 5; 0 Open Borders for 30 turns from 5 to 4; 6 Gold for 0 turns from 5 to 4; 7 Gold for 30 turns from 5 to 4; ,  520.0, 0
+74, 4, 5, Deal Closed, 20 RESOURCE_IRON for 0 turns from 4 to 5; 1 RESOURCE_SUGAR for 30 turns from 4 to 5; 0 Open Borders for 30 turns from 5 to 4; 6 Gold for 0 turns from 5 to 4; 12 Gold for 30 turns from 5 to 4; ,  520.0, 0
+74, 5, 4, Deal Rejected, 20 RESOURCE_IRON for 0 turns from 4 to 5; 1 RESOURCE_SUGAR for 30 turns from 4 to 5; 0 Open Borders for 30 turns from 5 to 4; 6 Gold for 0 turns from 5 to 4; 12 Gold for 30 turns from 5 to 4; ,  520.0, 0
+74, 4, 5, Deal Rejected, 20 RESOURCE_IRON for 0 turns from 4 to 5; 1 RESOURCE_SUGAR for 30 turns from 4 to 5; 0 Open Borders for 30 turns from 5 to 4; 6 Gold for 0 turns from 5 to 4; 12 Gold for 30 turns from 5 to 4; ,  520.0, 0
+74, 6, 10, Gave Influence, ,  520.0, 0
+74, 6, 10, Gave Influence, ,  520.0, 0
+74, 18, 14, Met, ,  523.5, 0
+74, 14, 18, Met, ,  523.5, 0
+75, 5, 10, Gave Influence, ,  528.5, 0
+75, 5, 17, Met, ,  528.5, 0
+75, 17, 5, Met, ,  528.5, 0
+75, 20, 1, Met, ,  530.5, 0
+75, 1, 20, Met, ,  530.5, 0
+77, 8, 4, Delegation, ,  548.5, 0
+77, 22, 24, Met, ,  550.0, 0
+77, 24, 22, Met, ,  550.0, 0
+78, 1, 5, Met, ,  553.0, 0
+78, 5, 1, Met, ,  553.0, 0
+78, 6, 8, Delegation, ,  553.5, 0
+79, 2, 10, Gave Influence, ,  559.0, 0
+79, 4, 8, Delegation, ,  559.5, 0
+79, 5, 1, Deal Proposed, 20 RESOURCE_IRON for 0 turns from 1 to 5; 0 Open Borders for 30 turns from 5 to 1; 10 Gold for 0 turns from 5 to 1; 4 Gold for 30 turns from 5 to 1; ,  559.5, 0
+79, 5, 1, Deal Closed, 20 RESOURCE_IRON for 0 turns from 1 to 5; 0 Open Borders for 30 turns from 5 to 1; 10 Gold for 0 turns from 5 to 1; 4 Gold for 30 turns from 5 to 1; ,  559.5, 0
+79, 1, 5, Deal Rejected, 20 RESOURCE_IRON for 0 turns from 1 to 5; 0 Open Borders for 30 turns from 5 to 1; 10 Gold for 0 turns from 5 to 1; 4 Gold for 30 turns from 5 to 1; ,  559.5, 0
+80, 1, 5, Deal Proposed, 4 RESOURCE_HORSES for 0 turns from 5 to 1; 0 Open Borders for 30 turns from 1 to 5; 5 Gold for 0 turns from 1 to 5; 1 Gold for 30 turns from 1 to 5; ,  564.0, 0
+80, 1, 5, Deal Closed, 4 RESOURCE_HORSES for 0 turns from 5 to 1; 0 Open Borders for 30 turns from 1 to 5; 5 Gold for 0 turns from 1 to 5; 1 Gold for 30 turns from 1 to 5; ,  564.0, 0
+80, 5, 1, Deal Rejected, 4 RESOURCE_HORSES for 0 turns from 5 to 1; 0 Open Borders for 30 turns from 1 to 5; 5 Gold for 0 turns from 1 to 5; 1 Gold for 30 turns from 1 to 5; ,  564.0, 0
+80, 4, 20, Met, ,  564.5, 0
+80, 20, 4, Met, ,  564.5, 0
+80, 5, 8, Met, ,  564.5, 0
+80, 8, 5, Met, ,  564.5, 0
+81, 7, 5, Met, ,  571.0, 0
+81, 5, 7, Met, ,  571.0, 0
+81, 8, 5, Deal Proposed, 10 RESOURCE_IRON for 0 turns from 5 to 8; 4 RESOURCE_HORSES for 0 turns from 5 to 8; 0 Open Borders for 30 turns from 8 to 5; 6 Gold for 30 turns from 8 to 5; ,  571.0, 0
+81, 8, 5, Deal Closed, 10 RESOURCE_IRON for 0 turns from 5 to 8; 4 RESOURCE_HORSES for 0 turns from 5 to 8; 0 Open Borders for 30 turns from 8 to 5; 6 Gold for 30 turns from 8 to 5; ,  571.0, 0
+81, 5, 8, Deal Rejected, 10 RESOURCE_IRON for 0 turns from 5 to 8; 4 RESOURCE_HORSES for 0 turns from 5 to 8; 0 Open Borders for 30 turns from 8 to 5; 6 Gold for 30 turns from 8 to 5; ,  571.0, 0
+82, 0, 15, Met, ,  578.5, 0
+82, 15, 0, Met, ,  578.5, 0
+82, 7, 5, Deal Proposed, 14 RESOURCE_IRON for 0 turns from 5 to 7; 4 RESOURCE_HORSES for 0 turns from 5 to 7; 0 Open Borders for 30 turns from 7 to 5; 8 Gold for 0 turns from 7 to 5; 6 Gold for 30 turns from 7 to 5; ,  580.0, 0
+82, 7, 5, Deal Closed, 14 RESOURCE_IRON for 0 turns from 5 to 7; 4 RESOURCE_HORSES for 0 turns from 5 to 7; 0 Open Borders for 30 turns from 7 to 5; 8 Gold for 0 turns from 7 to 5; 6 Gold for 30 turns from 7 to 5; ,  580.0, 0
+82, 5, 7, Deal Rejected, 14 RESOURCE_IRON for 0 turns from 5 to 7; 4 RESOURCE_HORSES for 0 turns from 5 to 7; 0 Open Borders for 30 turns from 7 to 5; 8 Gold for 0 turns from 7 to 5; 6 Gold for 30 turns from 7 to 5; ,  580.0, 0
+83, 2, 18, Met, ,  587.5, 0
+83, 18, 2, Met, ,  587.5, 0
+84, 2, 4, Deal Proposed, 20 RESOURCE_IRON for 0 turns from 4 to 2; 20 RESOURCE_HORSES for 0 turns from 4 to 2; 1 RESOURCE_SUGAR for 30 turns from 4 to 2; 0 GreatWork for 0 turns from 2 to 4; 0 Open Borders for 30 turns from 2 to 4; 12 Gold for 30 turns from 2 to 4; ,  593.5, 0
+84, 4, 2, Deal Accepted, 20 RESOURCE_IRON for 0 turns from 4 to 2; 20 RESOURCE_HORSES for 0 turns from 4 to 2; 1 RESOURCE_SUGAR for 30 turns from 4 to 2; 0 GreatWork for 0 turns from 2 to 4; 0 Open Borders for 30 turns from 2 to 4; 12 Gold for 30 turns from 2 to 4; ,  593.5, 0
+84, 5, Team 14, Individual Declaring War on Team START, Surprise,  595.5
+84, 5, 14, At War, Surprise,  595.5, 0
+84, 18, Team 14, Individual Declaring War on Team START, Suzerain War,  599.5
+84, 18, 14, At War, Suzerain War,  599.5, 0
+84, 18, Team 14, Individual Declaring War on Team END, Suzerain War,  601.5
+84, 5, Team 14, Individual Declaring War on Team END, Surprise,  601.5
+84, 6, 1, Deal Proposed, 4 RESOURCE_HORSES for 0 turns from 1 to 6; 0 Open Borders for 30 turns from 6 to 1; 2 Gold for 30 turns from 6 to 1; ,  601.5, 1
+84, 6, 1, Deal Closed, 4 RESOURCE_HORSES for 0 turns from 1 to 6; 0 Open Borders for 30 turns from 6 to 1; 2 Gold for 30 turns from 6 to 1; ,  601.5, 1
+84, 1, 6, Deal Rejected, 4 RESOURCE_HORSES for 0 turns from 1 to 6; 0 Open Borders for 30 turns from 6 to 1; 2 Gold for 30 turns from 6 to 1; ,  601.5, 0
+84, 6, 14, Met, ,  601.5, 0
+84, 14, 6, Met, ,  601.5, 0
+85, 0, 24, Met, ,  611.0, 0
+85, 24, 0, Met, ,  611.0, 0
+85, 4, 5, Deal Proposed, 10 RESOURCE_HORSES for 0 turns from 5 to 4; 0 Open Borders for 30 turns from 4 to 5; 16 Gold for 0 turns from 4 to 5; ,  612.5, 0
+85, 4, 5, Deal Closed, 10 RESOURCE_HORSES for 0 turns from 5 to 4; 0 Open Borders for 30 turns from 4 to 5; 16 Gold for 0 turns from 4 to 5; ,  612.5, 0
+85, 5, 4, Deal Rejected, 10 RESOURCE_HORSES for 0 turns from 5 to 4; 0 Open Borders for 30 turns from 4 to 5; 16 Gold for 0 turns from 4 to 5; ,  612.5, 0
+85, 8, 5, Delegation, ,  613.0, 0
+86, 8, 1, Promise Made, Convert Cities,  622.0, 1
+86, 5, 4, Delegation, ,  622.5, 1
+86, 0, 6, Met, ,  622.5, 0
+86, 6, 0, Met, ,  622.5, 0
+87, 6, 2, Deal Proposed, 15 RESOURCE_IRON for 0 turns from 2 to 6; 0 Open Borders for 30 turns from 6 to 2; 4 Gold for 30 turns from 6 to 2; ,  631.5, 0
+87, 6, 2, Deal Closed, 15 RESOURCE_IRON for 0 turns from 2 to 6; 0 Open Borders for 30 turns from 6 to 2; 4 Gold for 30 turns from 6 to 2; ,  631.5, 0
+87, 2, 6, Deal Rejected, 15 RESOURCE_IRON for 0 turns from 2 to 6; 0 Open Borders for 30 turns from 6 to 2; 4 Gold for 30 turns from 6 to 2; ,  631.5, 0
+87, 6, 14, Gave Influence, ,  631.5, 0
+87, 6, 14, Gave Influence, ,  631.5, 0
+88, 3, 9, Met, ,  639.0, 0
+88, 9, 3, Met, ,  639.0, 0
+88, 6, 0, Deal Proposed, 1 RESOURCE_IVORY for 30 turns from 0 to 6; 24 Favor for 0 turns from 0 to 6; 0 Open Borders for 30 turns from 6 to 0; 15 Gold for 30 turns from 6 to 0; ,  640.0, 0
+88, 8, 1, Promise Broken, Convert Cities,  640.0, 1
+88, 8, 6, Deal Proposed, 4 RESOURCE_IRON for 0 turns from 6 to 8; 0 Open Borders for 30 turns from 8 to 6; 9 Gold for 0 turns from 8 to 6; ,  640.0, 1
+88, 8, 6, Deal Closed, 4 RESOURCE_IRON for 0 turns from 6 to 8; 0 Open Borders for 30 turns from 8 to 6; 9 Gold for 0 turns from 8 to 6; ,  640.0, 1
+88, 6, 8, Deal Rejected, 4 RESOURCE_IRON for 0 turns from 6 to 8; 0 Open Borders for 30 turns from 8 to 6; 9 Gold for 0 turns from 8 to 6; ,  640.0, 1
+88, 9, 6, Deal Proposed, 4 RESOURCE_IRON for 0 turns from 6 to 9; 0 Open Borders for 30 turns from 9 to 6; 5 Gold for 0 turns from 9 to 6; 1 Gold for 30 turns from 9 to 6; ,  640.0, 2
+88, 9, 6, Deal Closed, 4 RESOURCE_IRON for 0 turns from 6 to 9; 0 Open Borders for 30 turns from 9 to 6; 5 Gold for 0 turns from 9 to 6; 1 Gold for 30 turns from 9 to 6; ,  640.0, 2
+88, 6, 9, Deal Rejected, 4 RESOURCE_IRON for 0 turns from 6 to 9; 0 Open Borders for 30 turns from 9 to 6; 5 Gold for 0 turns from 9 to 6; 1 Gold for 30 turns from 9 to 6; ,  640.0, 1
+88, 9, 3, Deal Proposed, 20 RESOURCE_IRON for 0 turns from 3 to 9; 1 RESOURCE_MERCURY for 30 turns from 3 to 9; 20 RESOURCE_HORSES for 0 turns from 9 to 3; 0 Open Borders for 30 turns from 9 to 3; 7 Gold for 30 turns from 9 to 3; ,  640.0, 0
+88, 9, 3, Deal Closed, 20 RESOURCE_IRON for 0 turns from 3 to 9; 1 RESOURCE_MERCURY for 30 turns from 3 to 9; 20 RESOURCE_HORSES for 0 turns from 9 to 3; 0 Open Borders for 30 turns from 9 to 3; 7 Gold for 30 turns from 9 to 3; ,  640.0, 0
+88, 3, 9, Deal Rejected, 20 RESOURCE_IRON for 0 turns from 3 to 9; 1 RESOURCE_MERCURY for 30 turns from 3 to 9; 20 RESOURCE_HORSES for 0 turns from 9 to 3; 0 Open Borders for 30 turns from 9 to 3; 7 Gold for 30 turns from 9 to 3; ,  640.0, 0
+89, 1, 21, Gave Influence, ,  645.5, 0
+89, 1, 12, Gave Influence, ,  645.5, 0
+89, 3, 9, Delegation, ,  645.5, 0
+89, 5, 7, Deal Proposed, 23 Favor for 0 turns from 7 to 5; 0 Open Borders for 30 turns from 5 to 7; 2 Gold for 0 turns from 5 to 7; 3 Gold for 30 turns from 5 to 7; ,  646.5, 1
+89, 5, 7, Deal Closed, 23 Favor for 0 turns from 7 to 5; 0 Open Borders for 30 turns from 5 to 7; 2 Gold for 0 turns from 5 to 7; 3 Gold for 30 turns from 5 to 7; ,  646.5, 1
+89, 7, 5, Deal Rejected, 23 Favor for 0 turns from 7 to 5; 0 Open Borders for 30 turns from 5 to 7; 2 Gold for 0 turns from 5 to 7; 3 Gold for 30 turns from 5 to 7; ,  646.5, 0
+89, 6, 9, Deal Proposed, 21 Favor for 0 turns from 9 to 6; 0 Open Borders for 30 turns from 6 to 9; 5 Gold for 0 turns from 6 to 9; 3 Gold for 30 turns from 6 to 9; ,  647.5, 1
+89, 6, 9, Deal Closed, 21 Favor for 0 turns from 9 to 6; 0 Open Borders for 30 turns from 6 to 9; 5 Gold for 0 turns from 6 to 9; 3 Gold for 30 turns from 6 to 9; ,  647.5, 1
+89, 9, 6, Deal Rejected, 21 Favor for 0 turns from 9 to 6; 0 Open Borders for 30 turns from 6 to 9; 5 Gold for 0 turns from 6 to 9; 3 Gold for 30 turns from 6 to 9; ,  647.5, 2
+89, 8, 4, Deal Proposed, 0 GreatWork for 0 turns from 4 to 8; 21 Favor for 0 turns from 4 to 8; 0 Open Borders for 30 turns from 8 to 4; 15 Gold for 30 turns from 8 to 4; ,  648.0, 1
+89, 8, 4, Deal Closed, 0 GreatWork for 0 turns from 4 to 8; 21 Favor for 0 turns from 4 to 8; 0 Open Borders for 30 turns from 8 to 4; 15 Gold for 30 turns from 8 to 4; ,  648.0, 1
+89, 4, 8, Deal Rejected, 0 GreatWork for 0 turns from 4 to 8; 21 Favor for 0 turns from 4 to 8; 0 Open Borders for 30 turns from 8 to 4; 15 Gold for 30 turns from 8 to 4; ,  648.0, 1
+90, 0, 9, Met, ,  652.0, 0
+90, 9, 0, Met, ,  652.0, 0
+90, 4, 8, Deal Proposed, 30 Favor for 0 turns from 8 to 4; 0 Open Borders for 30 turns from 8 to 4; 20 RESOURCE_HORSES for 0 turns from 4 to 8; 5 Gold for 0 turns from 4 to 8; 2 Gold for 30 turns from 4 to 8; ,  653.0, 1
+90, 4, 8, Deal Closed, 30 Favor for 0 turns from 8 to 4; 0 Open Borders for 30 turns from 8 to 4; 20 RESOURCE_HORSES for 0 turns from 4 to 8; 5 Gold for 0 turns from 4 to 8; 2 Gold for 30 turns from 4 to 8; ,  653.0, 1
+90, 8, 4, Deal Rejected, 30 Favor for 0 turns from 8 to 4; 0 Open Borders for 30 turns from 8 to 4; 20 RESOURCE_HORSES for 0 turns from 4 to 8; 5 Gold for 0 turns from 4 to 8; 2 Gold for 30 turns from 4 to 8; ,  653.0, 1
+90, 5, 1, Deal Proposed, 16 RESOURCE_HORSES for 0 turns from 1 to 5; 18 Favor for 0 turns from 1 to 5; 0 Open Borders for 30 turns from 5 to 1; 8 Gold for 0 turns from 5 to 1; 7 Gold for 30 turns from 5 to 1; ,  653.0, 1
+90, 5, 1, Deal Closed, 16 RESOURCE_HORSES for 0 turns from 1 to 5; 18 Favor for 0 turns from 1 to 5; 0 Open Borders for 30 turns from 5 to 1; 8 Gold for 0 turns from 5 to 1; 7 Gold for 30 turns from 5 to 1; ,  653.0, 1
+90, 1, 5, Deal Rejected, 16 RESOURCE_HORSES for 0 turns from 1 to 5; 18 Favor for 0 turns from 1 to 5; 0 Open Borders for 30 turns from 5 to 1; 8 Gold for 0 turns from 5 to 1; 7 Gold for 30 turns from 5 to 1; ,  653.0, 0
+90, 8, 1, Deal Proposed, 20 RESOURCE_IRON for 0 turns from 1 to 8; 16 RESOURCE_HORSES for 0 turns from 1 to 8; 18 Favor for 0 turns from 1 to 8; 0 Open Borders for 30 turns from 8 to 1; 6 Gold for 0 turns from 8 to 1; 19 Gold for 30 turns from 8 to 1; ,  655.0, 1
+90, 8, 1, Deal Closed, 20 RESOURCE_IRON for 0 turns from 1 to 8; 16 RESOURCE_HORSES for 0 turns from 1 to 8; 18 Favor for 0 turns from 1 to 8; 0 Open Borders for 30 turns from 8 to 1; 6 Gold for 0 turns from 8 to 1; 19 Gold for 30 turns from 8 to 1; ,  655.0, 1
+90, 1, 8, Deal Rejected, 20 RESOURCE_IRON for 0 turns from 1 to 8; 16 RESOURCE_HORSES for 0 turns from 1 to 8; 18 Favor for 0 turns from 1 to 8; 0 Open Borders for 30 turns from 8 to 1; 6 Gold for 0 turns from 8 to 1; 19 Gold for 30 turns from 8 to 1; ,  655.0, 1
+91, 2, 6, Deal Proposed, 6 RESOURCE_HORSES for 0 turns from 6 to 2; 0 Open Borders for 30 turns from 2 to 6; 2 Gold for 0 turns from 2 to 6; 1 Gold for 30 turns from 2 to 6; ,  661.0, 0
+91, 2, 6, Deal Closed, 6 RESOURCE_HORSES for 0 turns from 6 to 2; 0 Open Borders for 30 turns from 2 to 6; 2 Gold for 0 turns from 2 to 6; 1 Gold for 30 turns from 2 to 6; ,  661.0, 0
+91, 6, 2, Deal Rejected, 6 RESOURCE_HORSES for 0 turns from 6 to 2; 0 Open Borders for 30 turns from 2 to 6; 2 Gold for 0 turns from 2 to 6; 1 Gold for 30 turns from 2 to 6; ,  661.0, 0
+91, 2, 4, Delegation, ,  661.0, 0
+91, 4, 2, Delegation, ,  662.0, 0
+91, 5, 6, Deal Proposed, 6 RESOURCE_HORSES for 0 turns from 6 to 5; 0 Open Borders for 30 turns from 5 to 6; 12 Gold for 0 turns from 5 to 6; ,  662.0, 1
+91, 5, 6, Deal Closed, 6 RESOURCE_HORSES for 0 turns from 6 to 5; 0 Open Borders for 30 turns from 5 to 6; 12 Gold for 0 turns from 5 to 6; ,  662.0, 1
+91, 6, 5, Deal Rejected, 6 RESOURCE_HORSES for 0 turns from 6 to 5; 0 Open Borders for 30 turns from 5 to 6; 12 Gold for 0 turns from 5 to 6; ,  662.0, 0
+91, 6, 17, Gave Influence, ,  662.0, 0
+91, 6, 24, Met, ,  662.0, 0
+91, 24, 6, Met, ,  662.0, 0
+91, 7, 19, Gave Influence, ,  662.0, 0
+91, 9, 0, Deal Proposed, 24 Favor for 0 turns from 0 to 9; 0 Open Borders for 30 turns from 9 to 0; 5 Gold for 30 turns from 9 to 0; ,  662.0, 0
+91, 15, 24, Met, ,  666.0, 0
+91, 24, 15, Met, ,  666.0, 0
+91, 3, 24, Met, ,  666.0, 0
+91, 24, 3, Met, ,  666.0, 0
+91, 18, 11, Met, ,  667.0, 0
+91, 11, 18, Met, ,  667.0, 0
+91, 4, 18, Met, ,  667.0, 0
+91, 18, 4, Met, ,  667.0, 0
+92, 0, 15, Gave Influence, ,  672.0, 0
+92, 3, 24, Gave Influence, ,  672.0, 0
+92, 3, 24, Gave Influence, ,  672.0, 0
+92, 6, 13, Met, ,  678.0, 0
+92, 13, 6, Met, ,  678.0, 0
+93, 1, 20, Gave Influence, ,  682.5, 0
+93, 15, 9, Met, ,  684.5, 0
+93, 9, 15, Met, ,  684.5, 0
+94, 5, 10, Gave Influence, ,  687.0, 0
+94, 8, 20, Gave Influence, ,  689.0, 0
+95, 6, 1, Deal Proposed, 28 Favor for 0 turns from 1 to 6; 0 Open Borders for 30 turns from 6 to 1; 5 Gold for 30 turns from 6 to 1; ,  696.5, 1
+95, 6, 1, Deal Closed, 28 Favor for 0 turns from 1 to 6; 0 Open Borders for 30 turns from 6 to 1; 5 Gold for 30 turns from 6 to 1; ,  696.5, 1
+95, 1, 6, Deal Rejected, 28 Favor for 0 turns from 1 to 6; 0 Open Borders for 30 turns from 6 to 1; 5 Gold for 30 turns from 6 to 1; ,  696.5, 0
+96, 1, 12, Gave Influence, ,  699.5, 0
+96, 1, 7, Met, ,  699.5, 0
+96, 7, 1, Met, ,  699.5, 0
+96, 2, 4, Promise Made, Settle,  699.5, 1
+96, 0, 7, Met, ,  703.5, 0
+96, 7, 0, Met, ,  703.5, 0
+97, 1, 12, Gave Influence, ,  707.0, 0
+97, 1, 7, Delegation, ,  707.0, 0
+97, 4, Team 2, Individual Declaring War on Team START, Surprise,  707.5
+97, 4, 2, At War, Surprise,  707.5, 1
+97, 10, Team 2, Individual Declaring War on Team START, Suzerain War,  711.5
+97, 10, 2, At War, Suzerain War,  711.5, 0
+97, 10, Team 2, Individual Declaring War on Team END, Suzerain War,  713.5
+97, 11, Team 2, Individual Declaring War on Team START, Suzerain War,  713.5
+97, 11, 2, At War, Suzerain War,  713.5, 0
+97, 11, Team 2, Individual Declaring War on Team END, Suzerain War,  715.5
+97, 4, Team 2, Individual Declaring War on Team END, Surprise,  715.5
+97, 10, 2, Peace, ,  715.5, 0
+97, 5, 10, Gave Influence, ,  715.5, 0
+97, 6, 18, Met, ,  719.0, 0
+97, 18, 6, Met, ,  719.0, 0
+97, 7, 1, Deal Proposed, 3 RESOURCE_NITER for 0 turns from 1 to 7; 0 Open Borders for 30 turns from 7 to 1; 2 Gold for 0 turns from 7 to 1; 1 Gold for 30 turns from 7 to 1; ,  719.0, 0
+97, 7, 1, Deal Closed, 3 RESOURCE_NITER for 0 turns from 1 to 7; 0 Open Borders for 30 turns from 7 to 1; 2 Gold for 0 turns from 7 to 1; 1 Gold for 30 turns from 7 to 1; ,  719.0, 0
+97, 1, 7, Deal Rejected, 3 RESOURCE_NITER for 0 turns from 1 to 7; 0 Open Borders for 30 turns from 7 to 1; 2 Gold for 0 turns from 7 to 1; 1 Gold for 30 turns from 7 to 1; ,  719.0, 1
+97, 7, 12, Met, ,  719.0, 0
+97, 12, 7, Met, ,  719.0, 0
+97, 9, 22, Gave Influence, ,  719.5, 0
+98, 1, 20, Gave Influence, ,  721.0, 0
+98, 4, 5, Delegation, ,  722.5, 0
+98, 5, 4, Deal Proposed, 4 RESOURCE_NITER for 0 turns from 4 to 5; 0 Open Borders for 30 turns from 5 to 4; 3 Gold for 0 turns from 5 to 4; 1 Gold for 30 turns from 5 to 4; ,  722.5, 2
+98, 5, 4, Deal Closed, 4 RESOURCE_NITER for 0 turns from 4 to 5; 0 Open Borders for 30 turns from 5 to 4; 3 Gold for 0 turns from 5 to 4; 1 Gold for 30 turns from 5 to 4; ,  722.5, 2
+98, 4, 5, Deal Rejected, 4 RESOURCE_NITER for 0 turns from 4 to 5; 0 Open Borders for 30 turns from 5 to 4; 3 Gold for 0 turns from 5 to 4; 1 Gold for 30 turns from 5 to 4; ,  722.5, 1
+98, 6, 2, Deal Proposed, 20 RESOURCE_HORSES for 0 turns from 2 to 6; 0 Open Borders for 30 turns from 6 to 2; 10 Gold for 0 turns from 6 to 2; 4 Gold for 30 turns from 6 to 2; ,  723.5, 0
+98, 6, 2, Deal Closed, 20 RESOURCE_HORSES for 0 turns from 2 to 6; 0 Open Borders for 30 turns from 6 to 2; 10 Gold for 0 turns from 6 to 2; 4 Gold for 30 turns from 6 to 2; ,  723.5, 0
+98, 2, 6, Deal Rejected, 20 RESOURCE_HORSES for 0 turns from 2 to 6; 0 Open Borders for 30 turns from 6 to 2; 10 Gold for 0 turns from 6 to 2; 4 Gold for 30 turns from 6 to 2; ,  723.5, 0
+98, 8, 1, Denounced, ,  724.5, 1
+99, 4, 20, Gave Influence, ,  730.0, 0
+99, 4, 20, Gave Influence, ,  730.0, 0
+99, 5, 1, Denounced, ,  733.0, 1
+99, 5, 0, Deal Proposed, 0 Open Borders for 30 turns from 0 to 5; 0 Open Borders for 30 turns from 5 to 0; 21 Gold for 0 turns from 5 to 0; ,  733.0, 1
+99, 6, 17, Gave Influence, ,  734.0, 0
+99, 6, 0, Deal Proposed, 20 RESOURCE_HORSES for 0 turns from 0 to 6; 0 Open Borders for 30 turns from 6 to 0; 4 Gold for 30 turns from 6 to 0; ,  734.0, 0
+99, 9, 24, Gave Influence, ,  734.5, 0
+100, 3, 9, Deal Proposed, 20 RESOURCE_HORSES for 0 turns from 9 to 3; 0 Open Borders for 30 turns from 3 to 9; 3 Gold for 30 turns from 3 to 9; ,  741.0, 1
+100, 3, 9, Deal Closed, 20 RESOURCE_HORSES for 0 turns from 9 to 3; 0 Open Borders for 30 turns from 3 to 9; 3 Gold for 30 turns from 3 to 9; ,  741.0, 1
+100, 9, 3, Deal Rejected, 20 RESOURCE_HORSES for 0 turns from 9 to 3; 0 Open Borders for 30 turns from 3 to 9; 3 Gold for 30 turns from 3 to 9; ,  741.0, 0
+100, 4, 8, Embassy, ,  741.0, 0
+100, 6, 4, Denounced, ,  745.0, 0
+100, 6, 8, Deal Proposed, 30 Favor for 0 turns from 8 to 6; 0 Open Borders for 30 turns from 8 to 6; 20 RESOURCE_HORSES for 0 turns from 6 to 8; 2 Gold for 30 turns from 6 to 8; ,  745.0, 1
+100, 6, 8, Deal Closed, 30 Favor for 0 turns from 8 to 6; 0 Open Borders for 30 turns from 8 to 6; 20 RESOURCE_HORSES for 0 turns from 6 to 8; 2 Gold for 30 turns from 6 to 8; ,  745.0, 1
+100, 8, 6, Deal Rejected, 30 Favor for 0 turns from 8 to 6; 0 Open Borders for 30 turns from 8 to 6; 20 RESOURCE_HORSES for 0 turns from 6 to 8; 2 Gold for 30 turns from 6 to 8; ,  745.0, 1
+100, 6, 9, Deal Proposed, 20 RESOURCE_IRON for 0 turns from 9 to 6; 0 Open Borders for 30 turns from 6 to 9; 3 Gold for 30 turns from 6 to 9; ,  745.0, 1
+100, 6, 9, Deal Closed, 20 RESOURCE_IRON for 0 turns from 9 to 6; 0 Open Borders for 30 turns from 6 to 9; 3 Gold for 30 turns from 6 to 9; ,  745.0, 1
+100, 9, 6, Deal Rejected, 20 RESOURCE_IRON for 0 turns from 9 to 6; 0 Open Borders for 30 turns from 6 to 9; 3 Gold for 30 turns from 6 to 9; ,  745.0, 2
+100, 8, 4, Deal Proposed, 8 RESOURCE_NITER for 0 turns from 4 to 8; 0 Open Borders for 30 turns from 8 to 4; 10 Gold for 0 turns from 8 to 4; 2 Gold for 30 turns from 8 to 4; ,  745.5, 1
+100, 8, 4, Deal Closed, 8 RESOURCE_NITER for 0 turns from 4 to 8; 0 Open Borders for 30 turns from 8 to 4; 10 Gold for 0 turns from 8 to 4; 2 Gold for 30 turns from 8 to 4; ,  745.5, 1
+100, 4, 8, Deal Rejected, 8 RESOURCE_NITER for 0 turns from 4 to 8; 0 Open Borders for 30 turns from 8 to 4; 10 Gold for 0 turns from 8 to 4; 2 Gold for 30 turns from 8 to 4; ,  745.5, 1
+101, 2, 10, Gave Influence, ,  754.0, 0
+101, 5, 8, Deal Proposed, 30 Favor for 0 turns from 8 to 5; 0 Open Borders for 30 turns from 8 to 5; 20 RESOURCE_HORSES for 0 turns from 5 to 8; 2 Gold for 30 turns from 5 to 8; ,  757.0, 1
+101, 5, 8, Deal Closed, 30 Favor for 0 turns from 8 to 5; 0 Open Borders for 30 turns from 8 to 5; 20 RESOURCE_HORSES for 0 turns from 5 to 8; 2 Gold for 30 turns from 5 to 8; ,  757.0, 1
+101, 8, 5, Deal Rejected, 30 Favor for 0 turns from 8 to 5; 0 Open Borders for 30 turns from 8 to 5; 20 RESOURCE_HORSES for 0 turns from 5 to 8; 2 Gold for 30 turns from 5 to 8; ,  757.0, 1
+101, 6, 13, Gave Influence, ,  758.0, 0
+101, 6, 13, Gave Influence, ,  758.0, 0
+101, 6, 1, Denounced, ,  759.0, 1
+101, 7, 1, Denounced, ,  760.0, 0
+101, 7, 12, Gave Influence, ,  760.0, 0
+102, 0, 13, Gave Influence, ,  767.5, 0
+102, 4, 5, Embassy, ,  769.5, 0
+102, 4, 2, City Capture, LOC_CITY_NAME_MBANZA_MBATA,  778.5, 0
+102, 6, 3, Met, ,  784.5, 0
+102, 3, 6, Met, ,  784.5, 0
+102, 7, 19, Gave Influence, ,  784.5, 0
+103, 3, 24, Gave Influence, ,  787.5, 0
+103, 6, 5, Delegation, ,  789.5, 0
+103, 7, 12, Gave Influence, ,  789.5, 0
+104, 3, 0, Deal Proposed, 20 RESOURCE_HORSES for 0 turns from 0 to 3; 0 Open Borders for 30 turns from 3 to 0; 4 Gold for 30 turns from 3 to 0; ,  801.0, 0
+105, 7, 15, Met, ,  828.5, 0
+105, 15, 7, Met, ,  828.5, 0
+106, 5, 6, Embassy, ,  838.5, 1
+106, 7, 15, Gave Influence, ,  839.5, 0
+106, 7, 0, Deal Proposed, 20 RESOURCE_HORSES for 0 turns from 0 to 7; 9 Favor for 0 turns from 0 to 7; 0 Open Borders for 30 turns from 7 to 0; 7 Gold for 0 turns from 7 to 0; 12 Gold for 30 turns from 7 to 0; ,  839.5, 0
+106, 7, 9, Met, ,  839.5, 0
+106, 9, 7, Met, ,  839.5, 0
+107, 2, 10, Gave Influence, ,  844.5, 0
+107, 2, 4, Deal Proposed, 0 Peace for 10 turns from 2 to 4; 0 Peace for 10 turns from 4 to 2; 0 GreatWork for 0 turns from 2 to 4; 10 Gold for 0 turns from 2 to 4; 5 Gold for 30 turns from 2 to 4; ,  844.5, 1
+107, 2, 4, Deal Closed, 0 Peace for 10 turns from 2 to 4; 0 Peace for 10 turns from 4 to 2; 0 GreatWork for 0 turns from 2 to 4; 10 Gold for 0 turns from 2 to 4; 5 Gold for 30 turns from 2 to 4; ,  844.5, 1
+107, 4, 2, Deal Rejected, 0 Peace for 10 turns from 2 to 4; 0 Peace for 10 turns from 4 to 2; 0 GreatWork for 0 turns from 2 to 4; 10 Gold for 0 turns from 2 to 4; 5 Gold for 30 turns from 2 to 4; ,  844.5, 0
+107, 4, 2, City Capture, LOC_CITY_NAME_KWANGO,  852.5, 0
+107, 10, Team 14, Individual Declaring War on Team START, Suzerain War,  857.5
+107, 10, 14, Met, ,  857.5, 0
+107, 14, 10, Met, ,  857.5, 0
+107, 10, 14, At War, Suzerain War,  857.5, 0
+107, 10, Team 14, Individual Declaring War on Team END, Suzerain War,  859.5
+107, 5, 10, Gave Influence, ,  859.5, 0
+107, 7, 9, Deal Proposed, 20 RESOURCE_HORSES for 0 turns from 9 to 7; 0 Open Borders for 30 turns from 7 to 9; 4 Gold for 30 turns from 7 to 9; ,  861.5, 0
+107, 7, 9, Deal Closed, 20 RESOURCE_HORSES for 0 turns from 9 to 7; 0 Open Borders for 30 turns from 7 to 9; 4 Gold for 30 turns from 7 to 9; ,  861.5, 0
+107, 9, 7, Deal Rejected, 20 RESOURCE_HORSES for 0 turns from 9 to 7; 0 Open Borders for 30 turns from 7 to 9; 4 Gold for 30 turns from 7 to 9; ,  861.5, 0
+107, 9, 24, Gave Influence, ,  864.0, 0
+107, 7, 22, Met, ,  870.5, 0
+107, 22, 7, Met, ,  870.5, 0
+108, 10, 14, Peace, ,  875.0, 0
+108, 4, 10, Gave Influence, ,  875.0, 0
+108, 0, 14, Peace, ,  890.0, 0
+108, 1, 14, Peace, ,  890.0, 0
+108, 2, 14, Peace, ,  890.0, 0
+108, 3, 14, Peace, ,  890.0, 0
+108, 4, 14, Peace, ,  890.0, 0
+108, 5, 14, Peace, ,  890.0, 0
+108, 6, 14, Peace, ,  890.0, 0
+108, 7, 14, Peace, ,  890.0, 0
+108, 8, 14, Peace, ,  890.0, 0
+108, 9, 14, Peace, ,  890.0, 0
+108, 10, 14, Peace, ,  890.0, 0
+108, 11, 14, Peace, ,  890.0, 0
+108, 12, 14, Peace, ,  890.0, 0
+108, 13, 14, Peace, ,  890.0, 0
+108, 15, 14, Peace, ,  890.0, 0
+108, 16, 14, Peace, ,  890.0, 0
+108, 17, 14, Peace, ,  890.0, 0
+108, 18, 14, Peace, ,  890.0, 0
+108, 19, 14, Peace, ,  890.0, 0
+108, 20, 14, Peace, ,  890.0, 0
+108, 21, 14, Peace, ,  890.0, 0
+108, 22, 14, Peace, ,  890.0, 0
+108, 23, 14, Peace, ,  890.0, 0
+108, 24, 14, Peace, ,  890.0, 0
+108, 62, 14, Peace, ,  890.0, 0
+108, 63, 14, Peace, ,  890.0, 0
+108, 5, 14, City Capture, LOC_CITY_NAME_JOHANNESBURG,  893.0, 0
+108, 9, 8, Met, ,  897.0, 0
+108, 8, 9, Met, ,  897.0, 0
+108, 11, 6, Met, ,  897.0, 0
+108, 6, 11, Met, ,  897.0, 0
+109, 6, 2, Deal Proposed, 0 GreatWork for 0 turns from 2 to 6; 17 Favor for 0 turns from 2 to 6; 0 Open Borders for 30 turns from 6 to 2; 8 Gold for 0 turns from 6 to 2; 24 Gold for 30 turns from 6 to 2; ,  910.5, 0
+109, 6, 2, Deal Closed, 0 GreatWork for 0 turns from 2 to 6; 17 Favor for 0 turns from 2 to 6; 0 Open Borders for 30 turns from 6 to 2; 8 Gold for 0 turns from 6 to 2; 24 Gold for 30 turns from 6 to 2; ,  910.5, 0
+109, 2, 6, Deal Rejected, 0 GreatWork for 0 turns from 2 to 6; 17 Favor for 0 turns from 2 to 6; 0 Open Borders for 30 turns from 6 to 2; 8 Gold for 0 turns from 6 to 2; 24 Gold for 30 turns from 6 to 2; ,  910.5, 1
+109, 7, 24, Met, ,  910.5, 0
+109, 24, 7, Met, ,  910.5, 0
+110, 6, Team 5, Individual Declaring War on Team START, Emergency War,  915.0
+110, 6, 5, At War, Emergency War,  915.0, 1
+110, 17, Team 5, Individual Declaring War on Team START, Suzerain War,  917.0
+110, 17, 5, At War, Suzerain War,  917.0, 0
+110, 18, Team 17, Individual Declaring War on Team START, Suzerain War,  919.0
+110, 18, 17, Met, ,  919.0, 0
+110, 17, 18, Met, ,  919.0, 0
+110, 18, 17, At War, Suzerain War,  919.0, 0
+110, 18, Team 17, Individual Declaring War on Team END, Suzerain War,  921.0
+110, 17, Team 5, Individual Declaring War on Team END, Suzerain War,  921.0
+110, 18, Team 6, Individual Declaring War on Team START, Suzerain War,  921.0
+110, 18, 6, At War, Suzerain War,  921.0, 0
+110, 17, Team 18, Individual Declaring War on Team START, Suzerain War,  923.0
+110, 17, 18, At War, Suzerain War,  923.0, 0
+110, 17, Team 18, Individual Declaring War on Team END, Suzerain War,  925.0
+110, 23, Team 18, Individual Declaring War on Team START, Suzerain War,  925.0
+110, 23, 18, Met, ,  925.0, 0
+110, 18, 23, Met, ,  925.0, 0
+110, 23, 18, At War, Suzerain War,  925.0, 0
+110, 23, Team 18, Individual Declaring War on Team END, Suzerain War,  927.0
+110, 18, Team 6, Individual Declaring War on Team END, Suzerain War,  927.0
+110, 23, Team 5, Individual Declaring War on Team START, Suzerain War,  927.0
+110, 23, 5, Met, ,  927.0, 0
+110, 5, 23, Met, ,  927.0, 0
+110, 23, Team 5, Individual Declaring War on Team START, Suzerain War,  927.0
+110, 23, 5, At War, Suzerain War,  927.0, 0
+110, 18, Team 23, Individual Declaring War on Team START, Suzerain War,  929.0
+110, 18, 23, At War, Suzerain War,  929.0, 0
+110, 18, Team 23, Individual Declaring War on Team END, Suzerain War,  931.0
+110, 23, Team 5, Individual Declaring War on Team END, Suzerain War,  931.0
+110, 23, Team 5, Individual Declaring War on Team START, Suzerain War,  931.0
+110, 23, 5, At War, Suzerain War,  931.0, 0
+110, 18, Team 23, Individual Declaring War on Team START, Suzerain War,  933.0
+110, 18, 23, At War, Suzerain War,  933.0, 0
+110, 18, Team 23, Individual Declaring War on Team END, Suzerain War,  935.0
+110, 23, Team 5, Individual Declaring War on Team END, Suzerain War,  935.0
+110, 23, 5, At War, Suzerain War,  935.0, 0
+110, 18, Team 23, Individual Declaring War on Team START, Suzerain War,  937.0
+110, 18, 23, At War, Suzerain War,  937.0, 0
+110, 18, Team 23, Individual Declaring War on Team END, Suzerain War,  939.0
+110, 23, Team 5, Individual Declaring War on Team END, Suzerain War,  939.0
+110, 6, Team 5, Individual Declaring War on Team END, Emergency War,  939.0
+110, 1, 15, Met, ,  939.0, 0
+110, 15, 1, Met, ,  939.0, 0
+110, 3, 1, Met, ,  939.0, 0
+110, 1, 3, Met, ,  939.0, 1
+110, 2, 4, Deal Proposed, 0 Peace for 10 turns from 2 to 4; 0 Peace for 10 turns from 4 to 2; 0 LOC_CITY_NAME_KWANGO Ceded for 0 turns from 2 to 4; 18 Favor for 0 turns from 2 to 4; 20 Gold for 30 turns from 2 to 4; ,  939.0, 1
+110, 2, 4, Deal Closed, 0 Peace for 10 turns from 2 to 4; 0 Peace for 10 turns from 4 to 2; 0 LOC_CITY_NAME_KWANGO Ceded for 0 turns from 2 to 4; 18 Favor for 0 turns from 2 to 4; 20 Gold for 30 turns from 2 to 4; ,  939.0, 1
+110, 4, 2, Deal Rejected, 0 Peace for 10 turns from 2 to 4; 0 Peace for 10 turns from 4 to 2; 0 LOC_CITY_NAME_KWANGO Ceded for 0 turns from 2 to 4; 18 Favor for 0 turns from 2 to 4; 20 Gold for 30 turns from 2 to 4; ,  939.0, 0
+110, 5, 8, Declared Friends, ,  946.0, 1
+110, 8, 5, Declared Friends, ,  946.0, 1
+110, 5, 0, Deal Proposed, 8 Favor for 0 turns from 0 to 5; 0 Open Borders for 30 turns from 5 to 0; 9 Gold for 0 turns from 5 to 0; 2 Gold for 30 turns from 5 to 0; ,  946.0, 1
+110, 8, 5, Deal Proposed, 0 GreatWork for 0 turns from 5 to 8; 30 Favor for 0 turns from 5 to 8; 0 Open Borders for 30 turns from 5 to 8; 0 Open Borders for 30 turns from 8 to 5; 5 Gold for 0 turns from 8 to 5; 32 Gold for 30 turns from 8 to 5; ,  947.0, 1
+110, 8, 5, Deal Closed, 0 GreatWork for 0 turns from 5 to 8; 30 Favor for 0 turns from 5 to 8; 0 Open Borders for 30 turns from 5 to 8; 0 Open Borders for 30 turns from 8 to 5; 5 Gold for 0 turns from 8 to 5; 32 Gold for 30 turns from 8 to 5; ,  947.0, 1
+110, 5, 8, Deal Rejected, 0 GreatWork for 0 turns from 5 to 8; 30 Favor for 0 turns from 5 to 8; 0 Open Borders for 30 turns from 5 to 8; 0 Open Borders for 30 turns from 8 to 5; 5 Gold for 0 turns from 8 to 5; 32 Gold for 30 turns from 8 to 5; ,  947.0, 1
+110, 9, 8, Deal Proposed, 8 RESOURCE_NITER for 0 turns from 8 to 9; 0 Open Borders for 30 turns from 9 to 8; 4 Gold for 30 turns from 9 to 8; ,  947.0, 0
+110, 9, 8, Deal Closed, 8 RESOURCE_NITER for 0 turns from 8 to 9; 0 Open Borders for 30 turns from 9 to 8; 4 Gold for 30 turns from 9 to 8; ,  947.0, 0
+110, 8, 9, Deal Rejected, 8 RESOURCE_NITER for 0 turns from 8 to 9; 0 Open Borders for 30 turns from 9 to 8; 4 Gold for 30 turns from 9 to 8; ,  947.0, 0
+110, 9, 6, Deal Proposed, 4 RESOURCE_NITER for 0 turns from 6 to 9; 13 Favor for 0 turns from 6 to 9; 0 Open Borders for 30 turns from 9 to 6; 4 Gold for 0 turns from 9 to 6; 4 Gold for 30 turns from 9 to 6; ,  947.0, 2
+110, 9, 6, Deal Closed, 4 RESOURCE_NITER for 0 turns from 6 to 9; 13 Favor for 0 turns from 6 to 9; 0 Open Borders for 30 turns from 9 to 6; 4 Gold for 0 turns from 9 to 6; 4 Gold for 30 turns from 9 to 6; ,  947.0, 2
+110, 6, 9, Deal Rejected, 4 RESOURCE_NITER for 0 turns from 6 to 9; 13 Favor for 0 turns from 6 to 9; 0 Open Borders for 30 turns from 9 to 6; 4 Gold for 0 turns from 9 to 6; 4 Gold for 30 turns from 9 to 6; ,  947.0, 1
+111, 1, 3, Deal Proposed, 19 RESOURCE_IRON for 0 turns from 3 to 1; 1 RESOURCE_MERCURY for 30 turns from 3 to 1; 0 Open Borders for 30 turns from 1 to 3; 5 Gold for 30 turns from 1 to 3; ,  950.5, 1
+111, 1, 3, Deal Closed, 19 RESOURCE_IRON for 0 turns from 3 to 1; 1 RESOURCE_MERCURY for 30 turns from 3 to 1; 0 Open Borders for 30 turns from 1 to 3; 5 Gold for 30 turns from 1 to 3; ,  950.5, 1
+111, 3, 1, Deal Rejected, 19 RESOURCE_IRON for 0 turns from 3 to 1; 1 RESOURCE_MERCURY for 30 turns from 3 to 1; 0 Open Borders for 30 turns from 1 to 3; 5 Gold for 30 turns from 1 to 3; ,  950.5, 0
+111, 3, 1, Denounced, ,  953.5, 0
+111, 7, 9, Delegation, ,  955.5, 0
+111, 8, 4, Deal Proposed, 20 RESOURCE_IRON for 0 turns from 4 to 8; 1 RESOURCE_SUGAR for 30 turns from 4 to 8; 0 Open Borders for 30 turns from 8 to 4; 12 Gold for 30 turns from 8 to 4; ,  955.5, 1
+111, 4, 8, Deal Accepted, 20 RESOURCE_IRON for 0 turns from 4 to 8; 1 RESOURCE_SUGAR for 30 turns from 4 to 8; 0 Open Borders for 30 turns from 8 to 4; 12 Gold for 30 turns from 8 to 4; ,  955.5, 1
+111, 8, 9, Deal Proposed, 6 RESOURCE_IRON for 0 turns from 9 to 8; 0 Open Borders for 30 turns from 8 to 9; 8 Gold for 0 turns from 8 to 9; ,  955.5, 0
+111, 8, 9, Deal Closed, 6 RESOURCE_IRON for 0 turns from 9 to 8; 0 Open Borders for 30 turns from 8 to 9; 8 Gold for 0 turns from 8 to 9; ,  955.5, 0
+111, 9, 8, Deal Rejected, 6 RESOURCE_IRON for 0 turns from 9 to 8; 0 Open Borders for 30 turns from 8 to 9; 8 Gold for 0 turns from 8 to 9; ,  955.5, 0
+112, 5, 18, Gave Influence, ,  959.0, 0
+112, 7, 5, Delegation, ,  960.0, 0
+113, 2, 4, Deal Proposed, 0 Peace for 10 turns from 2 to 4; 0 Peace for 10 turns from 4 to 2; 0 LOC_CITY_NAME_KWANGO Ceded for 0 turns from 2 to 4; 33 Gold for 30 turns from 2 to 4; ,  962.5, 1
+113, 2, 4, Deal Closed, 0 Peace for 10 turns from 2 to 4; 0 Peace for 10 turns from 4 to 2; 0 LOC_CITY_NAME_KWANGO Ceded for 0 turns from 2 to 4; 33 Gold for 30 turns from 2 to 4; ,  962.5, 1
+113, 4, 2, Deal Rejected, 0 Peace for 10 turns from 2 to 4; 0 Peace for 10 turns from 4 to 2; 0 LOC_CITY_NAME_KWANGO Ceded for 0 turns from 2 to 4; 33 Gold for 30 turns from 2 to 4; ,  962.5, 0
+113, 2, 5, Embassy, ,  962.5, 1
+113, 5, 4, Promise Made, Settle,  967.5, 1
+114, 4, 5, Deal Proposed, 0 GreatWork for 0 turns from 5 to 4; 19 Favor for 0 turns from 5 to 4; 0 Open Borders for 30 turns from 5 to 4; 0 GreatWork for 0 turns from 4 to 5; 0 GreatWork for 0 turns from 4 to 5; 0 Open Borders for 30 turns from 4 to 5; 4 Gold for 0 turns from 5 to 4; 6 Gold for 30 turns from 5 to 4; ,  974.5, 1
+114, 4, 5, Deal Closed, 0 GreatWork for 0 turns from 5 to 4; 19 Favor for 0 turns from 5 to 4; 0 Open Borders for 30 turns from 5 to 4; 0 GreatWork for 0 turns from 4 to 5; 0 GreatWork for 0 turns from 4 to 5; 0 Open Borders for 30 turns from 4 to 5; 4 Gold for 0 turns from 5 to 4; 6 Gold for 30 turns from 5 to 4; ,  974.5, 1
+114, 5, 4, Deal Rejected, 0 GreatWork for 0 turns from 5 to 4; 19 Favor for 0 turns from 5 to 4; 0 Open Borders for 30 turns from 5 to 4; 0 GreatWork for 0 turns from 4 to 5; 0 GreatWork for 0 turns from 4 to 5; 0 Open Borders for 30 turns from 4 to 5; 4 Gold for 0 turns from 5 to 4; 6 Gold for 30 turns from 5 to 4; ,  974.5, 1
+114, 5, 8, Embassy, ,  978.5, 1
+114, 9, 2, Met, ,  978.5, 0
+114, 2, 9, Met, ,  978.5, 1
+114, 4, 9, Met, ,  978.5, 0
+114, 9, 4, Met, ,  978.5, 0
+115, 7, 3, Met, ,  991.5, 0
+115, 3, 7, Met, ,  991.5, 1
+115, 9, 10, Met, ,  991.5, 0
+115, 10, 9, Met, ,  991.5, 0
+116, 2, 4, Deal Proposed, 0 Peace for 10 turns from 2 to 4; 0 Peace for 10 turns from 4 to 2; 0 LOC_CITY_NAME_KWANGO Ceded for 0 turns from 2 to 4; 0 GreatWork for 0 turns from 2 to 4; 375 Gold for 0 turns from 2 to 4; 31 Gold for 30 turns from 2 to 4; ,  993.5, 1
+116, 2, 4, Deal Closed, 0 Peace for 10 turns from 2 to 4; 0 Peace for 10 turns from 4 to 2; 0 LOC_CITY_NAME_KWANGO Ceded for 0 turns from 2 to 4; 0 GreatWork for 0 turns from 2 to 4; 375 Gold for 0 turns from 2 to 4; 31 Gold for 30 turns from 2 to 4; ,  993.5, 1
+116, 4, 2, Deal Rejected, 0 Peace for 10 turns from 2 to 4; 0 Peace for 10 turns from 4 to 2; 0 LOC_CITY_NAME_KWANGO Ceded for 0 turns from 2 to 4; 0 GreatWork for 0 turns from 2 to 4; 375 Gold for 0 turns from 2 to 4; 31 Gold for 30 turns from 2 to 4; ,  993.5, 0
+116, 2, 9, Deal Proposed, 6 RESOURCE_IRON for 0 turns from 9 to 2; 0 Open Borders for 30 turns from 2 to 9; 8 Gold for 0 turns from 2 to 9; ,  993.5, 1
+116, 2, 9, Deal Closed, 6 RESOURCE_IRON for 0 turns from 9 to 2; 0 Open Borders for 30 turns from 2 to 9; 8 Gold for 0 turns from 2 to 9; ,  993.5, 1
+116, 9, 2, Deal Rejected, 6 RESOURCE_IRON for 0 turns from 9 to 2; 0 Open Borders for 30 turns from 2 to 9; 8 Gold for 0 turns from 2 to 9; ,  993.5, 0
+116, 9, 4, Denounced, , 1002.0, 0
+116, 9, 2, Deal Proposed, 0 GreatWork for 0 turns from 2 to 9; 24 Favor for 0 turns from 2 to 9; 0 Open Borders for 30 turns from 9 to 2; 24 Gold for 30 turns from 9 to 2; , 1002.0, 0
+116, 9, 2, Deal Closed, 0 GreatWork for 0 turns from 2 to 9; 24 Favor for 0 turns from 2 to 9; 0 Open Borders for 30 turns from 9 to 2; 24 Gold for 30 turns from 9 to 2; , 1002.0, 0
+116, 2, 9, Deal Rejected, 0 GreatWork for 0 turns from 2 to 9; 24 Favor for 0 turns from 2 to 9; 0 Open Borders for 30 turns from 9 to 2; 24 Gold for 30 turns from 9 to 2; , 1002.0, 1
+117, 7, 3, Deal Proposed, 20 RESOURCE_IRON for 0 turns from 3 to 7; 20 RESOURCE_HORSES for 0 turns from 3 to 7; 1 RESOURCE_MERCURY for 30 turns from 3 to 7; 0 Open Borders for 30 turns from 7 to 3; 2 Gold for 0 turns from 7 to 3; 19 Gold for 30 turns from 7 to 3; , 1015.5, 0
+117, 3, 7, Deal Closed, 20 RESOURCE_IRON for 0 turns from 3 to 7; 20 RESOURCE_HORSES for 0 turns from 3 to 7; 1 RESOURCE_MERCURY for 30 turns from 3 to 7; 0 Open Borders for 30 turns from 7 to 3; 5 Gold for 0 turns from 7 to 3; 20 Gold for 30 turns from 7 to 3; , 1015.5, 1
+117, 7, 3, Deal Rejected, 20 RESOURCE_IRON for 0 turns from 3 to 7; 20 RESOURCE_HORSES for 0 turns from 3 to 7; 1 RESOURCE_MERCURY for 30 turns from 3 to 7; 0 Open Borders for 30 turns from 7 to 3; 5 Gold for 0 turns from 7 to 3; 20 Gold for 30 turns from 7 to 3; , 1015.5, 0
+117, 3, 7, Deal Rejected, 20 RESOURCE_IRON for 0 turns from 3 to 7; 20 RESOURCE_HORSES for 0 turns from 3 to 7; 1 RESOURCE_MERCURY for 30 turns from 3 to 7; 0 Open Borders for 30 turns from 7 to 3; 5 Gold for 0 turns from 7 to 3; 20 Gold for 30 turns from 7 to 3; , 1015.5, 1
+117, 23, 8, Met, , 1015.5, 0
+117, 8, 23, Met, , 1015.5, 0
+118, 8, 23, Gave Influence, , 1023.5, 0
+119, 2, 4, Deal Proposed, 0 Peace for 10 turns from 2 to 4; 0 Peace for 10 turns from 4 to 2; 0 LOC_CITY_NAME_KWANGO Ceded for 0 turns from 2 to 4; 0 GreatWork for 0 turns from 2 to 4; 17 Favor for 0 turns from 2 to 4; 131 Gold for 0 turns from 2 to 4; 31 Gold for 30 turns from 2 to 4; , 1029.5, 1
+119, 2, 4, Deal Closed, 0 Peace for 10 turns from 2 to 4; 0 Peace for 10 turns from 4 to 2; 0 LOC_CITY_NAME_KWANGO Ceded for 0 turns from 2 to 4; 0 GreatWork for 0 turns from 2 to 4; 17 Favor for 0 turns from 2 to 4; 131 Gold for 0 turns from 2 to 4; 31 Gold for 30 turns from 2 to 4; , 1029.5, 1
+119, 4, 2, Deal Rejected, 0 Peace for 10 turns from 2 to 4; 0 Peace for 10 turns from 4 to 2; 0 LOC_CITY_NAME_KWANGO Ceded for 0 turns from 2 to 4; 0 GreatWork for 0 turns from 2 to 4; 17 Favor for 0 turns from 2 to 4; 131 Gold for 0 turns from 2 to 4; 31 Gold for 30 turns from 2 to 4; , 1029.5, 0
+119, 4, 2, City Capture, LOC_CITY_NAME_MBANZA_KONGO, 1038.5, 1
+119, 6, 8, Deal Proposed, 20 RESOURCE_NITER for 0 turns from 8 to 6; 0 Open Borders for 30 turns from 6 to 8; 10 Gold for 0 turns from 6 to 8; 4 Gold for 30 turns from 6 to 8; , 1042.5, 1
+119, 6, 8, Deal Closed, 20 RESOURCE_NITER for 0 turns from 8 to 6; 0 Open Borders for 30 turns from 6 to 8; 10 Gold for 0 turns from 6 to 8; 4 Gold for 30 turns from 6 to 8; , 1042.5, 1
+119, 8, 6, Deal Rejected, 20 RESOURCE_NITER for 0 turns from 8 to 6; 0 Open Borders for 30 turns from 6 to 8; 10 Gold for 0 turns from 6 to 8; 4 Gold for 30 turns from 6 to 8; , 1042.5, 0
+120, 3, 9, Deal Proposed, 20 RESOURCE_IRON for 0 turns from 9 to 3; 0 Open Borders for 30 turns from 3 to 9; 1 Gold for 0 turns from 3 to 9; , 1045.5, 2
+120, 3, 9, Deal Closed, 20 RESOURCE_IRON for 0 turns from 9 to 3; 0 Open Borders for 30 turns from 3 to 9; 1 Gold for 0 turns from 3 to 9; , 1045.5, 2
+120, 9, 3, Deal Rejected, 20 RESOURCE_IRON for 0 turns from 9 to 3; 0 Open Borders for 30 turns from 3 to 9; 1 Gold for 0 turns from 3 to 9; , 1045.5, 0
+120, 6, 22, Gave Influence, , 1046.5, 0
+120, 6, 22, Gave Influence, , 1046.5, 0
+120, 7, 5, Embassy, , 1048.0, 0
+120, 9, 23, Gave Influence, , 1050.5, 0
+120, 9, 20, Met, , 1050.5, 0
+120, 20, 9, Met, , 1050.5, 0
+121, 5, 8, Deal Proposed, 0 LOC_ALLIANCE_RESEARCH for 30 turns from 5 to 8; 0 LOC_ALLIANCE_RESEARCH for 30 turns from 8 to 5; 51 Gold for 0 turns from 5 to 8; , 1059.5, 2
+121, 8, 5, Deal Accepted, 0 LOC_ALLIANCE_RESEARCH for 30 turns from 5 to 8; 0 LOC_ALLIANCE_RESEARCH for 30 turns from 8 to 5; 51 Gold for 0 turns from 5 to 8; , 1059.5, 0
+121, 8, 5, Alliance Starts, LOC_ALLIANCE_RESEARCH, 1059.5, 0
+121, 8, 5, Defensive Pact, , 1059.5, 0
+121, 8, 5, Allied, , 1059.5, 0
+121, 7, 3, Embassy, , 1059.5, 0
+121, 8, 6, Deal Proposed, 20 RESOURCE_NITER for 0 turns from 6 to 8; 0 Open Borders for 30 turns from 8 to 6; 9 Gold for 0 turns from 8 to 6; 2 Gold for 30 turns from 8 to 6; , 1059.5, 0
+121, 8, 6, Deal Closed, 20 RESOURCE_NITER for 0 turns from 6 to 8; 0 Open Borders for 30 turns from 8 to 6; 9 Gold for 0 turns from 8 to 6; 2 Gold for 30 turns from 8 to 6; , 1059.5, 0
+121, 6, 8, Deal Rejected, 20 RESOURCE_NITER for 0 turns from 6 to 8; 0 Open Borders for 30 turns from 8 to 6; 9 Gold for 0 turns from 8 to 6; 2 Gold for 30 turns from 8 to 6; , 1059.5, 1
+121, 9, 8, Deal Proposed, 20 RESOURCE_IRON for 0 turns from 8 to 9; 0 Open Borders for 30 turns from 9 to 8; 5 Gold for 0 turns from 9 to 8; 2 Gold for 30 turns from 9 to 8; , 1061.0, 0
+121, 9, 8, Deal Closed, 20 RESOURCE_IRON for 0 turns from 8 to 9; 0 Open Borders for 30 turns from 9 to 8; 5 Gold for 0 turns from 9 to 8; 2 Gold for 30 turns from 9 to 8; , 1061.0, 0
+121, 8, 9, Deal Rejected, 20 RESOURCE_IRON for 0 turns from 8 to 9; 0 Open Borders for 30 turns from 9 to 8; 5 Gold for 0 turns from 9 to 8; 2 Gold for 30 turns from 9 to 8; , 1061.0, 0
+122, 0, 15, Gave Influence, , 1063.5, 0
+122, 1, 9, Met, , 1063.5, 1
+122, 9, 1, Met, , 1063.5, 0
+122, 2, 6, Deal Proposed, 20 RESOURCE_NITER for 0 turns from 6 to 2; 20 RESOURCE_IRON for 0 turns from 6 to 2; 20 Favor for 0 turns from 2 to 6; 0 Open Borders for 30 turns from 2 to 6; 9 Gold for 30 turns from 2 to 6; , 1063.5, 1
+122, 2, 6, Deal Closed, 20 RESOURCE_NITER for 0 turns from 6 to 2; 20 RESOURCE_IRON for 0 turns from 6 to 2; 20 Favor for 0 turns from 2 to 6; 0 Open Borders for 30 turns from 2 to 6; 9 Gold for 30 turns from 2 to 6; , 1063.5, 1
+122, 6, 2, Deal Rejected, 20 RESOURCE_NITER for 0 turns from 6 to 2; 20 RESOURCE_IRON for 0 turns from 6 to 2; 20 Favor for 0 turns from 2 to 6; 0 Open Borders for 30 turns from 2 to 6; 9 Gold for 30 turns from 2 to 6; , 1063.5, 0
+122, 10, 8, Met, , 1065.0, 1
+122, 8, 10, Met, , 1065.0, 0
+123, 1, 20, Gave Influence, , 1065.0, 0
+123, 1, 9, Deal Proposed, 20 RESOURCE_IRON for 0 turns from 9 to 1; 0 Open Borders for 30 turns from 1 to 9; 4 Gold for 30 turns from 1 to 9; , 1065.0, 1
+123, 1, 9, Deal Closed, 20 RESOURCE_IRON for 0 turns from 9 to 1; 0 Open Borders for 30 turns from 1 to 9; 4 Gold for 30 turns from 1 to 9; , 1065.0, 1
+123, 9, 1, Deal Rejected, 20 RESOURCE_IRON for 0 turns from 9 to 1; 0 Open Borders for 30 turns from 1 to 9; 4 Gold for 30 turns from 1 to 9; , 1065.0, 0
+123, 5, 2, Embassy, , 1066.0, 1
+123, 5, 7, Embassy, , 1066.0, 1
+123, 7, 9, Deal Proposed, 4 RESOURCE_NITER for 0 turns from 9 to 7; 0 Open Borders for 30 turns from 7 to 9; 12 Gold for 0 turns from 7 to 9; , 1066.0, 0
+123, 7, 9, Deal Closed, 4 RESOURCE_NITER for 0 turns from 9 to 7; 0 Open Borders for 30 turns from 7 to 9; 12 Gold for 0 turns from 7 to 9; , 1066.0, 0
+123, 9, 7, Deal Rejected, 4 RESOURCE_NITER for 0 turns from 9 to 7; 0 Open Borders for 30 turns from 7 to 9; 12 Gold for 0 turns from 7 to 9; , 1066.0, 0
+123, 9, 1, Denounced, , 1067.0, 0
+124, 2, 5, Deal Proposed, 20 RESOURCE_IRON for 0 turns from 5 to 2; 0 Open Borders for 30 turns from 2 to 5; 6 Gold for 30 turns from 2 to 5; , 1071.5, 2
+124, 5, 2, Deal Closed, 20 RESOURCE_IRON for 0 turns from 5 to 2; 0 Open Borders for 30 turns from 2 to 5; 9 Gold for 30 turns from 2 to 5; , 1071.5, 2
+124, 2, 5, Deal Rejected, 20 RESOURCE_IRON for 0 turns from 5 to 2; 0 Open Borders for 30 turns from 2 to 5; 9 Gold for 30 turns from 2 to 5; , 1071.5, 2
+124, 5, 2, Deal Rejected, 20 RESOURCE_IRON for 0 turns from 5 to 2; 0 Open Borders for 30 turns from 2 to 5; 9 Gold for 30 turns from 2 to 5; , 1071.5, 2
+124, 3, 9, Promise Refused, Settle, 1072.5, 2
+124, 6, 9, Deal Proposed, 6 RESOURCE_NITER for 0 turns from 9 to 6; 0 Open Borders for 30 turns from 6 to 9; 17 Gold for 0 turns from 6 to 9; , 1072.5, 1
+124, 6, 9, Deal Closed, 6 RESOURCE_NITER for 0 turns from 9 to 6; 0 Open Borders for 30 turns from 6 to 9; 17 Gold for 0 turns from 6 to 9; , 1072.5, 1
+124, 9, 6, Deal Rejected, 6 RESOURCE_NITER for 0 turns from 9 to 6; 0 Open Borders for 30 turns from 6 to 9; 17 Gold for 0 turns from 6 to 9; , 1072.5, 0
+125, 7, 15, Gave Influence, , 1075.5, 0
+125, 8, 23, Gave Influence, , 1075.5, 0
+126, 2, 4, Promise Kept, Settle, 1082.0, 1
+126, 3, 24, Gave Influence, , 1084.0, 0
+127, 5, Team 4, Individual Declaring War on Team START, Emergency War, 1089.0
+127, 5, 4, At War, Emergency War, 1089.0, 1
+127, 11, Team 5, Individual Declaring War on Team START, Suzerain War, 1091.0
+127, 11, 5, At War, Suzerain War, 1091.0, 1
+127, 18, Team 11, Individual Declaring War on Team START, Suzerain War, 1093.0
+127, 18, 11, At War, Suzerain War, 1093.0, 0
+127, 18, Team 11, Individual Declaring War on Team END, Suzerain War, 1095.0
+127, 11, Team 5, Individual Declaring War on Team END, Suzerain War, 1095.0
+127, 18, Team 4, Individual Declaring War on Team START, Suzerain War, 1095.0
+127, 18, 4, At War, Suzerain War, 1095.0, 2
+127, 11, Team 18, Individual Declaring War on Team START, Suzerain War, 1097.0
+127, 11, 18, At War, Suzerain War, 1097.0, 0
+127, 11, Team 18, Individual Declaring War on Team END, Suzerain War, 1099.0
+127, 18, Team 4, Individual Declaring War on Team END, Suzerain War, 1099.0
+127, 5, Team 4, Individual Declaring War on Team END, Emergency War, 1099.0
+127, 2, 17, Met, , 1099.0, 0
+127, 17, 2, Met, , 1099.0, 0
+127, 2, 23, Met, , 1099.0, 0
+127, 23, 2, Met, , 1099.0, 1
+127, 0, 2, Met, , 1099.0, 0
+127, 2, 0, Met, , 1099.0, 1
+127, 2, 13, Met, , 1099.0, 0
+127, 13, 2, Met, , 1099.0, 1
+127, 2, 8, Met, , 1099.0, 1
+127, 8, 2, Met, , 1099.0, 1
+127, 2, 7, Met, , 1099.0, 1
+127, 7, 2, Met, , 1099.0, 0
+128, 2, 0, Deal Proposed, 1 RESOURCE_OLIVES for 30 turns from 0 to 2; 1 RESOURCE_IVORY for 30 turns from 0 to 2; 0 Open Borders for 30 turns from 2 to 0; 5 Gold for 0 turns from 2 to 0; 2 Gold for 30 turns from 2 to 0; , 1104.5, 1
+128, 3, 24, Gave Influence, , 1105.5, 0
+128, 3, 24, Gave Influence, , 1105.5, 0
+128, 10, Team 4, Individual Declaring War on Team START, Suzerain War, 1110.0
+128, 10, 4, At War, Suzerain War, 1110.0, 1
+128, 11, Team 10, Individual Declaring War on Team START, Suzerain War, 1112.0
+128, 11, 10, At War, Suzerain War, 1112.0, 0
+128, 11, Team 10, Individual Declaring War on Team END, Suzerain War, 1114.0
+128, 10, Team 4, Individual Declaring War on Team END, Suzerain War, 1114.0
+128, 10, Team 6, Individual Declaring War on Team START, Suzerain War, 1114.0
+128, 10, 6, At War, Suzerain War, 1114.0, 1
+128, 17, Team 10, Individual Declaring War on Team START, Suzerain War, 1116.0
+128, 17, 10, Met, , 1116.0, 0
+128, 10, 17, Met, , 1116.0, 0
+128, 17, 10, At War, Suzerain War, 1116.0, 0
+128, 17, Team 10, Individual Declaring War on Team END, Suzerain War, 1118.0
+128, 23, Team 10, Individual Declaring War on Team START, Suzerain War, 1118.0
+128, 23, 10, Met, , 1118.0, 0
+128, 10, 23, Met, , 1118.0, 0
+128, 23, 10, At War, Suzerain War, 1118.0, 0
+128, 23, Team 10, Individual Declaring War on Team END, Suzerain War, 1120.0
+128, 10, Team 6, Individual Declaring War on Team END, Suzerain War, 1120.0
+128, 10, Team 11, Individual Declaring War on Team START, Suzerain War, 1120.0
+128, 10, 11, At War, Suzerain War, 1120.0, 0
+128, 10, Team 11, Individual Declaring War on Team END, Suzerain War, 1122.0
+128, 10, Team 17, Individual Declaring War on Team START, Suzerain War, 1122.0
+128, 10, 17, At War, Suzerain War, 1122.0, 0
+128, 10, Team 17, Individual Declaring War on Team END, Suzerain War, 1124.0
+128, 10, Team 23, Individual Declaring War on Team START, Suzerain War, 1124.0
+128, 10, 23, At War, Suzerain War, 1124.0, 0
+128, 10, Team 23, Individual Declaring War on Team END, Suzerain War, 1126.0
+128, 5, 10, Gave Influence, , 1126.0, 0
+128, 23, 5, Peace, , 1126.0, 1
+128, 23, 10, Peace, , 1126.0, 0
+128, 23, 18, Peace, , 1126.0, 0
+128, 8, 23, Gave Influence, , 1126.0, 0
+128, 8, 2, Deal Proposed, 20 RESOURCE_HORSES for 0 turns from 2 to 8; 16 Favor for 0 turns from 2 to 8; 20 RESOURCE_NITER for 0 turns from 8 to 2; 9 Gold for 30 turns from 8 to 2; , 1126.0, 1
+128, 2, 8, Deal Accepted, 20 RESOURCE_HORSES for 0 turns from 2 to 8; 16 Favor for 0 turns from 2 to 8; 20 RESOURCE_NITER for 0 turns from 8 to 2; 9 Gold for 30 turns from 8 to 2; , 1126.0, 1
+129, 4, 8, Deal Proposed, 20 RESOURCE_NITER for 0 turns from 8 to 4; 0 Open Borders for 30 turns from 4 to 8; 4 Gold for 30 turns from 4 to 8; , 1130.0, 2
+129, 4, 8, Deal Closed, 20 RESOURCE_NITER for 0 turns from 8 to 4; 0 Open Borders for 30 turns from 4 to 8; 4 Gold for 30 turns from 4 to 8; , 1130.0, 2
+129, 8, 4, Deal Rejected, 20 RESOURCE_NITER for 0 turns from 8 to 4; 0 Open Borders for 30 turns from 4 to 8; 4 Gold for 30 turns from 4 to 8; , 1130.0, 1
+129, 8, 1, Denounced, , 1134.0, 1
+130, 5, 1, Deal Proposed, 6 RESOURCE_NITER for 0 turns from 1 to 5; 0 Open Borders for 30 turns from 5 to 1; 7 Gold for 0 turns from 5 to 1; 3 Gold for 30 turns from 5 to 1; , 1141.5, 1
+130, 5, 1, Deal Closed, 6 RESOURCE_NITER for 0 turns from 1 to 5; 0 Open Borders for 30 turns from 5 to 1; 7 Gold for 0 turns from 5 to 1; 3 Gold for 30 turns from 5 to 1; , 1141.5, 1
+130, 1, 5, Deal Rejected, 6 RESOURCE_NITER for 0 turns from 1 to 5; 0 Open Borders for 30 turns from 5 to 1; 7 Gold for 0 turns from 5 to 1; 3 Gold for 30 turns from 5 to 1; , 1141.5, 1
+130, 9, 7, Deal Proposed, 6 RESOURCE_NITER for 0 turns from 7 to 9; 0 Open Borders for 30 turns from 9 to 7; 2 Gold for 0 turns from 9 to 7; 1 Gold for 30 turns from 9 to 7; , 1142.0, 0
+130, 9, 7, Deal Closed, 6 RESOURCE_NITER for 0 turns from 7 to 9; 0 Open Borders for 30 turns from 9 to 7; 2 Gold for 0 turns from 9 to 7; 1 Gold for 30 turns from 9 to 7; , 1142.0, 0
+130, 7, 9, Deal Rejected, 6 RESOURCE_NITER for 0 turns from 7 to 9; 0 Open Borders for 30 turns from 9 to 7; 2 Gold for 0 turns from 9 to 7; 1 Gold for 30 turns from 9 to 7; , 1142.0, 1
+131, 0, 15, Gave Influence, , 1147.0, 0
+131, 1, 5, Deal Proposed, 0 GreatWork for 0 turns from 5 to 1; 21 Favor for 0 turns from 5 to 1; 0 Open Borders for 30 turns from 1 to 5; 6 Gold for 0 turns from 1 to 5; 28 Gold for 30 turns from 1 to 5; , 1147.0, 1
+131, 1, 5, Deal Closed, 0 GreatWork for 0 turns from 5 to 1; 21 Favor for 0 turns from 5 to 1; 0 Open Borders for 30 turns from 1 to 5; 6 Gold for 0 turns from 1 to 5; 28 Gold for 30 turns from 1 to 5; , 1147.0, 1
+131, 5, 1, Deal Rejected, 0 GreatWork for 0 turns from 5 to 1; 21 Favor for 0 turns from 5 to 1; 0 Open Borders for 30 turns from 1 to 5; 6 Gold for 0 turns from 1 to 5; 28 Gold for 30 turns from 1 to 5; , 1147.0, 1
+131, 6, 4, Denounced, , 1154.0, 1
+131, 6, 17, Gave Influence, , 1154.0, 0
+131, 7, 5, Deal Proposed, 0 GreatWork for 0 turns from 5 to 7; 21 Favor for 0 turns from 5 to 7; 0 Open Borders for 30 turns from 7 to 5; 23 Gold for 30 turns from 7 to 5; , 1154.0, 2
+131, 7, 5, Deal Closed, 0 GreatWork for 0 turns from 5 to 7; 21 Favor for 0 turns from 5 to 7; 0 Open Borders for 30 turns from 7 to 5; 23 Gold for 30 turns from 7 to 5; , 1154.0, 2
+131, 5, 7, Deal Rejected, 0 GreatWork for 0 turns from 5 to 7; 21 Favor for 0 turns from 5 to 7; 0 Open Borders for 30 turns from 7 to 5; 23 Gold for 30 turns from 7 to 5; , 1154.0, 2
+132, 1, 24, Met, , 1157.0, 0
+132, 24, 1, Met, , 1157.0, 1
+132, 2, 13, Gave Influence, , 1157.0, 0
+132, 3, 24, Gave Influence, , 1157.0, 0
+132, 3, Team 15, Individual Declaring War on Team START, Surprise, 1157.0
+132, 3, 15, At War, Surprise, 1157.0, 0
+132, 24, Team 15, Individual Declaring War on Team START, Suzerain War, 1161.0
+132, 24, 15, At War, Suzerain War, 1161.0, 0
+132, 24, Team 15, Individual Declaring War on Team END, Suzerain War, 1163.0
+132, 3, Team 15, Individual Declaring War on Team END, Surprise, 1163.0
+132, 4, 20, Gave Influence, , 1164.0, 0
+132, 6, 1, Denounced, , 1166.0, 2
+132, 6, 13, Gave Influence, , 1166.0, 0
+132, 7, 1, Deal Proposed, 20 RESOURCE_IRON for 0 turns from 1 to 7; 20 RESOURCE_HORSES for 0 turns from 1 to 7; 0 Open Borders for 30 turns from 7 to 1; 16 Gold for 30 turns from 7 to 1; , 1166.0, 2
+132, 7, 1, Deal Closed, 20 RESOURCE_IRON for 0 turns from 1 to 7; 20 RESOURCE_HORSES for 0 turns from 1 to 7; 0 Open Borders for 30 turns from 7 to 1; 16 Gold for 30 turns from 7 to 1; , 1166.0, 2
+132, 1, 7, Deal Rejected, 20 RESOURCE_IRON for 0 turns from 1 to 7; 20 RESOURCE_HORSES for 0 turns from 1 to 7; 0 Open Borders for 30 turns from 7 to 1; 16 Gold for 30 turns from 7 to 1; , 1166.0, 2
+132, 7, 13, Met, , 1166.0, 0
+132, 13, 7, Met, , 1166.0, 1
+132, 8, 6, Deal Proposed, 20 RESOURCE_HORSES for 0 turns from 6 to 8; 0 Open Borders for 30 turns from 8 to 6; 10 Gold for 0 turns from 8 to 6; 4 Gold for 30 turns from 8 to 6; , 1166.0, 1
+132, 6, 8, Deal Closed, 20 RESOURCE_HORSES for 0 turns from 6 to 8; 0 Open Borders for 30 turns from 8 to 6; 7 Gold for 30 turns from 8 to 6; , 1166.0, 2
+132, 8, 6, Deal Rejected, 20 RESOURCE_HORSES for 0 turns from 6 to 8; 0 Open Borders for 30 turns from 8 to 6; 7 Gold for 30 turns from 8 to 6; , 1166.0, 1
+132, 6, 8, Deal Rejected, 20 RESOURCE_HORSES for 0 turns from 6 to 8; 0 Open Borders for 30 turns from 8 to 6; 7 Gold for 30 turns from 8 to 6; , 1166.0, 2
+132, 9, 23, Gave Influence, , 1166.0, 0
+133, 1, 7, Deal Proposed, 10 RESOURCE_NITER for 0 turns from 7 to 1; 0 Open Borders for 30 turns from 1 to 7; 5 Gold for 0 turns from 1 to 7; 2 Gold for 30 turns from 1 to 7; , 1170.5, 2
+133, 1, 7, Deal Closed, 10 RESOURCE_NITER for 0 turns from 7 to 1; 0 Open Borders for 30 turns from 1 to 7; 5 Gold for 0 turns from 1 to 7; 2 Gold for 30 turns from 1 to 7; , 1170.5, 2
+133, 7, 1, Deal Rejected, 10 RESOURCE_NITER for 0 turns from 7 to 1; 0 Open Borders for 30 turns from 1 to 7; 5 Gold for 0 turns from 1 to 7; 2 Gold for 30 turns from 1 to 7; , 1170.5, 2
+133, 5, 10, Gave Influence, , 1179.0, 0
+133, 8, 17, Met, , 1180.5, 0
+133, 17, 8, Met, , 1180.5, 0
+133, 5, 9, Met, , 1180.5, 1
+133, 9, 5, Met, , 1180.5, 0
+134, 4, 20, Gave Influence, , 1188.5, 0
+134, 5, 0, Deal Proposed, 1 RESOURCE_IVORY for 30 turns from 0 to 5; 0 Open Borders for 30 turns from 5 to 0; 2 Gold for 0 turns from 5 to 0; 3 Gold for 30 turns from 5 to 0; , 1191.5, 1
+134, 5, 2, Deal Proposed, 20 RESOURCE_NITER for 0 turns from 2 to 5; 6 Favor for 0 turns from 2 to 5; 0 GreatWork for 0 turns from 5 to 2; 12 Gold for 0 turns from 5 to 2; , 1191.5, 2
+134, 5, 2, Deal Closed, 20 RESOURCE_NITER for 0 turns from 2 to 5; 6 Favor for 0 turns from 2 to 5; 0 GreatWork for 0 turns from 5 to 2; 12 Gold for 0 turns from 5 to 2; , 1191.5, 2
+134, 2, 5, Deal Rejected, 20 RESOURCE_NITER for 0 turns from 2 to 5; 6 Favor for 0 turns from 2 to 5; 0 GreatWork for 0 turns from 5 to 2; 12 Gold for 0 turns from 5 to 2; , 1191.5, 2
+134, 6, 3, Deal Proposed, 20 RESOURCE_IRON for 0 turns from 3 to 6; 0 Open Borders for 30 turns from 6 to 3; 10 Gold for 0 turns from 6 to 3; 4 Gold for 30 turns from 6 to 3; , 1191.5, 1
+134, 3, 6, Deal Closed, 20 RESOURCE_IRON for 0 turns from 3 to 6; 0 Open Borders for 30 turns from 6 to 3; 9 Gold for 30 turns from 6 to 3; , 1191.5, 1
+134, 6, 3, Deal Rejected, 20 RESOURCE_IRON for 0 turns from 3 to 6; 0 Open Borders for 30 turns from 6 to 3; 9 Gold for 30 turns from 6 to 3; , 1191.5, 1
+134, 3, 6, Deal Rejected, 20 RESOURCE_IRON for 0 turns from 3 to 6; 0 Open Borders for 30 turns from 6 to 3; 9 Gold for 30 turns from 6 to 3; , 1191.5, 1
+134, 9, 6, Deal Proposed, 0 GreatWork for 0 turns from 6 to 9; 0 Open Borders for 30 turns from 6 to 9; 0 GreatWork for 0 turns from 9 to 6; 8 Gold for 0 turns from 9 to 6; 11 Gold for 30 turns from 9 to 6; , 1193.0, 0
+134, 9, 6, Deal Closed, 0 GreatWork for 0 turns from 6 to 9; 0 Open Borders for 30 turns from 6 to 9; 0 GreatWork for 0 turns from 9 to 6; 8 Gold for 0 turns from 9 to 6; 11 Gold for 30 turns from 9 to 6; , 1193.0, 0
+134, 6, 9, Deal Rejected, 0 GreatWork for 0 turns from 6 to 9; 0 Open Borders for 30 turns from 6 to 9; 0 GreatWork for 0 turns from 9 to 6; 8 Gold for 0 turns from 9 to 6; 11 Gold for 30 turns from 9 to 6; , 1193.0, 2
+135, 0, 1, Met, , 1198.0, 0
+135, 1, 0, Met, , 1198.0, 1
+135, 2, 13, Gave Influence, , 1198.0, 0
+135, 7, 8, Met, , 1206.5, 1
+135, 8, 7, Met, , 1206.5, 1
+135, 8, 7, Deal Proposed, 20 RESOURCE_HORSES for 0 turns from 7 to 8; 0 Open Borders for 30 turns from 8 to 7; 5 Gold for 30 turns from 8 to 7; , 1206.5, 1
+135, 8, 7, Deal Closed, 20 RESOURCE_HORSES for 0 turns from 7 to 8; 0 Open Borders for 30 turns from 8 to 7; 5 Gold for 30 turns from 8 to 7; , 1206.5, 1
+135, 7, 8, Deal Rejected, 20 RESOURCE_HORSES for 0 turns from 7 to 8; 0 Open Borders for 30 turns from 8 to 7; 5 Gold for 30 turns from 8 to 7; , 1206.5, 1
+135, 9, 5, Deal Proposed, 20 RESOURCE_IRON for 0 turns from 5 to 9; 0 Open Borders for 30 turns from 9 to 5; 4 Gold for 30 turns from 9 to 5; , 1206.5, 0
+135, 9, 5, Deal Closed, 20 RESOURCE_IRON for 0 turns from 5 to 9; 0 Open Borders for 30 turns from 9 to 5; 4 Gold for 30 turns from 9 to 5; , 1206.5, 0
+135, 5, 9, Deal Rejected, 20 RESOURCE_IRON for 0 turns from 5 to 9; 0 Open Borders for 30 turns from 9 to 5; 4 Gold for 30 turns from 9 to 5; , 1206.5, 1
+136, 2, 8, Deal Proposed, 20 RESOURCE_NITER for 0 turns from 8 to 2; 20 RESOURCE_HORSES for 0 turns from 8 to 2; 0 Open Borders for 30 turns from 2 to 8; 5 Gold for 0 turns from 2 to 8; 9 Gold for 30 turns from 2 to 8; , 1209.0, 1
+136, 2, 8, Deal Closed, 20 RESOURCE_NITER for 0 turns from 8 to 2; 20 RESOURCE_HORSES for 0 turns from 8 to 2; 0 Open Borders for 30 turns from 2 to 8; 5 Gold for 0 turns from 2 to 8; 9 Gold for 30 turns from 2 to 8; , 1209.0, 1
+136, 8, 2, Deal Rejected, 20 RESOURCE_NITER for 0 turns from 8 to 2; 20 RESOURCE_HORSES for 0 turns from 8 to 2; 0 Open Borders for 30 turns from 2 to 8; 5 Gold for 0 turns from 2 to 8; 9 Gold for 30 turns from 2 to 8; , 1209.0, 1
+136, 20, 21, Peace, , 1211.0, 0
+136, 4, 20, Gave Influence, , 1211.0, 0
+136, 8, 5, Deal Proposed, 20 RESOURCE_IRON for 0 turns from 5 to 8; 20 RESOURCE_HORSES for 0 turns from 5 to 8; 20 RESOURCE_NITER for 0 turns from 8 to 5; 3 Gold for 0 turns from 8 to 5; 11 Gold for 30 turns from 8 to 5; , 1215.5, 2
+136, 5, 8, Deal Accepted, 20 RESOURCE_IRON for 0 turns from 5 to 8; 20 RESOURCE_HORSES for 0 turns from 5 to 8; 20 RESOURCE_NITER for 0 turns from 8 to 5; 3 Gold for 0 turns from 8 to 5; 11 Gold for 30 turns from 8 to 5; , 1215.5, 3
+136, 9, Team 24, Individual Declaring War on Team START, Surprise, 1215.5
+136, 9, 24, At War, Surprise, 1215.5, 0
+136, 22, Team 24, Individual Declaring War on Team START, Suzerain War, 1219.5
+136, 22, 24, At War, Suzerain War, 1219.5, 0
+136, 22, Team 24, Individual Declaring War on Team END, Suzerain War, 1221.5
+136, 9, Team 24, Individual Declaring War on Team END, Surprise, 1221.5
+136, 9, 2, Deal Proposed, 20 RESOURCE_NITER for 0 turns from 2 to 9; 5 RESOURCE_IRON for 0 turns from 2 to 9; 0 Open Borders for 30 turns from 9 to 2; 6 Gold for 0 turns from 9 to 2; 4 Gold for 30 turns from 9 to 2; , 1221.5, 0
+136, 9, 2, Deal Closed, 20 RESOURCE_NITER for 0 turns from 2 to 9; 5 RESOURCE_IRON for 0 turns from 2 to 9; 0 Open Borders for 30 turns from 9 to 2; 6 Gold for 0 turns from 9 to 2; 4 Gold for 30 turns from 9 to 2; , 1221.5, 0
+136, 2, 9, Deal Rejected, 20 RESOURCE_NITER for 0 turns from 2 to 9; 5 RESOURCE_IRON for 0 turns from 2 to 9; 0 Open Borders for 30 turns from 9 to 2; 6 Gold for 0 turns from 9 to 2; 4 Gold for 30 turns from 9 to 2; , 1221.5, 1
+136, 9, 17, Met, , 1221.5, 0
+136, 17, 9, Met, , 1221.5, 0
+137, 1, 0, Deal Proposed, 1 RESOURCE_IVORY for 30 turns from 0 to 1; 0 Open Borders for 30 turns from 1 to 0; 5 Gold for 0 turns from 1 to 0; 2 Gold for 30 turns from 1 to 0; , 1226.0, 1
+137, 5, 18, Gave Influence, , 1231.5, 0
+137, 5, 6, Deal Proposed, 0 Peace for 10 turns from 5 to 6; 0 Peace for 10 turns from 6 to 5; 21 Gold for 0 turns from 5 to 6; , 1231.5, 1
+137, 5, 6, Deal Closed, 0 Peace for 10 turns from 5 to 6; 0 Peace for 10 turns from 6 to 5; 21 Gold for 0 turns from 5 to 6; , 1231.5, 1
+137, 6, 5, Deal Rejected, 0 Peace for 10 turns from 5 to 6; 0 Peace for 10 turns from 6 to 5; 21 Gold for 0 turns from 5 to 6; , 1231.5, 1
+137, 7, 22, Gave Influence, , 1233.5, 0
+138, 2, 5, Deal Proposed, 20 RESOURCE_NITER for 0 turns from 5 to 2; 20 RESOURCE_HORSES for 0 turns from 5 to 2; 10 Favor for 0 turns from 2 to 5; 10 Gold for 0 turns from 2 to 5; 4 Gold for 30 turns from 2 to 5; , 1247.0, 2
+138, 2, 5, Deal Closed, 20 RESOURCE_NITER for 0 turns from 5 to 2; 20 RESOURCE_HORSES for 0 turns from 5 to 2; 10 Favor for 0 turns from 2 to 5; 10 Gold for 0 turns from 2 to 5; 4 Gold for 30 turns from 2 to 5; , 1247.0, 2
+138, 5, 2, Deal Rejected, 20 RESOURCE_NITER for 0 turns from 5 to 2; 20 RESOURCE_HORSES for 0 turns from 5 to 2; 10 Favor for 0 turns from 2 to 5; 10 Gold for 0 turns from 2 to 5; 4 Gold for 30 turns from 2 to 5; , 1247.0, 2
+138, 2, 7, Deal Proposed, 20 RESOURCE_HORSES for 0 turns from 7 to 2; 0 Open Borders for 30 turns from 2 to 7; 5 Gold for 0 turns from 2 to 7; 2 Gold for 30 turns from 2 to 7; , 1247.0, 1
+138, 2, 7, Deal Closed, 20 RESOURCE_HORSES for 0 turns from 7 to 2; 0 Open Borders for 30 turns from 2 to 7; 5 Gold for 0 turns from 2 to 7; 2 Gold for 30 turns from 2 to 7; , 1247.0, 1
+138, 7, 2, Deal Rejected, 20 RESOURCE_HORSES for 0 turns from 7 to 2; 0 Open Borders for 30 turns from 2 to 7; 5 Gold for 0 turns from 2 to 7; 2 Gold for 30 turns from 2 to 7; , 1247.0, 1
+138, 3, 9, Denounced, , 1248.0, 2
+138, 7, 13, Gave Influence, , 1254.0, 0
+138, 9, 6, Embassy, , 1254.0, 1
+139, 2, 0, Deal Proposed, 18 RESOURCE_HORSES for 0 turns from 0 to 2; 1 RESOURCE_WHALES for 30 turns from 0 to 2; 0 Open Borders for 30 turns from 2 to 0; 2 Gold for 0 turns from 2 to 0; 3 Gold for 30 turns from 2 to 0; , 1263.0, 1
+139, 7, 20, Met, , 1273.0, 0
+139, 20, 7, Met, , 1273.0, 0
+140, 2, 8, Embassy, , 1280.5, 1
+140, 5, 6, Deal Proposed, 0 Peace for 10 turns from 5 to 6; 0 Peace for 10 turns from 6 to 5; 3 Gold for 30 turns from 5 to 6; , 1286.0, 1
+140, 5, 6, Deal Closed, 0 Peace for 10 turns from 5 to 6; 0 Peace for 10 turns from 6 to 5; 3 Gold for 30 turns from 5 to 6; , 1286.0, 1
+140, 6, 5, Deal Rejected, 0 Peace for 10 turns from 5 to 6; 0 Peace for 10 turns from 6 to 5; 3 Gold for 30 turns from 5 to 6; , 1286.0, 1
+142, 0, 13, Gave Influence, , 1324.0, 0
+142, 1, 5, Deal Proposed, 20 RESOURCE_IRON for 0 turns from 5 to 1; 0 Open Borders for 30 turns from 1 to 5; 8 Gold for 0 turns from 1 to 5; 1 Gold for 30 turns from 1 to 5; , 1324.0, 1
+142, 1, 5, Deal Closed, 20 RESOURCE_IRON for 0 turns from 5 to 1; 0 Open Borders for 30 turns from 1 to 5; 8 Gold for 0 turns from 1 to 5; 1 Gold for 30 turns from 1 to 5; , 1324.0, 1
+142, 5, 1, Deal Rejected, 20 RESOURCE_IRON for 0 turns from 5 to 1; 0 Open Borders for 30 turns from 1 to 5; 8 Gold for 0 turns from 1 to 5; 1 Gold for 30 turns from 1 to 5; , 1324.0, 1
+142, 2, 9, Deal Proposed, 20 RESOURCE_NITER for 0 turns from 9 to 2; 14 Favor for 0 turns from 2 to 9; 0 Open Borders for 30 turns from 2 to 9; 2 Gold for 0 turns from 9 to 2; 2 Gold for 30 turns from 9 to 2; , 1324.0, 1
+142, 2, 9, Deal Closed, 20 RESOURCE_NITER for 0 turns from 9 to 2; 14 Favor for 0 turns from 2 to 9; 0 Open Borders for 30 turns from 2 to 9; 2 Gold for 0 turns from 9 to 2; 2 Gold for 30 turns from 9 to 2; , 1324.0, 1
+142, 9, 2, Deal Rejected, 20 RESOURCE_NITER for 0 turns from 9 to 2; 14 Favor for 0 turns from 2 to 9; 0 Open Borders for 30 turns from 2 to 9; 2 Gold for 0 turns from 9 to 2; 2 Gold for 30 turns from 9 to 2; , 1324.0, 0
+142, 7, 5, Deal Proposed, 1 RESOURCE_COCOA for 30 turns from 5 to 7; 0 GreatWork for 0 turns from 5 to 7; 0 Open Borders for 30 turns from 5 to 7; 0 Open Borders for 30 turns from 7 to 5; 2 Gold for 0 turns from 7 to 5; 23 Gold for 30 turns from 7 to 5; , 1330.5, 2
+142, 5, 7, Deal Accepted, 1 RESOURCE_COCOA for 30 turns from 5 to 7; 0 GreatWork for 0 turns from 5 to 7; 0 Open Borders for 30 turns from 5 to 7; 0 Open Borders for 30 turns from 7 to 5; 2 Gold for 0 turns from 7 to 5; 23 Gold for 30 turns from 7 to 5; , 1330.5, 2
+143, 1, 15, Gave Influence, , 1337.0, 0
+143, 5, 4, Promise Kept, Settle, 1344.5, 1
+143, 5, 6, Deal Proposed, 0 Peace for 10 turns from 5 to 6; 0 Peace for 10 turns from 6 to 5; 3 Gold for 30 turns from 5 to 6; , 1344.5, 1
+143, 5, 6, Deal Closed, 0 Peace for 10 turns from 5 to 6; 0 Peace for 10 turns from 6 to 5; 3 Gold for 30 turns from 5 to 6; , 1344.5, 1
+143, 6, 5, Deal Rejected, 0 Peace for 10 turns from 5 to 6; 0 Peace for 10 turns from 6 to 5; 3 Gold for 30 turns from 5 to 6; , 1344.5, 1
+144, 2, 13, Gave Influence, , 1352.5, 0
+144, 6, 7, Met, , 1361.0, 1
+144, 7, 6, Met, , 1361.0, 1
+144, 9, 10, Gave Influence, , 1361.0, 0
+145, 2, 13, Gave Influence, , 1370.5, 0
+145, 6, 13, Gave Influence, , 1378.0, 0
+145, 7, 10, Met, , 1378.0, 0
+145, 10, 7, Met, , 1378.0, 1
+145, 20, Team 21, Individual Declaring War on Team START, Suzerain War, 1378.0
+145, 20, 21, At War, Suzerain War, 1378.0, 0
+145, 20, Team 21, Individual Declaring War on Team END, Suzerain War, 1380.0
+145, 8, 20, Gave Influence, , 1380.0, 0
+146, 5, 6, Deal Proposed, 0 Peace for 10 turns from 5 to 6; 0 Peace for 10 turns from 6 to 5; 10 Gold for 0 turns from 5 to 6; 3 Gold for 30 turns from 5 to 6; , 1395.5, 1
+146, 5, 6, Deal Closed, 0 Peace for 10 turns from 5 to 6; 0 Peace for 10 turns from 6 to 5; 10 Gold for 0 turns from 5 to 6; 3 Gold for 30 turns from 5 to 6; , 1395.5, 1
+146, 6, 5, Deal Rejected, 0 Peace for 10 turns from 5 to 6; 0 Peace for 10 turns from 6 to 5; 10 Gold for 0 turns from 5 to 6; 3 Gold for 30 turns from 5 to 6; , 1395.5, 1
+146, 6, 2, Deal Proposed, 5 RESOURCE_IRON for 0 turns from 2 to 6; 0 Open Borders for 30 turns from 6 to 2; 2 Gold for 0 turns from 6 to 2; 1 Gold for 30 turns from 6 to 2; , 1396.5, 1
+146, 6, 2, Deal Closed, 5 RESOURCE_IRON for 0 turns from 2 to 6; 0 Open Borders for 30 turns from 6 to 2; 2 Gold for 0 turns from 6 to 2; 1 Gold for 30 turns from 6 to 2; , 1396.5, 1
+146, 2, 6, Deal Rejected, 5 RESOURCE_IRON for 0 turns from 2 to 6; 0 Open Borders for 30 turns from 6 to 2; 2 Gold for 0 turns from 6 to 2; 1 Gold for 30 turns from 6 to 2; , 1396.5, 1
+147, 0, 15, Peace, , 1413.0, 0
+147, 1, 15, Peace, , 1413.0, 0
+147, 2, 15, Peace, , 1413.0, 0
+147, 3, 15, Peace, , 1413.0, 0
+147, 4, 15, Peace, , 1413.0, 0
+147, 5, 15, Peace, , 1413.0, 0
+147, 6, 15, Peace, , 1413.0, 0
+147, 7, 15, Peace, , 1413.0, 0
+147, 8, 15, Peace, , 1413.0, 0
+147, 9, 15, Peace, , 1413.0, 0
+147, 10, 15, Peace, , 1413.0, 0
+147, 11, 15, Peace, , 1413.0, 0
+147, 12, 15, Peace, , 1413.0, 0
+147, 13, 15, Peace, , 1413.0, 0
+147, 14, 15, Peace, , 1413.0, 0
+147, 16, 15, Peace, , 1413.0, 0
+147, 17, 15, Peace, , 1413.0, 0
+147, 18, 15, Peace, , 1413.0, 0
+147, 19, 15, Peace, , 1413.0, 0
+147, 20, 15, Peace, , 1413.0, 0
+147, 21, 15, Peace, , 1413.0, 0
+147, 22, 15, Peace, , 1413.0, 0
+147, 23, 15, Peace, , 1413.0, 0
+147, 24, 15, Peace, , 1413.0, 0
+147, 62, 15, Peace, , 1413.0, 0
+147, 63, 15, Peace, , 1413.0, 0
+147, 3, 15, City Capture, LOC_CITY_NAME_LISBON, 1422.0, 0
+147, 20, 21, Peace, , 1426.0, 0
+147, 4, 20, Gave Influence, , 1426.0, 0
+147, 20, Team 2, Individual Declaring War on Team START, Suzerain War, 1426.0
+147, 20, 2, Met, , 1426.0, 1
+147, 2, 20, Met, , 1426.0, 0
+147, 5, 20, Met, , 1426.0, 0
+147, 20, 5, Met, , 1426.0, 1
+147, 20, Team 5, Individual Declaring War on Team START, Suzerain War, 1426.0
+147, 20, 5, At War, Suzerain War, 1426.0, 1
+147, 10, Team 20, Individual Declaring War on Team START, Suzerain War, 1428.0
+147, 10, 20, Met, , 1428.0, 0
+147, 20, 10, Met, , 1428.0, 0
+147, 10, 20, At War, Suzerain War, 1428.0, 0
+147, 10, Team 20, Individual Declaring War on Team END, Suzerain War, 1430.0
+147, 18, Team 20, Individual Declaring War on Team START, Suzerain War, 1430.0
+147, 18, 20, Met, , 1430.0, 0
+147, 20, 18, Met, , 1430.0, 0
+147, 18, 20, At War, Suzerain War, 1430.0, 0
+147, 18, Team 20, Individual Declaring War on Team END, Suzerain War, 1432.0
+147, 20, Team 5, Individual Declaring War on Team END, Suzerain War, 1432.0
+147, 20, Team 5, Individual Declaring War on Team START, Suzerain War, 1432.0
+147, 20, 5, At War, Suzerain War, 1432.0, 1
+147, 10, Team 20, Individual Declaring War on Team START, Suzerain War, 1434.0
+147, 10, 20, At War, Suzerain War, 1434.0, 0
+147, 10, Team 20, Individual Declaring War on Team END, Suzerain War, 1436.0
+147, 18, Team 20, Individual Declaring War on Team START, Suzerain War, 1436.0
+147, 18, 20, At War, Suzerain War, 1436.0, 0
+147, 18, Team 20, Individual Declaring War on Team END, Suzerain War, 1438.0
+147, 20, Team 5, Individual Declaring War on Team END, Suzerain War, 1438.0
+147, 20, Team 2, Individual Declaring War on Team START, Suzerain War, 1438.0
+147, 20, 2, At War, Suzerain War, 1438.0, 1
+147, 20, Team 2, Individual Declaring War on Team END, Suzerain War, 1440.0
+147, 20, Team 2, Individual Declaring War on Team START, Suzerain War, 1440.0
+147, 20, 2, At War, Suzerain War, 1440.0, 1
+147, 20, Team 2, Individual Declaring War on Team END, Suzerain War, 1442.0
+147, 20, 2, At War, Suzerain War, 1442.0, 1
+147, 20, Team 2, Individual Declaring War on Team END, Suzerain War, 1444.0
+147, 20, Team 5, Individual Declaring War on Team START, Suzerain War, 1444.0
+147, 20, 5, At War, Suzerain War, 1444.0, 1
+147, 10, Team 20, Individual Declaring War on Team START, Suzerain War, 1446.0
+147, 10, 20, At War, Suzerain War, 1446.0, 0
+147, 10, Team 20, Individual Declaring War on Team END, Suzerain War, 1448.0
+147, 18, Team 20, Individual Declaring War on Team START, Suzerain War, 1448.0
+147, 18, 20, At War, Suzerain War, 1448.0, 0
+147, 18, Team 20, Individual Declaring War on Team END, Suzerain War, 1450.0
+147, 20, Team 5, Individual Declaring War on Team END, Suzerain War, 1450.0
+147, 20, Team 10, Individual Declaring War on Team START, Suzerain War, 1450.0
+147, 20, 10, At War, Suzerain War, 1450.0, 0
+147, 20, Team 10, Individual Declaring War on Team END, Suzerain War, 1452.0
+147, 20, Team 18, Individual Declaring War on Team START, Suzerain War, 1452.0
+147, 20, 18, At War, Suzerain War, 1452.0, 0
+147, 20, Team 18, Individual Declaring War on Team END, Suzerain War, 1454.0
+147, 4, 1, Met, , 1454.0, 1
+147, 1, 4, Met, , 1454.0, 1
+147, 4, 21, Met, , 1454.0, 0
+147, 21, 4, Met, , 1454.0, 1
+147, 4, 20, Gave Influence, , 1454.0, 0
+147, 6, 3, Denounced, , 1456.0, 1
+147, 7, 3, Denounced, , 1458.0, 2
+147, 7, 1, Deal Proposed, 20 RESOURCE_NITER for 0 turns from 1 to 7; 0 Open Borders for 30 turns from 7 to 1; 7 Gold for 0 turns from 7 to 1; 4 Gold for 30 turns from 7 to 1; , 1458.0, 1
+147, 7, 1, Deal Closed, 20 RESOURCE_NITER for 0 turns from 1 to 7; 0 Open Borders for 30 turns from 7 to 1; 7 Gold for 0 turns from 7 to 1; 4 Gold for 30 turns from 7 to 1; , 1458.0, 1
+147, 1, 7, Deal Rejected, 20 RESOURCE_NITER for 0 turns from 1 to 7; 0 Open Borders for 30 turns from 7 to 1; 7 Gold for 0 turns from 7 to 1; 4 Gold for 30 turns from 7 to 1; , 1458.0, 2
+147, 7, 4, Met, , 1458.0, 1
+147, 4, 7, Met, , 1458.0, 1
+147, 9, 4, Denounced, , 1459.0, 0
+148, 1, 22, Met, , 1470.0, 0
+148, 22, 1, Met, , 1470.0, 1
+148, 6, 9, Declared Friends, , 1472.0, 3
+148, 9, 6, Declared Friends, , 1472.0, 2
+148, 8, 9, Deal Proposed, 20 RESOURCE_NITER for 0 turns from 9 to 8; 0 Open Borders for 30 turns from 8 to 9; 7 Gold for 0 turns from 8 to 9; 4 Gold for 30 turns from 8 to 9; , 1472.0, 1
+148, 8, 9, Deal Closed, 20 RESOURCE_NITER for 0 turns from 9 to 8; 0 Open Borders for 30 turns from 8 to 9; 7 Gold for 0 turns from 8 to 9; 4 Gold for 30 turns from 8 to 9; , 1472.0, 1
+148, 9, 8, Deal Rejected, 20 RESOURCE_NITER for 0 turns from 9 to 8; 0 Open Borders for 30 turns from 8 to 9; 7 Gold for 0 turns from 8 to 9; 4 Gold for 30 turns from 8 to 9; , 1472.0, 0
+149, 1, 4, Denounced, , 1475.0, 1
+149, 13, Team 4, Individual Declaring War on Team START, Suzerain War, 1475.0
+149, 13, 4, Met, , 1475.0, 1
+149, 4, 13, Met, , 1475.0, 0
+149, 13, Team 4, Individual Declaring War on Team START, Suzerain War, 1475.0
+149, 13, 4, At War, Suzerain War, 1475.0, 1
+149, 11, Team 13, Individual Declaring War on Team START, Suzerain War, 1477.0
+149, 11, 13, Met, , 1477.0, 0
+149, 13, 11, Met, , 1477.0, 0
+149, 11, 13, At War, Suzerain War, 1477.0, 0
+149, 11, Team 13, Individual Declaring War on Team END, Suzerain War, 1479.0
+149, 20, Team 13, Individual Declaring War on Team START, Suzerain War, 1479.0
+149, 20, 13, Met, , 1479.0, 0
+149, 13, 20, Met, , 1479.0, 0
+149, 20, 13, At War, Suzerain War, 1479.0, 0
+149, 20, Team 13, Individual Declaring War on Team END, Suzerain War, 1481.0
+149, 13, Team 4, Individual Declaring War on Team END, Suzerain War, 1481.0
+149, 13, Team 4, Individual Declaring War on Team START, Suzerain War, 1481.0
+149, 13, 4, At War, Suzerain War, 1481.0, 1
+149, 11, Team 13, Individual Declaring War on Team START, Suzerain War, 1483.0
+149, 11, 13, At War, Suzerain War, 1483.0, 0
+149, 11, Team 13, Individual Declaring War on Team END, Suzerain War, 1485.0
+149, 20, Team 13, Individual Declaring War on Team START, Suzerain War, 1485.0
+149, 20, 13, At War, Suzerain War, 1485.0, 0
+149, 20, Team 13, Individual Declaring War on Team END, Suzerain War, 1487.0
+149, 13, Team 4, Individual Declaring War on Team END, Suzerain War, 1487.0
+149, 13, 4, At War, Suzerain War, 1487.0, 1
+149, 11, Team 13, Individual Declaring War on Team START, Suzerain War, 1489.0
+149, 11, 13, At War, Suzerain War, 1489.0, 0
+149, 11, Team 13, Individual Declaring War on Team END, Suzerain War, 1491.0
+149, 20, Team 13, Individual Declaring War on Team START, Suzerain War, 1491.0
+149, 20, 13, At War, Suzerain War, 1491.0, 0
+149, 20, Team 13, Individual Declaring War on Team END, Suzerain War, 1493.0
+149, 13, Team 4, Individual Declaring War on Team END, Suzerain War, 1493.0
+149, 13, Team 11, Individual Declaring War on Team START, Suzerain War, 1493.0
+149, 13, 11, At War, Suzerain War, 1493.0, 0
+149, 13, Team 11, Individual Declaring War on Team END, Suzerain War, 1495.0
+149, 13, Team 20, Individual Declaring War on Team START, Suzerain War, 1495.0
+149, 13, 20, At War, Suzerain War, 1495.0, 0
+149, 13, Team 20, Individual Declaring War on Team END, Suzerain War, 1497.0
+149, 2, 13, Gave Influence, , 1497.0, 0
+149, 5, 6, Deal Proposed, 0 Peace for 10 turns from 5 to 6; 0 Peace for 10 turns from 6 to 5; 2 Gold for 0 turns from 5 to 6; 4 Gold for 30 turns from 5 to 6; , 1497.0, 1
+149, 5, 6, Deal Closed, 0 Peace for 10 turns from 5 to 6; 0 Peace for 10 turns from 6 to 5; 2 Gold for 0 turns from 5 to 6; 4 Gold for 30 turns from 5 to 6; , 1497.0, 1
+149, 6, 5, Deal Rejected, 0 Peace for 10 turns from 5 to 6; 0 Peace for 10 turns from 6 to 5; 2 Gold for 0 turns from 5 to 6; 4 Gold for 30 turns from 5 to 6; , 1497.0, 1
+149, 7, 4, Denounced, , 1501.0, 1
+149, 7, 6, Deal Proposed, 20 RESOURCE_IRON for 0 turns from 6 to 7; 20 RESOURCE_HORSES for 0 turns from 6 to 7; 0 GreatWork for 0 turns from 7 to 6; 0 Open Borders for 30 turns from 7 to 6; 7 Gold for 0 turns from 7 to 6; 6 Gold for 30 turns from 7 to 6; , 1501.0, 1
+149, 7, 6, Deal Closed, 20 RESOURCE_IRON for 0 turns from 6 to 7; 20 RESOURCE_HORSES for 0 turns from 6 to 7; 0 GreatWork for 0 turns from 7 to 6; 0 Open Borders for 30 turns from 7 to 6; 7 Gold for 0 turns from 7 to 6; 6 Gold for 30 turns from 7 to 6; , 1501.0, 1
+149, 6, 7, Deal Rejected, 20 RESOURCE_IRON for 0 turns from 6 to 7; 20 RESOURCE_HORSES for 0 turns from 6 to 7; 0 GreatWork for 0 turns from 7 to 6; 0 Open Borders for 30 turns from 7 to 6; 7 Gold for 0 turns from 7 to 6; 6 Gold for 30 turns from 7 to 6; , 1501.0, 1
+149, 6, 9, Promise Made, Spy, 1501.0, 3
+150, 1, 23, Met, , 1510.0, 0
+150, 23, 1, Met, , 1510.0, 1
+150, 8, 7, Deal Proposed, 6 RESOURCE_NITER for 0 turns from 7 to 8; 0 Open Borders for 30 turns from 8 to 7; 9 Gold for 0 turns from 8 to 7; 1 Gold for 30 turns from 8 to 7; , 1512.0, 1
+150, 8, 7, Deal Closed, 6 RESOURCE_NITER for 0 turns from 7 to 8; 0 Open Borders for 30 turns from 8 to 7; 9 Gold for 0 turns from 8 to 7; 1 Gold for 30 turns from 8 to 7; , 1512.0, 1
+150, 7, 8, Deal Rejected, 6 RESOURCE_NITER for 0 turns from 7 to 8; 0 Open Borders for 30 turns from 8 to 7; 9 Gold for 0 turns from 8 to 7; 1 Gold for 30 turns from 8 to 7; , 1512.0, 1
+151, 2, 6, Deal Proposed, 0 GreatWork for 0 turns from 6 to 2; 8 Favor for 0 turns from 6 to 2; 0 GreatWork for 0 turns from 2 to 6; 0 Open Borders for 30 turns from 2 to 6; 6 Gold for 0 turns from 2 to 6; 14 Gold for 30 turns from 2 to 6; , 1514.5, 1
+151, 2, 6, Deal Closed, 0 GreatWork for 0 turns from 6 to 2; 8 Favor for 0 turns from 6 to 2; 0 GreatWork for 0 turns from 2 to 6; 0 Open Borders for 30 turns from 2 to 6; 6 Gold for 0 turns from 2 to 6; 14 Gold for 30 turns from 2 to 6; , 1514.5, 1
+151, 6, 2, Deal Rejected, 0 GreatWork for 0 turns from 6 to 2; 8 Favor for 0 turns from 6 to 2; 0 GreatWork for 0 turns from 2 to 6; 0 Open Borders for 30 turns from 2 to 6; 6 Gold for 0 turns from 2 to 6; 14 Gold for 30 turns from 2 to 6; , 1514.5, 1
+151, 2, 8, Deal Proposed, 30 Favor for 0 turns from 8 to 2; 0 Open Borders for 30 turns from 8 to 2; 0 Open Borders for 30 turns from 2 to 8; 5 Gold for 0 turns from 2 to 8; 7 Gold for 30 turns from 2 to 8; , 1514.5, 2
+151, 2, 8, Deal Closed, 30 Favor for 0 turns from 8 to 2; 0 Open Borders for 30 turns from 8 to 2; 0 Open Borders for 30 turns from 2 to 8; 5 Gold for 0 turns from 2 to 8; 7 Gold for 30 turns from 2 to 8; , 1514.5, 2
+151, 8, 2, Deal Rejected, 30 Favor for 0 turns from 8 to 2; 0 Open Borders for 30 turns from 8 to 2; 0 Open Borders for 30 turns from 2 to 8; 5 Gold for 0 turns from 2 to 8; 7 Gold for 30 turns from 2 to 8; , 1514.5, 1
+151, 2, 7, Deal Proposed, 6 RESOURCE_NITER for 0 turns from 7 to 2; 0 Open Borders for 30 turns from 2 to 7; 3 Gold for 0 turns from 2 to 7; 1 Gold for 30 turns from 2 to 7; , 1514.5, 1
+151, 2, 7, Deal Closed, 6 RESOURCE_NITER for 0 turns from 7 to 2; 0 Open Borders for 30 turns from 2 to 7; 3 Gold for 0 turns from 2 to 7; 1 Gold for 30 turns from 2 to 7; , 1514.5, 1
+151, 7, 2, Deal Rejected, 6 RESOURCE_NITER for 0 turns from 7 to 2; 0 Open Borders for 30 turns from 2 to 7; 3 Gold for 0 turns from 2 to 7; 1 Gold for 30 turns from 2 to 7; , 1514.5, 1
+151, 7, 2, Deal Proposed, 20 RESOURCE_HORSES for 0 turns from 2 to 7; 25 Favor for 0 turns from 2 to 7; 0 GreatWork for 0 turns from 7 to 2; 7 Gold for 0 turns from 7 to 2; 1 Gold for 30 turns from 7 to 2; , 1519.5, 1
+151, 7, 2, Deal Closed, 20 RESOURCE_HORSES for 0 turns from 2 to 7; 25 Favor for 0 turns from 2 to 7; 0 GreatWork for 0 turns from 7 to 2; 7 Gold for 0 turns from 7 to 2; 1 Gold for 30 turns from 7 to 2; , 1519.5, 1
+151, 2, 7, Deal Rejected, 20 RESOURCE_HORSES for 0 turns from 2 to 7; 25 Favor for 0 turns from 2 to 7; 0 GreatWork for 0 turns from 7 to 2; 7 Gold for 0 turns from 7 to 2; 1 Gold for 30 turns from 7 to 2; , 1519.5, 1
+151, 8, 6, Deal Proposed, 0 GreatWork for 0 turns from 6 to 8; 8 Favor for 0 turns from 6 to 8; 0 Open Borders for 30 turns from 8 to 6; 20 Gold for 30 turns from 8 to 6; , 1519.5, 1
+151, 8, 6, Deal Closed, 0 GreatWork for 0 turns from 6 to 8; 8 Favor for 0 turns from 6 to 8; 0 Open Borders for 30 turns from 8 to 6; 20 Gold for 30 turns from 8 to 6; , 1519.5, 1
+151, 6, 8, Deal Rejected, 0 GreatWork for 0 turns from 6 to 8; 8 Favor for 0 turns from 6 to 8; 0 Open Borders for 30 turns from 8 to 6; 20 Gold for 30 turns from 8 to 6; , 1519.5, 2

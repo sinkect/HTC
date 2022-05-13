@@ -1,0 +1,568 @@
+[INFO] - timeBeginPeriod( 1 )
+[INFO] - OpenGL version 4.6.0 NVIDIA 512.59
+[INFO] - GLSL version 4.60 NVIDIA
+[INFO] - Framebuffer ID: 1
+[INFO] - Renderbuffer ID: 1 size 1024x1024
+[INFO] - Initializing theoraplayer with theora support.
+[INFO] - Initializing Theoraplayer Video Playback Library (2.0)
+  - libtheora version: Xiph.Org libtheora 1.2.0alpha 20100924 (Ptalarbvorm)
+  - libvorbis version: Xiph.Org libVorbis 1.3.4
+------------------------------------
+[INFO] - Changing number of worker threads to: 1
+[INFO] - Running Lua Script: resources/scripts/enums.lua
+[INFO] - Lua mem usage: 736 KB and 411 bytes
+[INFO] - Running Lua Script: resources/scripts/main.lua
+[INFO] - Lua mem usage: 787 KB and 698 bytes
+[INFO] - Binding of Isaac: Repentance v1.7.8a.0000
+[INFO] - load archives: 7609 milliseconds
+[INFO] - Initialize ColorOffset Shader
+[INFO] - Initialize Pixelation Shader
+[INFO] - Initialize Bloom Shader
+[INFO] - Initialize Color Correction Shader
+[INFO] - Initialize HQ4X Shader
+[INFO] - Initialize Shockwave Shader
+[INFO] - Initialize OldTV Shader
+[INFO] - Initialize Water Surface Shader
+[INFO] - Initialize Water Surface V2 Shader
+[INFO] - Initialize Hallucination Shader
+[INFO] - Initialize Colormod Shader
+[INFO] - Initialize Color Offset Champion Shader
+[INFO] - Initialize Background Shader
+[INFO] - Initialize Water Overlay Shader
+[INFO] - Initialize Color Offset Dogma Shader
+[INFO] - Initialize Color Offset Gold Shader
+[INFO] - Initialize Dizzy Shader
+[INFO] - Initialize Heat Wave Shader
+[INFO] - Initialize Mirror Shader
+[INFO] - Setting PersistentGameData ReadOnly to False
+[INFO] - Viewport: 960x540
+[INFO] - Framebuffer Width: 960 
+ Render Width: 960 
+ Window Width: 960 
+ Multiplier: 2.250010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+[INFO] - Viewport: 1920x1080
+[INFO] - Framebuffer Width: 1920 
+ Render Width: 960 
+ Window Width: 1920 
+ Multiplier: 4.500010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+[INFO] - begin list mods
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/badass forgotten_2804480781/content/
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/debug_mode_834434536/content/
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/eid korean_1630138997/content/
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/goodtrip_1630477831/content/
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/josuke_943074431/content/
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/mei_842051906/content/
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/music mod callback rep_2491006386/content/
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/musicar_2788006730/content/
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/nopickupcap_1309404579/content/
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/old wardrobe_2488945061/content/
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/statchangecommands_1889162991/content/
+[INFO] - HQX4 size: 960x540
+[INFO] - Running Lua Script: D:\SteamLibrary\steamapps\common\The Binding of Isaac Rebirth/mods/eid korean_1630138997/main.lua
+[INFO] - Lua mem usage: 1529 KB and 979 bytes
+[INFO] - Running Lua Script: D:\SteamLibrary\steamapps\common\The Binding of Isaac Rebirth/mods/music mod callback rep_2491006386/main.lua
+[INFO] - Lua mem usage: 1593 KB and 13 bytes
+[INFO] - Running Lua Script: D:\SteamLibrary\steamapps\common\The Binding of Isaac Rebirth/mods/musicar_2788006730/main.lua
+[INFO] - Lua mem usage: 1719 KB and 101 bytes
+[INFO] - Running Lua Script: D:\SteamLibrary\steamapps\common\The Binding of Isaac Rebirth/mods/goodtrip_1630477831/main.lua
+[INFO] - Lua mem usage: 1766 KB and 713 bytes
+[ASSERT] - Invalid version 1 for d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/josuke_943074431/content/entities2.xml
+[INFO] - Running Lua Script: D:\SteamLibrary\steamapps\common\The Binding of Isaac Rebirth/mods/josuke_943074431/main.lua
+[INFO] - Lua mem usage: 1831 KB and 201 bytes
+[INFO] - Running Lua Script: D:\SteamLibrary\steamapps\common\The Binding of Isaac Rebirth/mods/mei_842051906/main.lua
+[INFO] - Lua mem usage: 2017 KB and 152 bytes
+[INFO] - Running Lua Script: D:\SteamLibrary\steamapps\common\The Binding of Isaac Rebirth/mods/nopickupcap_1309404579/main.lua
+[INFO] - Lua mem usage: 2045 KB and 804 bytes
+[INFO] - Running Lua Script: D:\SteamLibrary\steamapps\common\The Binding of Isaac Rebirth/mods/old wardrobe_2488945061/main.lua
+[INFO] - Lua mem usage: 2092 KB and 701 bytes
+[INFO] - Running Lua Script: D:\SteamLibrary\steamapps\common\The Binding of Isaac Rebirth/mods/statchangecommands_1889162991/main.lua
+[INFO] - Lua mem usage: 2101 KB and 838 bytes
+[INFO] - Viewport: 1920x1080
+[INFO] - Framebuffer Width: 1920 
+ Render Width: 960 
+ Window Width: 1920 
+ Multiplier: 4.500010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+[INFO] - Updating mod '!InutilLib'
+[INFO] - Updating mod ' Custom Stage API'
+[INFO] - Updating mod 'rebekah_curse'
+[INFO] - HQX4 size: 960x540
+[INFO] - Lua is resetting!
+[INFO] - Running Lua Script: resources/scripts/enums.lua
+[INFO] - Lua mem usage: 736 KB and 411 bytes
+[INFO] - Running Lua Script: resources/scripts/main.lua
+[INFO] - Lua mem usage: 787 KB and 698 bytes
+[INFO] - begin list mods
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/!inutillib_2002548257/content/
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/badass forgotten_2804480781/content/
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/debug_mode_834434536/content/
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/eid korean_1630138997/content/
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/goodtrip_1630477831/content/
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/josuke_943074431/content/
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/mei_842051906/content/
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/music mod callback rep_2491006386/content/
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/musicar_2788006730/content/
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/nopickupcap_1309404579/content/
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/old wardrobe_2488945061/content/
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/rebekah_curse_2540075442/content/
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/stageapi15_1348031964/content/
+[INFO] - LOADED MOD d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/statchangecommands_1889162991/content/
+[INFO] - Running Lua Script: D:\SteamLibrary\steamapps\common\The Binding of Isaac Rebirth/mods/stageapi15_1348031964/main.lua
+[INFO] - Lua Debug: [StageAPI] Loading Core Definitions
+[INFO] - Lua Debug: [StageAPI] Loading Library
+[INFO] - Lua Debug: [StageAPI] Loading Overlay System
+[INFO] - Lua Debug: [StageAPI] Loading Room List Handler
+[INFO] - Lua Debug: [StageAPI] Loading Custom Grid System
+[INFO] - Lua Debug: [StageAPI] Loading Extra Room Handler
+[INFO] - Lua Debug: [StageAPI] Loading Custom Door Handler
+[INFO] - Lua Debug: [StageAPI] Loading GridGfx Handler
+[INFO] - Lua Debug: [StageAPI] Loading Backdrop & RoomGfx Handling
+[INFO] - Lua Debug: [StageAPI] Loading CustomStage Handler
+[INFO] - Lua Debug: [StageAPI] Loading Stage Override Definitions
+[INFO] - Lua Debug: [StageAPI] Loading Boss Handler
+[INFO] - Lua Debug: [StageAPI] Loading Transition Handler
+[INFO] - Lua Debug: [StageAPI] Loading Rock Alt Breaking Override
+[INFO] - Lua Debug: [StageAPI] Loading Core Callbacks
+[INFO] - Lua Debug: [StageAPI] Loading Save System
+[INFO] - Lua Debug: [StageAPI] Loading Editor Features
+[INFO] - Lua Debug: [StageAPI] Loading Challenge Room / Greed Mode waves
+[INFO] - Lua Debug: [StageAPI] Loading BR Compatibility
+[INFO] - Lua Debug: [StageAPI] Loading Reimplementation Data
+[INFO] - Lua Debug: [StageAPI] Loading Mod Compat
+[INFO] - Lua Debug: [StageAPI] Fully Loaded, loading dependent mods.
+[INFO] - Lua Debug: [StageAPI] StageAPI Loaded v2.03
+[INFO] - Lua mem usage: 2521 KB and 455 bytes
+[INFO] - Running Lua Script: D:\SteamLibrary\steamapps\common\The Binding of Isaac Rebirth/mods/eid korean_1630138997/main.lua
+[INFO] - Lua mem usage: 3214 KB and 328 bytes
+[INFO] - Running Lua Script: D:\SteamLibrary\steamapps\common\The Binding of Isaac Rebirth/mods/music mod callback rep_2491006386/main.lua
+[INFO] - Lua mem usage: 3277 KB and 666 bytes
+[INFO] - Running Lua Script: D:\SteamLibrary\steamapps\common\The Binding of Isaac Rebirth/mods/!inutillib_2002548257/main.lua
+[INFO] - Lua Debug: 1
+[INFO] - Lua Debug: loaded!
+[INFO] - Lua mem usage: 3444 KB and 930 bytes
+[INFO] - Running Lua Script: D:\SteamLibrary\steamapps\common\The Binding of Isaac Rebirth/mods/musicar_2788006730/main.lua
+[INFO] - Lua mem usage: 3572 KB and 618 bytes
+[INFO] - Running Lua Script: D:\SteamLibrary\steamapps\common\The Binding of Isaac Rebirth/mods/goodtrip_1630477831/main.lua
+[INFO] - Lua mem usage: 3619 KB and 197 bytes
+[ASSERT] - Invalid version 1 for d:\steamlibrary\steamapps\common\the binding of isaac rebirth/mods/josuke_943074431/content/entities2.xml
+[INFO] - Running Lua Script: D:\SteamLibrary\steamapps\common\The Binding of Isaac Rebirth/mods/josuke_943074431/main.lua
+[INFO] - Lua mem usage: 3683 KB and 339 bytes
+[INFO] - Running Lua Script: D:\SteamLibrary\steamapps\common\The Binding of Isaac Rebirth/mods/mei_842051906/main.lua
+[INFO] - Lua mem usage: 3868 KB and 236 bytes
+[INFO] - Running Lua Script: D:\SteamLibrary\steamapps\common\The Binding of Isaac Rebirth/mods/nopickupcap_1309404579/main.lua
+[INFO] - Lua mem usage: 3896 KB and 814 bytes
+[INFO] - Running Lua Script: D:\SteamLibrary\steamapps\common\The Binding of Isaac Rebirth/mods/old wardrobe_2488945061/main.lua
+[INFO] - Lua mem usage: 3943 KB and 625 bytes
+[INFO] - Running Lua Script: D:\SteamLibrary\steamapps\common\The Binding of Isaac Rebirth/mods/rebekah_curse_2540075442/main.lua
+[INFO] - ERR: ...rth/mods/rebekah_curse_2540075442/codes/descriptions.lua:3: attempt to call a nil value (method 'setModIndicatorName')
+[INFO] - There was an error running the lua file: D:\SteamLibrary\steamapps\common\The Binding of Isaac Rebirth/mods/rebekah_curse_2540075442/main.lua
+[INFO] - Running Lua Script: D:\SteamLibrary\steamapps\common\The Binding of Isaac Rebirth/mods/statchangecommands_1889162991/main.lua
+[INFO] - Lua mem usage: 5178 KB and 16 bytes
+[INFO] - playing cutscene 1 (Intro).
+[INFO] - Renderbuffer ID: 1 size 2048x2048
+[INFO] - Framebuffer Width: 1920 
+ Render Width: 1920 
+ Window Width: 1920 
+ Multiplier: 0.222222 
+ DP per point: 1.000000 
+ Point Scale: 4.500000 
+[INFO] - HQX4 size: 1920x1080
+[INFO] - Viewport: 1920x1080
+[INFO] - Framebuffer Width: 1920 
+ Render Width: 960 
+ Window Width: 1920 
+ Multiplier: 4.500010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+[INFO] - HQX4 size: 960x540
+[INFO] - Menu Manager preCrossfade
+[INFO] - Menu Manager Init
+[INFO] - Menu Title Init
+[INFO] - Menu Save Init
+[INFO] - Menu_Save Pre Prompt init
+[INFO] - Menu_Save loading slot drawings
+[INFO] - Setting PersistentGameData ReadOnly to False
+[INFO] - Loading PersistentData 1 from SteamCloud!
+[INFO] - Loading PersistentGameData from Steam Cloud: rep_persistentgamedata1.dat.
+[INFO] - Reading chunk 1
+[INFO] - Reading Achievements
+[INFO] - Done Reading Achievements
+[INFO] - Reading chunk 2
+[INFO] - Reading Counters
+[INFO] - Done Reading Counters
+[INFO] - Reading chunk 3
+[INFO] - Reading Level Counters
+[INFO] - Done Reading Level Counters
+[INFO] - Reading chunk 4
+[INFO] - Reading Collectibles
+[INFO] - Done Reading Collectibles
+[INFO] - Reading chunk 5
+[INFO] - Reading Mini Bosses
+[INFO] - Done Reading Mini Bosses
+[INFO] - Reading chunk 6
+[INFO] - Reading Bosses
+[INFO] - Done Reading Bosses
+[INFO] - Reading chunk 7
+[INFO] - Reading Challenge Counters
+[INFO] - Done Reading Challenge Counters
+[INFO] - Reading chunk 8
+[INFO] - Reading Cutscene Counters
+[INFO] - Done Reading Cutscene Counters
+[INFO] - Reading chunk 9
+[INFO] - Reading GameSettings
+[INFO] - Done Reading GameSettings
+[INFO] - Reading chunk 10
+[INFO] - Reading Special Seed Counters
+[INFO] - Done Reading Special Seed Counters
+[INFO] - Reading chunk 11
+[INFO] - Reading Bestiary Counters
+[INFO] - Done Reading Bestiary Counters
+[INFO] - Saving PersistentGameData to Steam Cloud: rep_persistentgamedata1.dat.
+[INFO] - Loading GameState 1 from SteamCloud!
+[INFO] - GameState Version Loaded: 144
+[INFO] - Setting PersistentGameData ReadOnly to False
+[INFO] - Loading PersistentData 2 from SteamCloud!
+[INFO] - Loading PersistentGameData from Steam Cloud: rep_persistentgamedata2.dat.
+[INFO] - Reading chunk 1
+[INFO] - Reading Achievements
+[INFO] - Done Reading Achievements
+[INFO] - Reading chunk 2
+[INFO] - Reading Counters
+[INFO] - Done Reading Counters
+[INFO] - Reading chunk 3
+[INFO] - Reading Level Counters
+[INFO] - Done Reading Level Counters
+[INFO] - Reading chunk 4
+[INFO] - Reading Collectibles
+[INFO] - Done Reading Collectibles
+[INFO] - Reading chunk 5
+[INFO] - Reading Mini Bosses
+[INFO] - Done Reading Mini Bosses
+[INFO] - Reading chunk 6
+[INFO] - Reading Bosses
+[INFO] - Done Reading Bosses
+[INFO] - Reading chunk 7
+[INFO] - Reading Challenge Counters
+[INFO] - Done Reading Challenge Counters
+[INFO] - Reading chunk 8
+[INFO] - Reading Cutscene Counters
+[INFO] - Done Reading Cutscene Counters
+[INFO] - Reading chunk 9
+[INFO] - Reading GameSettings
+[INFO] - Done Reading GameSettings
+[INFO] - Reading chunk 10
+[INFO] - Reading Special Seed Counters
+[INFO] - Done Reading Special Seed Counters
+[INFO] - Reading chunk 11
+[INFO] - Reading Bestiary Counters
+[INFO] - Done Reading Bestiary Counters
+[INFO] - Saving PersistentGameData to Steam Cloud: rep_persistentgamedata2.dat.
+[INFO] - Loading GameState 2 from SteamCloud!
+[INFO] - SteamCloud could not find or open rep_gamestate2.dat. No Game State detected.
+[INFO] - SteamCloud could not find or open rep_rerunstate2.dat. No Rerun State detected.
+[INFO] - Cannot continue a game that doesn't have the same modding state (rep_rerunstate2.dat)!
+[INFO] - Setting PersistentGameData ReadOnly to False
+[INFO] - Loading PersistentData 3 from SteamCloud!
+[INFO] - Loading PersistentGameData from Steam Cloud: rep_persistentgamedata3.dat.
+[INFO] - Reading chunk 1
+[INFO] - Reading Achievements
+[INFO] - Done Reading Achievements
+[INFO] - Reading chunk 2
+[INFO] - Reading Counters
+[INFO] - Done Reading Counters
+[INFO] - Reading chunk 3
+[INFO] - Reading Level Counters
+[INFO] - Done Reading Level Counters
+[INFO] - Reading chunk 4
+[INFO] - Reading Collectibles
+[INFO] - Done Reading Collectibles
+[INFO] - Reading chunk 5
+[INFO] - Reading Mini Bosses
+[INFO] - Done Reading Mini Bosses
+[INFO] - Reading chunk 6
+[INFO] - Reading Bosses
+[INFO] - Done Reading Bosses
+[INFO] - Reading chunk 7
+[INFO] - Reading Challenge Counters
+[INFO] - Done Reading Challenge Counters
+[INFO] - Reading chunk 8
+[INFO] - Reading Cutscene Counters
+[INFO] - Done Reading Cutscene Counters
+[INFO] - Reading chunk 9
+[INFO] - Reading GameSettings
+[INFO] - Done Reading GameSettings
+[INFO] - Reading chunk 10
+[INFO] - Reading Special Seed Counters
+[INFO] - Done Reading Special Seed Counters
+[INFO] - Reading chunk 11
+[INFO] - Reading Bestiary Counters
+[INFO] - Done Reading Bestiary Counters
+[INFO] - Saving PersistentGameData to Steam Cloud: rep_persistentgamedata3.dat.
+[INFO] - Loading GameState 3 from SteamCloud!
+[INFO] - SteamCloud could not find or open rep_gamestate3.dat. No Game State detected.
+[INFO] - SteamCloud could not find or open rep_rerunstate3.dat. No Rerun State detected.
+[INFO] - Cannot continue a game that doesn't have the same modding state (rep_rerunstate3.dat)!
+[INFO] - Setting PersistentGameData ReadOnly to False
+[INFO] - Menu Game Init
+[INFO] - Menu Daily Init
+[INFO] - Menu Character Init
+[INFO] - Menu SpecialSeed Init
+[INFO] - Menu Challenge Init
+[INFO] - Menu Collection Init
+[INFO] - Menu Stats Init
+[INFO] - Menu Mods Init
+[INFO] - Menu Options Init
+[INFO] - Menu Controller Init
+[INFO] - Menu Key Config Init
+[INFO] - Menu Cutscene Init
+[INFO] - Menu Bestiary Init
+[INFO] - Menu Custom Challenge Init
+[INFO] - Setting PersistentGameData ReadOnly to False
+[INFO] - Loading PersistentData 1 from SteamCloud!
+[INFO] - Loading PersistentGameData from Steam Cloud: rep_persistentgamedata1.dat.
+[INFO] - Reading chunk 1
+[INFO] - Reading Achievements
+[INFO] - Done Reading Achievements
+[INFO] - Reading chunk 2
+[INFO] - Reading Counters
+[INFO] - Done Reading Counters
+[INFO] - Reading chunk 3
+[INFO] - Reading Level Counters
+[INFO] - Done Reading Level Counters
+[INFO] - Reading chunk 4
+[INFO] - Reading Collectibles
+[INFO] - Done Reading Collectibles
+[INFO] - Reading chunk 5
+[INFO] - Reading Mini Bosses
+[INFO] - Done Reading Mini Bosses
+[INFO] - Reading chunk 6
+[INFO] - Reading Bosses
+[INFO] - Done Reading Bosses
+[INFO] - Reading chunk 7
+[INFO] - Reading Challenge Counters
+[INFO] - Done Reading Challenge Counters
+[INFO] - Reading chunk 8
+[INFO] - Reading Cutscene Counters
+[INFO] - Done Reading Cutscene Counters
+[INFO] - Reading chunk 9
+[INFO] - Reading GameSettings
+[INFO] - Done Reading GameSettings
+[INFO] - Reading chunk 10
+[INFO] - Reading Special Seed Counters
+[INFO] - Done Reading Special Seed Counters
+[INFO] - Reading chunk 11
+[INFO] - Reading Bestiary Counters
+[INFO] - Done Reading Bestiary Counters
+[INFO] - Saving PersistentGameData to Steam Cloud: rep_persistentgamedata1.dat.
+[INFO] - Loading GameState 1 from SteamCloud!
+[INFO] - GameState Version Loaded: 144
+[INFO] - Saving PersistentGameData to Steam Cloud: rep_persistentgamedata1.dat.
+[INFO] - Setting PersistentGameData ReadOnly to False
+[INFO] - RNG Start Seed: 48G6 1CCK (3630347381) [New, 1]
+[INFO] - Pool greedLibrary not found, please recheck config or item pool listPool greedGoldenChest not found, please recheck config or item pool listPreload sound 0.
+[INFO] - Initialized player with Variant 0 and Subtype 57
+[INFO] - Lua Debug: c
+[INFO] - Lua Debug: b
+[INFO] - Level::Init m_Stage 1, m_StageType 2 Seed 3509796504
+[INFO] - delete 0 generated rooms.
+[INFO] - [RoomConfig] load stage 3: 불타는 지하실 (mode 0)
+[INFO] - allocate 1281 rooms.
+[INFO] - [ModManager] load stage 3: 불타는 지하실 (mode 0)
+[INFO] - reallocate 19 rooms.
+[INFO] - [ModManager] load stage 3: 불타는 지하실 (mode 0)
+[INFO] - [ModManager] load stage 3: 불타는 지하실 (mode 0)
+[INFO] - [ModManager] load stage 3: 불타는 지하실 (mode 0)
+[INFO] - [ModManager] load stage 3: 불타는 지하실 (mode 0)
+[INFO] - [ModManager] load stage 3: 불타는 지하실 (mode 0)
+[INFO] - [ModManager] load stage 3: 불타는 지하실 (mode 0)
+[INFO] - [ModManager] load stage 3: 불타는 지하실 (mode 0)
+[INFO] - [ModManager] load stage 3: 불타는 지하실 (mode 0)
+[INFO] - [ModManager] load stage 3: 불타는 지하실 (mode 0)
+[INFO] - [ModManager] load stage 3: 불타는 지하실 (mode 0)
+[INFO] - [ModManager] load stage 3: 불타는 지하실 (mode 0)
+[INFO] - [ModManager] load stage 3: 불타는 지하실 (mode 0)
+[INFO] - [ModManager] load stage 3: 불타는 지하실 (mode 0)
+[INFO] - [RoomConfig] load stage 0: 특별 방 (mode 0)
+[INFO] - allocate 1293 rooms.
+[INFO] - [ModManager] load stage 0: 특별 방 (mode 0)
+[INFO] - reallocate 532 rooms.
+[INFO] - [ModManager] load stage 0: 특별 방 (mode 0)
+[INFO] - [ModManager] load stage 0: 특별 방 (mode 0)
+[INFO] - [ModManager] load stage 0: 특별 방 (mode 0)
+[INFO] - [ModManager] load stage 0: 특별 방 (mode 0)
+[INFO] - [ModManager] load stage 0: 특별 방 (mode 0)
+[INFO] - [ModManager] load stage 0: 특별 방 (mode 0)
+[INFO] - [ModManager] load stage 0: 특별 방 (mode 0)
+[INFO] - [ModManager] load stage 0: 특별 방 (mode 0)
+[INFO] - [ModManager] load stage 0: 특별 방 (mode 0)
+[INFO] - [ModManager] load stage 0: 특별 방 (mode 0)
+[INFO] - [ModManager] load stage 0: 특별 방 (mode 0)
+[INFO] - [ModManager] load stage 0: 특별 방 (mode 0)
+[INFO] - [ModManager] load stage 0: 특별 방 (mode 0)
+[INFO] - generate...
+[INFO] - 12 rooms in 8 loops
+[INFO] - placing rooms...
+[INFO] - [RoomConfig] load stage 13: ??? (mode 0)
+[INFO] - allocate 30 rooms.
+[INFO] - [ModManager] load stage 13: ??? (mode 0)
+[INFO] - reallocate 19 rooms.
+[INFO] - [ModManager] load stage 13: ??? (mode 0)
+[INFO] - [ModManager] load stage 13: ??? (mode 0)
+[INFO] - [ModManager] load stage 13: ??? (mode 0)
+[INFO] - [ModManager] load stage 13: ??? (mode 0)
+[INFO] - [ModManager] load stage 13: ??? (mode 0)
+[INFO] - [ModManager] load stage 13: ??? (mode 0)
+[INFO] - [ModManager] load stage 13: ??? (mode 0)
+[INFO] - [ModManager] load stage 13: ??? (mode 0)
+[INFO] - [ModManager] load stage 13: ??? (mode 0)
+[INFO] - [ModManager] load stage 13: ??? (mode 0)
+[INFO] - [ModManager] load stage 13: ??? (mode 0)
+[INFO] - [ModManager] load stage 13: ??? (mode 0)
+[INFO] - [ModManager] load stage 13: ??? (mode 0)
+[INFO] - Map Generated in 1 Loops
+[INFO] - CURRENT ROOM INDEX 84 2b0183b4
+[INFO] - Room 1.2(Start Room)
+[INFO] - SpawnRNG seed: 858717152
+[INFO] - Lua mem usage: 5188 KB and 856 bytes
+[ASSERT] - Bad Index!
+[ASSERT] - Bad Index!
+[INFO] - Saving PersistentGameData to Steam Cloud: rep_persistentgamedata1.dat.
+[ASSERT] - Bad Index!
+[ASSERT] - Bad Index!
+[INFO] - Saving PersistentGameData to Steam Cloud: rep_persistentgamedata1.dat.
+[INFO] - [warn] ChangeRoom() called with current room index
+[INFO] - Room 1.2(Start Room)
+[INFO] - SpawnRNG seed: 858717152
+[INFO] - Lua mem usage: 5299 KB and 838 bytes
+[ASSERT] - Bad Index!
+[INFO] - Saving PersistentGameData to Steam Cloud: rep_persistentgamedata1.dat.
+[INFO] - Setting PersistentGameData ReadOnly to False
+[INFO] - CPU time spent on enemy queries: 0.00 seconds.
+[INFO] - Setting PersistentGameData ReadOnly to False
+[INFO] - RNG Start Seed: V93F 62TM (3491570079) [New, 1]
+[INFO] - Pool greedLibrary not found, please recheck config or item pool listPool greedGoldenChest not found, please recheck config or item pool listInitialized player with Variant 0 and Subtype 47
+[INFO] - Lua Debug: c
+[INFO] - Lua Debug: b
+[INFO] - Adding collectible 735 (Hugs N' Roses) to player 0 (Rebekah)
+[INFO] - Level::Init m_Stage 1, m_StageType 1 Seed 2493338972
+[INFO] - delete 0 generated rooms.
+[INFO] - [RoomConfig] load stage 2: 지하 창고 (mode 0)
+[INFO] - allocate 1112 rooms.
+[INFO] - [ModManager] load stage 2: 지하 창고 (mode 0)
+[INFO] - reallocate 19 rooms.
+[INFO] - [ModManager] load stage 2: 지하 창고 (mode 0)
+[INFO] - [ModManager] load stage 2: 지하 창고 (mode 0)
+[INFO] - [ModManager] load stage 2: 지하 창고 (mode 0)
+[INFO] - [ModManager] load stage 2: 지하 창고 (mode 0)
+[INFO] - [ModManager] load stage 2: 지하 창고 (mode 0)
+[INFO] - [ModManager] load stage 2: 지하 창고 (mode 0)
+[INFO] - [ModManager] load stage 2: 지하 창고 (mode 0)
+[INFO] - [ModManager] load stage 2: 지하 창고 (mode 0)
+[INFO] - [ModManager] load stage 2: 지하 창고 (mode 0)
+[INFO] - [ModManager] load stage 2: 지하 창고 (mode 0)
+[INFO] - [ModManager] load stage 2: 지하 창고 (mode 0)
+[INFO] - [ModManager] load stage 2: 지하 창고 (mode 0)
+[INFO] - [ModManager] load stage 2: 지하 창고 (mode 0)
+[INFO] - generate...
+[INFO] - place_room: shape 3
+[INFO] - 10 rooms in 7 loops
+[INFO] - not enough dead ends, trying to make new one
+[INFO] - placing rooms...
+[INFO] - Map Generated in 1 Loops
+[INFO] - CURRENT ROOM INDEX 84 2b0183b4
+[INFO] - Room 1.2(Start Room)
+[INFO] - SpawnRNG seed: 2869631076
+[INFO] - Lua mem usage: 5264 KB and 142 bytes
+[ASSERT] - Bad Index!
+[ASSERT] - Bad Index!
+[INFO] - Saving PersistentGameData to Steam Cloud: rep_persistentgamedata1.dat.
+[ASSERT] - Bad Index!
+[ASSERT] - Bad Index!
+[INFO] - [Rebekah] Error in "PostUpdate" call: ...rth/mods/rebekah_curse_2540075442/codes/slots/mirror.lua:334: attempt to index a nil value (global 'EIDRebekahsMirror')
+[INFO] - music stopped playing
+[INFO] - [Rebekah] Error in "PostUpdate" call: ...rth/mods/rebekah_curse_2540075442/codes/slots/mirror.lua:338: attempt to index a nil value (global 'EIDRebekahsMirror')
+[INFO] - [Rebekah] Error in "PostUpdate" call: ...rth/mods/rebekah_curse_2540075442/codes/slots/mirror.lua:336: attempt to index a nil value (global 'EIDRebekahsMirror')
+[INFO] - [Rebekah] Error in "PostUpdate" call: ...rth/mods/rebekah_curse_2540075442/codes/slots/mirror.lua:346: attempt to index a nil value (global 'EIDRebekahsMirror')
+[INFO] - [Rebekah] Error in "PostUpdate" call: ...rth/mods/rebekah_curse_2540075442/codes/slots/mirror.lua:332: attempt to index a nil value (global 'EIDRebekahsMirror')
+[INFO] - [Rebekah] Error in "PostUpdate" call: ...rth/mods/rebekah_curse_2540075442/codes/slots/mirror.lua:344: attempt to index a nil value (global 'EIDRebekahsMirror')
+[INFO] - Removing collectible 735 (Hugs N' Roses) from player 0 (Rotten Rebekah)
+[INFO] - Adding collectible 741 (Beelzebub's Breath) to player 0 (Rotten Rebekah)
+[INFO] - [Rebekah] Error in "PostUpdate" call: ...rth/mods/rebekah_curse_2540075442/codes/slots/mirror.lua:338: attempt to index a nil value (global 'EIDRebekahsMirror')
+[INFO] - [Rebekah] Error in "PostUpdate" call: ...rth/mods/rebekah_curse_2540075442/codes/slots/mirror.lua:336: attempt to index a nil value (global 'EIDRebekahsMirror')
+[INFO] - [Rebekah] Error in "PostUpdate" call: ...rth/mods/rebekah_curse_2540075442/codes/slots/mirror.lua:346: attempt to index a nil value (global 'EIDRebekahsMirror')
+[INFO] - [Rebekah] Error in "PostUpdate" call: ...rth/mods/rebekah_curse_2540075442/codes/slots/mirror.lua:332: attempt to index a nil value (global 'EIDRebekahsMirror')
+[INFO] - [Rebekah] Error in "PostUpdate" call: ...rth/mods/rebekah_curse_2540075442/codes/slots/mirror.lua:344: attempt to index a nil value (global 'EIDRebekahsMirror')
+[INFO] - [Rebekah] Error in "PostUpdate" call: ...rth/mods/rebekah_curse_2540075442/codes/slots/mirror.lua:342: attempt to index a nil value (global 'EIDRebekahsMirror')
+[INFO] - [Rebekah] Error in "PostUpdate" call: ...rth/mods/rebekah_curse_2540075442/codes/slots/mirror.lua:340: attempt to index a nil value (global 'EIDRebekahsMirror')
+[INFO] - [Rebekah] Error in "PostUpdate" call: ...rth/mods/rebekah_curse_2540075442/codes/slots/mirror.lua:334: attempt to index a nil value (global 'EIDRebekahsMirror')
+[INFO] - [Rebekah] Error in "PostUpdate" call: ...rth/mods/rebekah_curse_2540075442/codes/slots/mirror.lua:338: attempt to index a nil value (global 'EIDRebekahsMirror')
+[INFO] - [Rebekah] Error in "PostUpdate" call: ...rth/mods/rebekah_curse_2540075442/codes/slots/mirror.lua:336: attempt to index a nil value (global 'EIDRebekahsMirror')
+[INFO] - [Rebekah] Error in "PostUpdate" call: ...rth/mods/rebekah_curse_2540075442/codes/slots/mirror.lua:346: attempt to index a nil value (global 'EIDRebekahsMirror')
+[ASSERT] - Bad Index!
+[INFO] - [Rebekah] Error in "PostUpdate" call: ...rth/mods/rebekah_curse_2540075442/codes/slots/mirror.lua:332: attempt to index a nil value (global 'EIDRebekahsMirror')
+[INFO] - [Rebekah] Error in "PostUpdate" call: ...rth/mods/rebekah_curse_2540075442/codes/slots/mirror.lua:344: attempt to index a nil value (global 'EIDRebekahsMirror')
+[INFO] - [Rebekah] Error in "PostUpdate" call: ...rth/mods/rebekah_curse_2540075442/codes/slots/mirror.lua:342: attempt to index a nil value (global 'EIDRebekahsMirror')
+[INFO] - [Rebekah] Error in "PostUpdate" call: ...rth/mods/rebekah_curse_2540075442/codes/slots/mirror.lua:340: attempt to index a nil value (global 'EIDRebekahsMirror')
+[INFO] - [Rebekah] Error in "PostUpdate" call: ...rth/mods/rebekah_curse_2540075442/codes/slots/mirror.lua:334: attempt to index a nil value (global 'EIDRebekahsMirror')
+[ASSERT] - Bad Index!
+[INFO] - [Rebekah] Error in "PostUpdate" call: ...rth/mods/rebekah_curse_2540075442/codes/slots/mirror.lua:338: attempt to index a nil value (global 'EIDRebekahsMirror')
+[INFO] - [Rebekah] Error in "PostUpdate" call: ...rth/mods/rebekah_curse_2540075442/codes/slots/mirror.lua:336: attempt to index a nil value (global 'EIDRebekahsMirror')
+[INFO] - [Rebekah] Error in "PostUpdate" call: ...rth/mods/rebekah_curse_2540075442/codes/slots/mirror.lua:346: attempt to index a nil value (global 'EIDRebekahsMirror')
+[INFO] - [Rebekah] Error in "PostUpdate" call: ...rth/mods/rebekah_curse_2540075442/codes/slots/mirror.lua:332: attempt to index a nil value (global 'EIDRebekahsMirror')
+[INFO] - [Rebekah] Error in "PostUpdate" call: ...rth/mods/rebekah_curse_2540075442/codes/slots/mirror.lua:344: attempt to index a nil value (global 'EIDRebekahsMirror')
+[INFO] - [Rebekah] Error in "PostUpdate" call: ...rth/mods/rebekah_curse_2540075442/codes/slots/mirror.lua:342: attempt to index a nil value (global 'EIDRebekahsMirror')
+[INFO] - [Rebekah] Error in "PostUpdate" call: ...rth/mods/rebekah_curse_2540075442/codes/slots/mirror.lua:340: attempt to index a nil value (global 'EIDRebekahsMirror')
+[INFO] - [Rebekah] Error in "PostUpdate" call: ...rth/mods/rebekah_curse_2540075442/codes/slots/mirror.lua:334: attempt to index a nil value (global 'EIDRebekahsMirror')
+[INFO] - [Rebekah] Error in "PostUpdate" call: ...rth/mods/rebekah_curse_2540075442/codes/slots/mirror.lua:338: attempt to index a nil value (global 'EIDRebekahsMirror')
+[INFO] - [Rebekah] Error in "PostUpdate" call: ...rth/mods/rebekah_curse_2540075442/codes/slots/mirror.lua:336: attempt to index a nil value (global 'EIDRebekahsMirror')
+[INFO] - Room 1.277(New Room)
+[INFO] - SpawnRNG seed: 1553932794
+[INFO] - Spawn Entity with Type(240), Variant(0), Pos(160.00,160.00)
+[INFO] - Spawn Entity with Type(240), Variant(0), Pos(480.00,160.00)
+[INFO] - Spawn Entity with Type(33), Variant(0), Pos(80.00,200.00)
+[INFO] - Spawn Entity with Type(33), Variant(0), Pos(560.00,200.00)
+[INFO] - Spawn Entity with Type(250), Variant(0), Pos(320.00,320.00)
+[INFO] - Lua mem usage: 5446 KB and 931 bytes
+[ASSERT] - Bad Index!
+[INFO] - [warn] no music for ID 4 ().
+[INFO] - [Rebekah] Error in "PreEntityTakeDamage" call: .../mods/rebekah_curse_2540075442/codes/rebekah_A/basic.lua:834: attempt to index a nil value (global 'REBEKAHMODE_EXPERIMENTAL')
+[INFO] - [Rebekah] Error in "PreEntityTakeDamage" call: .../mods/rebekah_curse_2540075442/codes/rebekah_A/basic.lua:834: attempt to index a nil value (global 'REBEKAHMODE_EXPERIMENTAL')
+[INFO] - [Rebekah] Error in "PreEntityTakeDamage" call: .../mods/rebekah_curse_2540075442/codes/rebekah_A/basic.lua:834: attempt to index a nil value (global 'REBEKAHMODE_EXPERIMENTAL')
+[INFO] - [Rebekah] Error in "PreEntityTakeDamage" call: .../mods/rebekah_curse_2540075442/codes/rebekah_A/basic.lua:834: attempt to index a nil value (global 'REBEKAHMODE_EXPERIMENTAL')
+[INFO] - [Rebekah] Error in "PreEntityTakeDamage" call: .../mods/rebekah_curse_2540075442/codes/rebekah_A/basic.lua:834: attempt to index a nil value (global 'REBEKAHMODE_EXPERIMENTAL')
+[INFO] - [Rebekah] Error in "PreEntityTakeDamage" call: .../mods/rebekah_curse_2540075442/codes/rebekah_A/basic.lua:834: attempt to index a nil value (global 'REBEKAHMODE_EXPERIMENTAL')
+[INFO] - [Rebekah] Error in "PreEntityTakeDamage" call: .../mods/rebekah_curse_2540075442/codes/rebekah_A/basic.lua:834: attempt to index a nil value (global 'REBEKAHMODE_EXPERIMENTAL')
+[INFO] - [Rebekah] Error in "PreEntityTakeDamage" call: .../mods/rebekah_curse_2540075442/codes/rebekah_A/basic.lua:834: attempt to index a nil value (global 'REBEKAHMODE_EXPERIMENTAL')
+[INFO] - [Rebekah] Error in "PreEntityTakeDamage" call: .../mods/rebekah_curse_2540075442/codes/rebekah_A/basic.lua:834: attempt to index a nil value (global 'REBEKAHMODE_EXPERIMENTAL')
+[INFO] - [Rebekah] Error in "PreEntityTakeDamage" call: .../mods/rebekah_curse_2540075442/codes/rebekah_A/basic.lua:834: attempt to index a nil value (global 'REBEKAHMODE_EXPERIMENTAL')
+[INFO] - [Rebekah] Error in "PreEntityTakeDamage" call: .../mods/rebekah_curse_2540075442/codes/rebekah_A/basic.lua:834: attempt to index a nil value (global 'REBEKAHMODE_EXPERIMENTAL')
+[INFO] - [Rebekah] Error in "PreEntityTakeDamage" call: .../mods/rebekah_curse_2540075442/codes/rebekah_A/basic.lua:834: attempt to index a nil value (global 'REBEKAHMODE_EXPERIMENTAL')
+[INFO] - Queued Path music/the cellar layer.ogg
+[INFO] - Queued Path music/the cellar alt.ogg
+[INFO] - [Rebekah] Error in "PreEntityTakeDamage" call: .../mods/rebekah_curse_2540075442/codes/rebekah_A/basic.lua:834: attempt to index a nil value (global 'REBEKAHMODE_EXPERIMENTAL')
+[INFO] - [Rebekah] Error in "PreEntityTakeDamage" call: .../mods/rebekah_curse_2540075442/codes/rebekah_A/basic.lua:834: attempt to index a nil value (global 'REBEKAHMODE_EXPERIMENTAL')
+[INFO] - [Rebekah] Error in "PreEntityTakeDamage" call: .../mods/rebekah_curse_2540075442/codes/rebekah_A/basic.lua:834: attempt to index a nil value (global 'REBEKAHMODE_EXPERIMENTAL')
+[INFO] - [Rebekah] Error in "PreEntityTakeDamage" call: .../mods/rebekah_curse_2540075442/codes/rebekah_A/basic.lua:834: attempt to index a nil value (global 'REBEKAHMODE_EXPERIMENTAL')
+[INFO] - [Rebekah] Error in "PreEntityTakeDamage" call: .../mods/rebekah_curse_2540075442/codes/rebekah_A/basic.lua:834: attempt to index a nil value (global 'REBEKAHMODE_EXPERIMENTAL')
+[INFO] - [Rebekah] Error in "PostPickupInit" call: ...rebekah_curse_2540075442/codes/pocketitems/easteregg.lua:140: attempt to index a nil value (global 'REBEKAHMODE_EXPERIMENTAL')
+[ASSERT] - Bad Index!
+[INFO] - Room 4.16()
+[INFO] - SpawnRNG seed: 3072722274
+[INFO] - [Rebekah] Error in "PostPickupInit" call: ...rebekah_curse_2540075442/codes/pocketitems/easteregg.lua:140: attempt to index a nil value (global 'REBEKAHMODE_EXPERIMENTAL')
+[INFO] - Spawn Entity with Type(5), Variant(100), Pos(320.00,280.00)
+[INFO] - Lua mem usage: 5461 KB and 5 bytes
+[ASSERT] - Bad Index!
+[INFO] - [warn] no music for ID 4 ().
+[INFO] - Lua stack trace:
+[INFO] - [C](-1): IsClear
+[INFO] - ...ing of Isaac Rebirth/mods/!inutillib_2002548257/main.lua(2073): RoomIsSafe
+[INFO] - ...ing of Isaac Rebirth/mods/!inutillib_2002548257/main.lua(3853): AnimateIsaacAchievement
+[INFO] - ...ing of Isaac Rebirth/mods/!inutillib_2002548257/main.lua(3856): ?
+[INFO] - ...ing of Isaac Rebirth/mods/!inutillib_2002548257/main.lua(2131): UpdateTimers
+[INFO] - ...ing of Isaac Rebirth/mods/!inutillib_2002548257/main.lua(2162): ?
+[INFO] - Caught exception, writing minidump...

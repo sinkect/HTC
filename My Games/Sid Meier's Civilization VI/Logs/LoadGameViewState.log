@@ -1,0 +1,76 @@
+[2022-04-03 13:10:49]	LoadGameViewState::Begin()
+[2022-04-03 13:10:49]	LoadGameViewState::LoadUI()
+[2022-04-03 13:10:49]	CONFIGURE_CONTENT Begin
+[2022-04-03 13:10:58]	CONFIGURE_CONTENT took 8.6711 seconds
+[2022-04-03 13:10:58]	GAMECORE_NEW_GAME Begin
+[2022-04-03 13:11:02]		,Block on asset load took 0.0000 seconds
+[2022-04-03 13:11:08]		,InitializeNewGame took 6.4835 seconds
+[2022-04-03 13:11:08]	GAMECORE_NEW_GAME End
+[2022-04-03 13:11:08]	GAMECORE_INITIALIZATION_DONE Begin
+[2022-04-03 13:11:10]		,GameViewState::LoadUI took 0.0000 seconds
+[2022-04-03 13:11:11]		,Post-GameCore asset load took 0.4229 seconds
+[2022-04-03 13:11:11]	GAMECORE_INITIALIZATION_DONE took 2.7932 seconds
+[2022-04-03 13:11:11]	WAIT_FOR_PLAYERS Begin
+[2022-04-03 13:11:18]		,GameViewState::StartupGame took 7.0112 seconds
+[2022-04-03 13:11:18]		,StartupGame asset load took 0.0000 seconds
+[2022-04-03 13:11:18]	WAIT_FOR_PLAYERS End
+[2022-04-03 13:11:20]	PostLoadTime: 2.5495 seconds
+[2022-04-03 13:11:23]	LoadGameViewState::End()
+[2022-04-03 13:11:23]	LoadGameViewState::UnloadUI()
+[2022-04-03 13:14:06]	LoadGameViewState::Begin()
+[2022-04-03 13:14:06]	LoadGameViewState::LoadUI()
+[2022-04-03 13:14:06]	CONFIGURE_CONTENT Begin
+[2022-04-03 13:14:15]	CONFIGURE_CONTENT took 9.6932 seconds
+[2022-04-03 13:14:15]	GAMECORE_NEW_GAME Begin
+[2022-04-03 13:14:19]		,Block on asset load took 0.0000 seconds
+[2022-04-03 13:14:46]		,InitializeNewGame took 26.5669 seconds
+[2022-04-03 13:14:46]	GAMECORE_NEW_GAME End
+[2022-04-03 13:14:46]	GAMECORE_INITIALIZATION_DONE Begin
+[2022-04-03 13:14:48]		,GameViewState::LoadUI took 0.0000 seconds
+[2022-04-03 13:14:48]		,Post-GameCore asset load took 0.3971 seconds
+[2022-04-03 13:14:48]	GAMECORE_INITIALIZATION_DONE took 2.6084 seconds
+[2022-04-03 13:14:48]	WAIT_FOR_PLAYERS Begin
+[2022-04-03 13:15:00]		,GameViewState::StartupGame took 11.5655 seconds
+[2022-04-03 13:15:00]		,StartupGame asset load took 0.0000 seconds
+[2022-04-03 13:15:00]	WAIT_FOR_PLAYERS End
+[2022-04-03 13:15:04]	PostLoadTime: 3.8854 seconds
+[2022-04-03 13:15:07]	LoadGameViewState::End()
+[2022-04-03 13:15:07]	LoadGameViewState::UnloadUI()
+[2022-04-03 13:17:02]	LoadGameViewState::Begin()
+[2022-04-03 13:17:02]	LoadGameViewState::LoadUI()
+[2022-04-03 13:17:02]	CONFIGURE_CONTENT Begin
+[2022-04-03 13:17:11]	CONFIGURE_CONTENT took 8.7644 seconds
+[2022-04-03 13:17:11]	GAMECORE_NEW_GAME Begin
+[2022-04-03 13:17:15]		,Block on asset load took 0.0000 seconds
+[2022-04-03 13:17:40]		,InitializeNewGame took 24.9757 seconds
+[2022-04-03 13:17:40]	GAMECORE_NEW_GAME End
+[2022-04-03 13:17:40]	GAMECORE_INITIALIZATION_DONE Begin
+[2022-04-03 13:17:42]		,GameViewState::LoadUI took 0.0000 seconds
+[2022-04-03 13:17:42]		,Post-GameCore asset load took 0.3895 seconds
+[2022-04-03 13:17:42]	GAMECORE_INITIALIZATION_DONE took 2.5777 seconds
+[2022-04-03 13:17:42]	WAIT_FOR_PLAYERS Begin
+[2022-04-03 13:17:54]		,GameViewState::StartupGame took 11.6448 seconds
+[2022-04-03 13:17:54]		,StartupGame asset load took 0.0000 seconds
+[2022-04-03 13:17:54]	WAIT_FOR_PLAYERS End
+[2022-04-03 13:17:58]	PostLoadTime: 3.9072 seconds
+[2022-04-03 13:18:01]	LoadGameViewState::End()
+[2022-04-03 13:18:01]	LoadGameViewState::UnloadUI()
+[2022-04-03 13:21:08]	LoadGameViewState::Begin()
+[2022-04-03 13:21:08]	LoadGameViewState::LoadUI()
+[2022-04-03 13:21:08]	CONFIGURE_CONTENT Begin
+[2022-04-03 13:21:17]	CONFIGURE_CONTENT took 8.7756 seconds
+[2022-04-03 13:21:17]	GAMECORE_NEW_GAME Begin
+[2022-04-03 13:21:21]		,Block on asset load took 0.0000 seconds
+[2022-04-03 13:21:46]		,InitializeNewGame took 25.2813 seconds
+[2022-04-03 13:21:46]	GAMECORE_NEW_GAME End
+[2022-04-03 13:21:46]	GAMECORE_INITIALIZATION_DONE Begin
+[2022-04-03 13:21:48]		,GameViewState::LoadUI took 0.0000 seconds
+[2022-04-03 13:21:49]		,Post-GameCore asset load took 0.3956 seconds
+[2022-04-03 13:21:49]	GAMECORE_INITIALIZATION_DONE took 2.5245 seconds
+[2022-04-03 13:21:49]	WAIT_FOR_PLAYERS Begin
+[2022-04-03 13:22:00]		,GameViewState::StartupGame took 11.2250 seconds
+[2022-04-03 13:22:00]		,StartupGame asset load took 0.0000 seconds
+[2022-04-03 13:22:00]	WAIT_FOR_PLAYERS End
+[2022-04-03 13:22:04]	PostLoadTime: 3.9839 seconds
+[2022-04-03 13:22:09]	LoadGameViewState::End()
+[2022-04-03 13:22:09]	LoadGameViewState::UnloadUI()
